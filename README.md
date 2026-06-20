@@ -3,6 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,9,5,3,1&height=120&section=header&text=Ruslan%20Strogov&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=25" />
 
   <p>
+    <a href="README.ru.md"><img src="https://img.shields.io/badge/🇷🇺%20Русский-8B5CF6?style=flat-square" alt="Русский"/></a>
     <a href="https://github.com/RuslanStrogov"><img src="https://img.shields.io/github/followers/RuslanStrogov?style=social" alt="Followers"/></a>
     <a href="mailto:ruslan@strogov.com"><img src="https://img.shields.io/badge/Email-ruslan%40strogov.com-8B5CF6?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
     <a href="http://strogov.com"><img src="https://img.shields.io/badge/Website-strogov.com-06B6D4?style=flat-square&logo=google-chrome&logoColor=white" alt="Website"/></a>
