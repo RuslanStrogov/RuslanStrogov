@@ -33,6 +33,35 @@
 
 ## 💼 Опыт работы
 
+<div align="center">
+
+### 🟢 ИЩУ РАБОТУ
+
+**Fullstack-разработчик (TypeScript / Python / AI)**
+Открыт к удалённым позициям в сильных продуктовых компаниях. Интересны: **AI-агенты, бот-платформы, Computer Vision, стриминг, инфраструктура.** Стабильный долгосрочный контракт > фриланса.
+
+<div align="center">
+  <a href="https://hh.ru/resume/806cdf03ff1033cacf0039ed1f6961667a4957">
+    <img src="https://img.shields.io/badge/Резюме_1-HeadHunter-FF4D4D?style=for-the-badge" alt="Резюме 1"/>
+  </a>
+  <a href="https://hh.ru/resume/dc01d72dff0b5c58300039ed1f303244465547">
+    <img src="https://img.shields.io/badge/Резюме_2-HeadHunter-FF4D4D?style=for-the-badge" alt="Резюме 2"/>
+  </a>
+  <a href="https://hh.ru/applicant/resumes/view?resume=806cdf03ff1033cacf0039ed1f6961667a4957">
+    <img src="https://img.shields.io/badge/Профиль_HH-FF4D4D?style=for-the-badge" alt="Профиль HH"/>
+  </a>
+  <a href="https://linkedin.com/in/ruslanstrogov">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://t.me/brombombom">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+  </a>
+</div>
+
+</div>
+
+---
+
 ### Текущие позиции
 
 **Директор IT-департамента** — [АйКью Регион](https://iq-region.ru/) *(Июль 2025 — настоящее время)*
@@ -149,58 +178,6 @@
   </a>
 
 </div>
-
----
-
-## 🏢 Организации
-
-Организации — аккаунты для команд и компаний. Другие пользователи GitHub **видят список организаций** на вашем профиле. Репозитории организаций видны в зависимости от настроек:
-
-- **🌐 Public** — видны всем пользователям GitHub
-- **🔒 Private** — видны только участникам организации
-
-| Организация | Описание | Видимость | Репозиториев | Доступ |
-|---|---|---|---|---|
-| [StrelaBPLA](https://github.com/StrelaBPLA) | 🚁 ПО для управления полётами INAV и дрон-системы | 🌐 Публичные + 🔒 Приватные | 3 (2 public, 1 private) | Участник |
-| [auto-visor](https://github.com/auto-visor) | 🚗 AI-детекция транспорта и анализ дорожного движения | 🔒 Все приватные | 11 | Участник |
-| [IQ-Region](https://github.com/IQ-Region) | 🏢 Программные решения (ООО «АйКью Регион») | 🔒 Все приватные | 5 | Владелец |
-| [BM-Group-Software](https://github.com/BM-Group-Software) | 💻 NX-монорепозиторий, корпоративное ПО | 🔒 Все приватные | 1 | Участник |
-
-### Детали по организациям
-
-#### StrelaBPLA
-Конструкторское бюро «Стрела» — разработка ПО для аэрокосмической отрасли.
-- **Публичные:**
-  - [inav](https://github.com/StrelaBPLA/inav) — INAV: Navigation-enabled flight control software (GPL-3.0)
-  - [inav-configurator](https://github.com/StrelaBPLA/inav-configurator) — INAV Configurator (GPL-3.0)
-- **Приватные:**
-  - crsf-vrx-interface — CRSF VRX Interface (C)
-
-#### auto-visor
-AI-система детекции и анализа дорожного движения.
-- **Приватные (11):**
-  - seenauto — Monorepo API+APP (NestJS, Next.js, YOLO)
-  - seenauto-ai-filesystem — AI filesystem (Python, Docker, YOLO)
-  - seenauto-keras-yolo3 — Neural network (Python, TensorFlow)
-  - seenauto-test-stack-1/hasyx — тестовые стеки
-  - GetImageTrack — C# computer vision
-  - WIM_Form.ugadn — C# WinForms frontend
-  - UnicamWeb — PHP web interface
-  - auto-visor-ru-static-html — Landing page (HTML/CSS)
-  - Vehicle-Detection-and-Traffic-Assessment — YOLO11L real-time system (Jupyter)
-
-#### IQ-Region
-ООО «АйКью Регион» — системная интеграция и разработка ПО.
-- **Приватные (5):**
-  - asudd-hasyx — Telegram-бот и веб-фреймворк (Next.js, TypeScript)
-  - arduino-tl-controller — Контроллер Arduino (C++, IoT)
-  - asudd-hasix — утилиты
-  - iq-grz-detection — детекция
-
-#### BM-Group-Software
-Группа БИЭМ — корпоративная разработка.
-- **Приватные (1):**
-  - termosystem — NX моно-репозиторий (NestJS, Angular, Electron)
 
 ---
 
