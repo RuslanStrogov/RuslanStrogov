@@ -35,10 +35,12 @@
 
 <div align="center">
 
-### 🟢 ИЩУ РАБОТУ
+<h2><b>🟢 ИЩУ РАБОТУ</b></h2>
 
-**Fullstack-разработчик (TypeScript / Python / AI)**
-Открыт к удалённым позициям в сильных продуктовых компаниях. Интересны: **AI-агенты, бот-платформы, Computer Vision, стриминг, инфраструктура.** Стабильный долгосрочный контракт > фриланса.
+<p style="font-size: 1.4em;"><b>Fullstack-разработчик (TypeScript / Python / AI)</b><br>
+Открыт к удалённым позициям в сильных продуктовых компаниях.<br>
+Интересны: <b>AI-агенты, бот-платформы, Computer Vision, стриминг, инфраструктура.</b><br>
+Стабильный долгосрочный контракт > фриланса.</p>
 
 <div align="center">
   <a href="https://hh.ru/resume/806cdf03ff1033cacf0039ed1f6961667a4957">
@@ -188,63 +190,63 @@
 ### Языки программирования
 | Язык | Используется в |
 |---|---|
-| **TypeScript** | brom-casino, seenauto, max-openclaw, asudd-hasyx, termosystem, nx-nest-angular-ionic, robotics-core-ui, pwi-dashboard-api, axbit-angular-test, angular-* |
-| **Python** | max-hermes, max-hermes-plugin, seenauto-keras-yolo3, seenauto-ai-filesystem, Vehicle-Detection, image_vector_database, cursor-tg-bot, tg-to-vk-mirror, wb-auto-pricing, emergency-backups, robot-catty |
-| **JavaScript** | chrome-roonyx, com-pinger, pwi-streaming-server, pro-inav-configurator, mindbody, nwi-ionic-angular |
-| **C++** | arduino-tl-controller |
-| **C** | crsf-vrx-interface |
-| **C#** | GetImageTrack, WIM_Form.ugadn, seenauto-ai-filesystem |
-| **HTML/CSS** | auto-visor-ru-static-html, mi-band-watchface-editor-material, pwi-angular, UnicamWeb |
-| **PHP** | UnicamWeb |
-| **Jupyter Notebook** | Vehicle-Detection-and-Traffic-Assessment |
+| ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) | brom-casino, seenauto, max-openclaw, asudd-hasyx, termosystem, nx-nest-angular-ionic, robotics-core-ui, pwi-dashboard-api, axbit-angular-test, angular-* |
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | max-hermes, max-hermes-plugin, seenauto-keras-yolo3, seenauto-ai-filesystem, Vehicle-Detection, image_vector_database, cursor-tg-bot, tg-to-vk-mirror, wb-auto-pricing, emergency-backups, robot-catty |
+| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | chrome-roonyx, com-pinger, pwi-streaming-server, pro-inav-configurator, mindbody, nwi-ionic-angular |
+| ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) | arduino-tl-controller |
+| ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black) | crsf-vrx-interface |
+| ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white) | GetImageTrack, WIM_Form.ugadn, seenauto-ai-filesystem |
+| ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) | auto-visor-ru-static-html, mi-band-watchface-editor-material, pwi-angular, UnicamWeb |
+| ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) | UnicamWeb |
+| ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) | Vehicle-Detection-and-Traffic-Assessment |
 
 ### Фреймворки и библиотеки
 | Фреймворк | Используется в |
 |---|---|
-| **NestJS** | brom-casino, seenauto, termosystem, robotics-core-ui |
-| **Next.js** | brom-casino, seenauto, asudd-hasyx |
-| **React** | brom-casino, robotics-core-ui |
-| **Angular** | brom-casino, robotics-core-ui, termosystem, nx-nest-angular-ionic, angular-*, pwi-angular |
-| **Nx** | brom-casino, seenauto, termosystem, nx-nest-angular-ionic, robotics-core-ui |
-| **FastAPI** | max-hermes, max-hermes-plugin |
-| **Turborepo** | brom-casino |
-| **Express** | robot-catty, mindbody, pwi-streaming-server |
-| **Ionic** | nx-nest-angular-ionic, taxi-api-web-mobile |
-| **Electron** | termosystem |
+| ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white) | brom-casino, seenauto, termosystem, robotics-core-ui |
+| ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white) | brom-casino, seenauto, asudd-hasyx |
+| ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) | brom-casino, robotics-core-ui |
+| ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white) | brom-casino, robotics-core-ui, termosystem, nx-nest-angular-ionic, angular-*, pwi-angular |
+| ![Nx](https://img.shields.io/badge/Nx-143055?style=flat-square&logo=nx&logoColor=white) | brom-casino, seenauto, termosystem, nx-nest-angular-ionic, robotics-core-ui |
+| ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) | max-hermes, max-hermes-plugin |
+| ![Turborepo](https://img.shields.io/badge/Turborepo-EF4444?style=flat-square&logo=turborepo&logoColor=white) | brom-casino |
+| ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white) | robot-catty, mindbody, pwi-streaming-server |
+| ![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=flat-square&logo=ionic&logoColor=white) | nx-nest-angular-ionic, taxi-api-web-mobile |
+| ![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white) | termosystem |
 
 ### AI / ML / Computer Vision
 | Технология | Используется в |
 |---|---|
-| **YOLO / YOLO11L** | seenauto, seenauto-keras-yolo3, seenauto-ai-filesystem, Vehicle-Detection |
-| **TensorFlow / Keras** | seenauto-keras-yolo3 |
-| **PyTorch** | image_vector_database |
-| **OpenCV** | Vehicle-Detection |
-| **Ultralytics** | seenauto-ai-filesystem |
+| ![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=flat-square&logo=data:image/svg+xml;base64,&logoColor=black) | seenauto, seenauto-keras-yolo3, seenauto-ai-filesystem, Vehicle-Detection |
+| ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white) | seenauto-keras-yolo3 |
+| ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) | image_vector_database |
+| ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) | Vehicle-Detection |
+| ![Ultralytics](https://img.shields.io/badge/Ultralytics-00B0FF?style=flat-square) | seenauto-ai-filesystem |
 | **Jupyter** | Vehicle-Detection, image_vector_database |
 
 ### Инфраструктура и базы данных
 | Технология | Используется в |
 |---|---|
-| **PostgreSQL** | brom-casino |
-| **Redis** | brom-casino |
-| **Docker** | brom-casino, seenauto, seenauto-ai-filesystem, Vehicle-Detection, max-hermes |
-| **systemd** | max-hermes |
-| **Nginx/Traefik** | discopanel |
-| **Authelia** | discopanel |
+| ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) | brom-casino |
+| ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) | brom-casino |
+| ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) | brom-casino, seenauto, seenauto-ai-filesystem, Vehicle-Detection, max-hermes |
+| ![Linux](https://img.shields.io/badge/systemd-FCC624?style=flat-square&logo=linux&logoColor=black) | max-hermes |
+| ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white) ![Traefik](https://img.shields.io/badge/Traefik-24A1C1?style=flat-square&logo=traefik&logoColor=white) | discopanel |
+| ![Authelia](https://img.shields.io/badge/Authelia-7239B3?style=flat-square) | discopanel |
 
 ### Боты и мессенджеры
 | Платформа | Проекты |
 |---|---|
-| **Telegram Bot API** | cursor-tg-bot, max-hermes, max-hermes-plugin, max-openclaw, brom-casino (mini-app), wb-auto-pricing, emergency-backups (5 агентов) |
-| **MAX Bot API** | max-hermes, max-hermes-plugin, max-openclaw |
-| **VK API** | tg-to-vk-mirror |
+| ![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white) | cursor-tg-bot, max-hermes, max-hermes-plugin, max-openclaw, brom-casino (mini-app), wb-auto-pricing, emergency-backups (5 агентов) |
+| ![MAX](https://img.shields.io/badge/MAX-00BFFF?style=flat-square) | max-hermes, max-hermes-plugin, max-openclaw |
+| ![VK](https://img.shields.io/badge/VK-4C75A3?style=flat-square&logo=vk&logoColor=white) | tg-to-vk-mirror |
 
 ---
 
 ## 📈 График активности
 
 <div align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=RuslanStrogov&theme=react-dark&hide_border=true&bg_color=0d1117&color=8B5CF6&line=06B6D4&point=F59E0B" alt="Activity Graph" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RuslanStrogov&theme=react-dark&hide_border=true&bg_color=0d1117&color=8B5CF6&line=06B6D4&point=F59E0B" alt="Activity Graph" width="100%"/>
 </div>
 
 ---
