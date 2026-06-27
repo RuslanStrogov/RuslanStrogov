@@ -154,12 +154,113 @@
 
 ## 🏢 Организации
 
-| Организация | Описание |
+Организации — аккаунты для команд и компаний. Другие пользователи GitHub **видят список организаций** на вашем профиле. Репозитории организаций видны в зависимости от настроек:
+
+- **🌐 Public** — видны всем пользователям GitHub
+- **🔒 Private** — видны только участникам организации
+
+| Организация | Описание | Видимость | Репозиториев | Доступ |
+|---|---|---|---|---|
+| [StrelaBPLA](https://github.com/StrelaBPLA) | 🚁 ПО для управления полётами INAV и дрон-системы | 🌐 Публичные + 🔒 Приватные | 3 (2 public, 1 private) | Участник |
+| [auto-visor](https://github.com/auto-visor) | 🚗 AI-детекция транспорта и анализ дорожного движения | 🔒 Все приватные | 11 | Участник |
+| [IQ-Region](https://github.com/IQ-Region) | 🏢 Программные решения (ООО «АйКью Регион») | 🔒 Все приватные | 5 | Владелец |
+| [BM-Group-Software](https://github.com/BM-Group-Software) | 💻 NX-монорепозиторий, корпоративное ПО | 🔒 Все приватные | 1 | Участник |
+
+### Детали по организациям
+
+#### StrelaBPLA
+Конструкторское бюро «Стрела» — разработка ПО для аэрокосмической отрасли.
+- **Публичные:**
+  - [inav](https://github.com/StrelaBPLA/inav) — INAV: Navigation-enabled flight control software (GPL-3.0)
+  - [inav-configurator](https://github.com/StrelaBPLA/inav-configurator) — INAV Configurator (GPL-3.0)
+- **Приватные:**
+  - crsf-vrx-interface — CRSF VRX Interface (C)
+
+#### auto-visor
+AI-система детекции и анализа дорожного движения.
+- **Приватные (11):**
+  - seenauto — Monorepo API+APP (NestJS, Next.js, YOLO)
+  - seenauto-ai-filesystem — AI filesystem (Python, Docker, YOLO)
+  - seenauto-keras-yolo3 — Neural network (Python, TensorFlow)
+  - seenauto-test-stack-1/hasyx — тестовые стеки
+  - GetImageTrack — C# computer vision
+  - WIM_Form.ugadn — C# WinForms frontend
+  - UnicamWeb — PHP web interface
+  - auto-visor-ru-static-html — Landing page (HTML/CSS)
+  - Vehicle-Detection-and-Traffic-Assessment — YOLO11L real-time system (Jupyter)
+
+#### IQ-Region
+ООО «АйКью Регион» — системная интеграция и разработка ПО.
+- **Приватные (5):**
+  - asudd-hasyx — Telegram-бот и веб-фреймворк (Next.js, TypeScript)
+  - arduino-tl-controller — Контроллер Arduino (C++, IoT)
+  - asudd-hasix — утилиты
+  - iq-grz-detection — детекция
+
+#### BM-Group-Software
+Группа БИЭМ — корпоративная разработка.
+- **Приватные (1):**
+  - termosystem — NX моно-репозиторий (NestJS, Angular, Electron)
+
+---
+
+## 📦 Технологии по репозиториям
+
+Сводка используемых языков, фреймворков и библиотек во всех репозиториях (включая организации):
+
+### Языки программирования
+| Язык | Используется в |
 |---|---|
-| [StrelaBPLA](https://github.com/StrelaBPLA) | 🚁 ПО для управления полётами INAV и дрон-системы |
-| [auto-visor](https://github.com/auto-visor) | 🚗 AI-детекция транспорта и анализ дорожного движения |
-| [IQ-Region](https://github.com/IQ-Region) | 🏢 Программные решения (ООО «АйКью Регион») |
-| [BM-Group-Software](https://github.com/BM-Group-Software) | 💻 NX-монорепозиторий, корпоративное ПО |
+| **TypeScript** | brom-casino, seenauto, max-openclaw, asudd-hasyx, termosystem, nx-nest-angular-ionic, robotics-core-ui, pwi-dashboard-api, axbit-angular-test, angular-* |
+| **Python** | max-hermes, max-hermes-plugin, seenauto-keras-yolo3, seenauto-ai-filesystem, Vehicle-Detection, image_vector_database, cursor-tg-bot, tg-to-vk-mirror, wb-auto-pricing, emergency-backups, robot-catty |
+| **JavaScript** | chrome-roonyx, com-pinger, pwi-streaming-server, pro-inav-configurator, mindbody, nwi-ionic-angular |
+| **C++** | arduino-tl-controller |
+| **C** | crsf-vrx-interface |
+| **C#** | GetImageTrack, WIM_Form.ugadn, seenauto-ai-filesystem |
+| **HTML/CSS** | auto-visor-ru-static-html, mi-band-watchface-editor-material, pwi-angular, UnicamWeb |
+| **PHP** | UnicamWeb |
+| **Jupyter Notebook** | Vehicle-Detection-and-Traffic-Assessment |
+
+### Фреймворки и библиотеки
+| Фреймворк | Используется в |
+|---|---|
+| **NestJS** | brom-casino, seenauto, termosystem, robotics-core-ui |
+| **Next.js** | brom-casino, seenauto, asudd-hasyx |
+| **React** | brom-casino, robotics-core-ui |
+| **Angular** | brom-casino, robotics-core-ui, termosystem, nx-nest-angular-ionic, angular-*, pwi-angular |
+| **Nx** | brom-casino, seenauto, termosystem, nx-nest-angular-ionic, robotics-core-ui |
+| **FastAPI** | max-hermes, max-hermes-plugin |
+| **Turborepo** | brom-casino |
+| **Express** | robot-catty, mindbody, pwi-streaming-server |
+| **Ionic** | nx-nest-angular-ionic, taxi-api-web-mobile |
+| **Electron** | termosystem |
+
+### AI / ML / Computer Vision
+| Технология | Используется в |
+|---|---|
+| **YOLO / YOLO11L** | seenauto, seenauto-keras-yolo3, seenauto-ai-filesystem, Vehicle-Detection |
+| **TensorFlow / Keras** | seenauto-keras-yolo3 |
+| **PyTorch** | image_vector_database |
+| **OpenCV** | Vehicle-Detection |
+| **Ultralytics** | seenauto-ai-filesystem |
+| **Jupyter** | Vehicle-Detection, image_vector_database |
+
+### Инфраструктура и базы данных
+| Технология | Используется в |
+|---|---|
+| **PostgreSQL** | brom-casino |
+| **Redis** | brom-casino |
+| **Docker** | brom-casino, seenauto, seenauto-ai-filesystem, Vehicle-Detection, max-hermes |
+| **systemd** | max-hermes |
+| **Nginx/Traefik** | discopanel |
+| **Authelia** | discopanel |
+
+### Боты и мессенджеры
+| Платформа | Проекты |
+|---|---|
+| **Telegram Bot API** | cursor-tg-bot, max-hermes, max-hermes-plugin, max-openclaw, brom-casino (mini-app), wb-auto-pricing, emergency-backups (5 агентов) |
+| **MAX Bot API** | max-hermes, max-hermes-plugin, max-openclaw |
+| **VK API** | tg-to-vk-mirror |
 
 ---
 
