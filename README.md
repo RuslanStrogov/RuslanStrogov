@@ -3,7 +3,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,9,5,3,1&height=120&section=header&text=Ruslan%20Strogov&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=25" />
 
   <p>
-    <a href="README.ru.md"><img src="https://img.shields.io/badge/🇷🇺%20Русский-8B5CF6?style=flat-square" alt="Русский"/></a>
     <a href="https://github.com/RuslanStrogov"><img src="https://img.shields.io/github/followers/RuslanStrogov?style=social" alt="Followers"/></a>
     <a href="mailto:ruslan@strogov.com"><img src="https://img.shields.io/badge/Email-ruslan%40strogov.com-8B5CF6?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
     <a href="http://strogov.com"><img src="https://img.shields.io/badge/Website-strogov.com-06B6D4?style=flat-square&logo=google-chrome&logoColor=white" alt="Website"/></a>
@@ -11,59 +10,64 @@
     <img src="https://img.shields.io/badge/Moscow%2C%20Russia-🇷🇺-EF4444?style=flat-square" alt="Location"/>
   </p>
 
+  <p>
+    <a href="README.en.md"><img src="https://img.shields.io/badge/🇬🇇%20English-0d1117?style=flat-square" alt="English"/></a>
+    <img src="https://img.shields.io/badge/🇷🇺%20Русский-8B5CF6?style=flat-square" alt="Русский"/>
+  </p>
+
 </div>
 
 ---
 
-## 👋 About Me
+## 👋 Обо мне
 
-**Fullstack Developer • Entrepreneur • Visionary**
+**Fullstack-разработчик • Предприниматель • Визионер**
 
-15+ years of experience building web applications, streaming platforms, AI systems, and traffic management solutions. I've been coding since 2009 — from AngularJS 1.x to modern NX monorepos, from canvas-based maps with 20K+ objects to real-time WebRTC streaming.
+15+ лет опыта в разработке веб-приложений, стриминговых платформ, AI-систем и решений для управления трафиком. Пишу код с 2009 года — от AngularJS 1.x до современных NX-монорепозиториев, от карт на canvas с 20 000+ объектами до потокового WebRTC-вещания в реальном времени.
 
-Currently focused on **AI agents**, **computer vision**, and **bot platforms**. Building products at the intersection of software, AI, and real-world systems.
+Сейчас фокус на **AI-агентах**, **компьютерном зрении** и **бот-платформах**. Строю продукты на стыке софта, AI и реальных систем.
 
-📍 Moscow, Russia · 🎓 MSUPI (Informatics in Economics, 2009) · 🗣️ Russian (native), English (B2)
-
----
-
-## 💼 Experience
-
-### Current
-
-**Director of IT Department** — [IQ Region](https://iq-region.ru/) *(Jul 2025 — Present)*
-> Leading IT strategy and development for a system integration and software company.
-
-**Software Developer** — [Strela Design Bureau](https://strela.ru/) *(Nov 2022 — Apr 2024)*
-> Defense/aerospace software development. NDA.
-
-**Engineer** — [BM Group Integrator](https://bm-technology.ru/) *(Jul 2024 — Jul 2025)*
-> Electronics and instrumentation engineering.
-
-### Previous
-
-**Lead Frontend Developer** — Intranet LLC *(Jun 2021 — Dec 2022)*
-> Built a streaming media management platform on Angular + Wowza: live video/audio broadcasting, WebRTC publishing, playlist management, real-time channel scheduling, canvas-based scene composition, HLS/RTMP players with multi-track audio.
-
-**Frontend Developer** — Undisclosed *(Jun 2017 — Apr 2018)*
-> Client-server architecture for traffic flow monitoring and intersection management. Angular 2 + Mapbox GL + Three.js 3D visualization + WebSocket real-time updates. Loopback + MySQL backend.
-
-**Frontend Developer** — Gallery of Professionals *(Aug 2016 — May 2017)*
-> Large-scale recruitment web app on Angular 1.5 + Webpack. Multiple user roles, 20+ screen types, 100+ components.
-
-**Lead Frontend Developer** — Sitronics CAMS *(Nov 2014 — May 2016)*
-> High-performance urban traffic management system: Node.js/Express cache server, Angular.js SPA with 20K+ dynamic map objects on Leaflet canvas, Highcharts analytics, video streams with PTZ camera control, Fabric.js graphic editor with frame animation.
-
-**Director of IT** — BG Trade *(Dec 2011 — Jun 2014)*
-> Managed a team of 4. Built e-commerce sites with unified product database, integrated 1C accounting, implemented version control workflows.
-
-**Earlier:** Web Developer at BG Trade, Web Designer at Maxion, VR/3D Modeling Teacher at Dashkova School.
+📍 Москва, Россия · 🎓 МГУПИ (Информатика в экономике, 2009) · 🗣️ Русский (родной), Английский (B2)
 
 ---
 
-## 🛠️ Tech Stack
+## 💼 Опыт работы
 
-### Core
+### Текущие позиции
+
+**Директор IT-департамента** — [АйКью Регион](https://iq-region.ru/) *(Июль 2025 — настоящее время)*
+> Руководство IT-стратегией и разработкой в компании по системной интеграции и разработке ПО.
+
+**Разработчик ПО** — [КБ «Стрела»](https://strela.ru/) *(Ноябрь 2022 — Апрель 2024)*
+> Разработка программного обеспечения для оборонной/аэрокосмической отрасли. NDA.
+
+**Инженер** — [БИЭМ Групп Интегратор](https://bm-technology.ru/) *(Июль 2024 — Июль 2025)*
+> Электроника и приборостроение.
+
+### Предыдущие позиции
+
+**Ведущий Frontend-разработчик** — ООО «Проекты и Веб Инновации» *(Июнь 2021 — Декабрь 2022)*
+> Платформа управления потоковым аудио/видео-вещанием на базе Wowza Streaming Engine. Живая трансляция, публикация через WebRTC, управление плейлистами, планирование каналов в реальном времени, композиция сцен на canvas, HLS/RTMP-плееры с мульти-аудиодорожками.
+
+**Frontend-разработчик** — Нераскрыто *(Июнь 2017 — Апрель 2018)*
+> Клиент-серверная архитектура для мониторинга транспортных потоков и управления перекрёстками. Angular 2 + Mapbox GL + 3D-визуализация Three.js + WebSocket в реальном времени. Backend на Loopback + MySQL.
+
+**Frontend-разработчик** — ООО «Галерея Профессионалов» *(Август 2016 — Май 2017)*
+> Масштабное веб-приложение для рекрутинга на Angular 1.5 + Webpack. Несколько ролей пользователей, 20+ типов экранов, 100+ компонентов.
+
+**Ведущий Frontend-разработчик** — АО «Ситроникс КАСУ» *(Ноябрь 2014 — Май 2016)*
+> Высокопроизводительная система управления городским транспортом: Node.js/Express кэш-сервер, Angular.js SPA с 20 000+ динамических объектов на Leaflet canvas, аналитика Highcharts, видеопотоки с PTZ-управлением камер, графический редактор Fabric.js с покадровой анимацией.
+
+**Директор IT** — ООО «БГ Трэйд» *(Декабрь 2011 — Июнь 2014)*
+> Управление командой из 4 человек. Разработка интернет-магазинов с единой базой товаров, интеграция 1С, внедрение системы контроля версий.
+
+**Ранее:** Веб-разработчик в БГ Трэйд, Веб-дизайнер в Максион, Преподаватель VR/3D-моделирования в школе им. Дашковой.
+
+---
+
+## 🛠️ Стек технологий
+
+### Основные
 <div align="center">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
@@ -75,7 +79,7 @@ Currently focused on **AI agents**, **computer vision**, and **bot platforms**. 
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C"/>
 </div>
 
-### Frameworks & Tools
+### Фреймворки и инструменты
 <div align="center">
   <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS"/>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
@@ -87,7 +91,7 @@ Currently focused on **AI agents**, **computer vision**, and **bot platforms**. 
   <img src="https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=socketdotio&logoColor=white" alt="WebSocket"/>
 </div>
 
-### Data & Infra
+### Данные и инфраструктура
 <div align="center">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
@@ -98,17 +102,17 @@ Currently focused on **AI agents**, **computer vision**, and **bot platforms**. 
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
 </div>
 
-### AI & Computer Vision
+### AI и компьютерное зрение
 <div align="center">
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
-  <img src="https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=data:image/svg+xml;base64,&logoColor=white" alt="YOLO"/>
+  <img src="https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge" alt="YOLO"/>
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/>
 </div>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Статистика GitHub
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=RuslanStrogov&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=8B5CF6&icon_color=06B6D4&text_color=c9d1d9&count_private=true" alt="GitHub Stats" height="165"/>
@@ -121,7 +125,7 @@ Currently focused on **AI agents**, **computer vision**, and **bot platforms**. 
 
 ---
 
-## 🏆 Featured Projects
+## 🏆 Избранные проекты
 
 <div align="center">
 
@@ -148,18 +152,18 @@ Currently focused on **AI agents**, **computer vision**, and **bot platforms**. 
 
 ---
 
-## 🏢 Organizations
+## 🏢 Организации
 
-| Organization | Description |
+| Организация | Описание |
 |---|---|
-| [StrelaBPLA](https://github.com/StrelaBPLA) | 🚁 INAV flight control software & drone systems |
-| [auto-visor](https://github.com/auto-visor) | 🚗 AI-powered vehicle detection & traffic analysis |
-| [IQ-Region](https://github.com/IQ-Region) | 🏢 Software solutions (ООО "АйКью Регион") |
-| [BM-Group-Software](https://github.com/BM-Group-Software) | 💻 Nx monorepo, enterprise software |
+| [StrelaBPLA](https://github.com/StrelaBPLA) | 🚁 ПО для управления полётами INAV и дрон-системы |
+| [auto-visor](https://github.com/auto-visor) | 🚗 AI-детекция транспорта и анализ дорожного движения |
+| [IQ-Region](https://github.com/IQ-Region) | 🏢 Программные решения (ООО «АйКью Регион») |
+| [BM-Group-Software](https://github.com/BM-Group-Software) | 💻 NX-монорепозиторий, корпоративное ПО |
 
 ---
 
-## 📈 Activity Graph
+## 📈 График активности
 
 <div align="center">
   <img src="https://activity-graph.herokuapp.com/graph?username=RuslanStrogov&theme=react-dark&hide_border=true&bg_color=0d1117&color=8B5CF6&line=06B6D4&point=F59E0B" alt="Activity Graph" width="100%"/>
@@ -167,7 +171,7 @@ Currently focused on **AI agents**, **computer vision**, and **bot platforms**. 
 
 ---
 
-## 🤝 Let's Connect
+## 🤝 Связаться со мной
 
 <div align="center">
   <a href="mailto:ruslan@strogov.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
@@ -178,5 +182,5 @@ Currently focused on **AI agents**, **computer vision**, and **bot platforms**. 
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,9,5,3,1&height=80&section=footer" width="100%"/>
-  <sub>🎨 Profile designed by <a href="https://br-design.ru/">BR-DESIGN</a></sub>
+  <sub>🎨 Дизайн профиля — <a href="https://br-design.ru/">BR-DESIGN</a></sub>
 </div>
