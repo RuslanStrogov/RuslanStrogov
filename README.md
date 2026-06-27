@@ -19,6 +19,13 @@
 
 ---
 
+<!-- Profile Views Counter -->
+<div align="right">
+  <img src="https://komarev.com/ghpvc/?username=RuslanStrogov&label=Profile+Views&color=8B5CF6&style=flat-square" alt="Profile Views" />
+</div>
+
+
+
 ## 👋 Обо мне
 
 **Fullstack-разработчик • Предприниматель • Визионер**
@@ -145,7 +152,7 @@
 
 ## 📊 Статистика GitHub
 
-> 📌 Включает контрибуции в **приватные репозитории** (brom-casino, emergency-backups, BROM AI bots, корпроекты). Дни без публичных коммитов часто означают работу над закрытыми проектами.
+> 📌 Включает контрибуции в **приватные репозитории** (brom-***, emergency-***, *** AI bots, корпроекты). Дни без публичных коммитов часто означают работу над закрытыми проектами.
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=RuslanStrogov&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=8B5CF6&icon_color=06B6D4&text_color=c9d1d9&count_private=true&include_all_commits=true" alt="GitHub Stats" height="165"/>
@@ -168,7 +175,7 @@
 | 🔥 Активных дней (публичные) | 32 за последний год |
 | 💼 Активных дней (приватные) | **~200+ за последний год** |
 
-> 💡 **Примечание:** Большинство дней без публичных коммитов — это активная работа в приватных репозиториях (brom-casino, emergency-backups, BROM AI agents, корпоративные проекты). Средняя продуктивность: **~2.6 коммита/день** суммарно.
+> 💡 **Примечание:** Большинство дней без публичных коммитов — это активная работа в приватных репозиториях (brom-***, emergency-***, *** AI agents, корпоративные проекты). Средняя продуктивность: **~2.6 коммита/день** суммарно.
 
 ---
 
@@ -206,8 +213,8 @@
 ### Языки программирования
 | Язык | Используется в |
 |---|---|
-| ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) | brom-casino, seenauto, max-openclaw, asudd-hasyx, termosystem, nx-nest-angular-ionic, robotics-core-ui, pwi-dashboard-api, axbit-angular-test, angular-* |
-| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | max-hermes, max-hermes-plugin, seenauto-keras-yolo3, seenauto-ai-filesystem, Vehicle-Detection, image_vector_database, cursor-tg-bot, tg-to-vk-mirror, wb-auto-pricing, emergency-backups, robot-catty |
+| ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) | brom-***, seenauto, max-openclaw, asudd-hasyx, termosystem, nx-nest-angular-ionic, robotics-core-ui, pwi-dashboard-api, axbit-angular-test, angular-* |
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | max-hermes, max-hermes-plugin, seenauto-keras-yolo3, seenauto-ai-filesystem, Vehicle-Detection, image_vector_database, cursor-***, tg-to-***, wb-***, emergency-***, robot-catty |
 | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | chrome-roonyx, com-pinger, pwi-streaming-server, pro-inav-configurator, mindbody, nwi-ionic-angular |
 | ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) | arduino-tl-controller |
 | ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black) | crsf-vrx-interface |
@@ -219,13 +226,13 @@
 ### Фреймворки и библиотеки
 | Фреймворк | Используется в |
 |---|---|
-| ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white) | brom-casino, seenauto, termosystem, robotics-core-ui |
-| ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white) | brom-casino, seenauto, asudd-hasyx |
-| ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) | brom-casino, robotics-core-ui |
-| ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white) | brom-casino, robotics-core-ui, termosystem, nx-nest-angular-ionic, angular-*, pwi-angular |
-| ![Nx](https://img.shields.io/badge/Nx-143055?style=flat-square&logo=nx&logoColor=white) | brom-casino, seenauto, termosystem, nx-nest-angular-ionic, robotics-core-ui |
+| ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white) | brom-***, seenauto, termosystem, robotics-core-ui |
+| ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white) | brom-***, seenauto, asudd-hasyx |
+| ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) | brom-***, robotics-core-ui |
+| ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white) | brom-***, robotics-core-ui, termosystem, nx-nest-angular-ionic, angular-*, pwi-angular |
+| ![Nx](https://img.shields.io/badge/Nx-143055?style=flat-square&logo=nx&logoColor=white) | brom-***, seenauto, termosystem, nx-nest-angular-ionic, robotics-core-ui |
 | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) | max-hermes, max-hermes-plugin |
-| ![Turborepo](https://img.shields.io/badge/Turborepo-EF4444?style=flat-square&logo=turborepo&logoColor=white) | brom-casino |
+| ![Turborepo](https://img.shields.io/badge/Turborepo-EF4444?style=flat-square&logo=turborepo&logoColor=white) | brom-*** |
 | ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white) | robot-catty, mindbody, pwi-streaming-server |
 | ![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=flat-square&logo=ionic&logoColor=white) | nx-nest-angular-ionic, taxi-api-web-mobile |
 | ![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white) | termosystem |
@@ -243,9 +250,9 @@
 ### Инфраструктура и базы данных
 | Технология | Используется в |
 |---|---|
-| ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) | brom-casino |
-| ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) | brom-casino |
-| ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) | brom-casino, seenauto, seenauto-ai-filesystem, Vehicle-Detection, max-hermes |
+| ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) | brom-*** |
+| ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) | brom-*** |
+| ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) | brom-***, seenauto, seenauto-ai-filesystem, Vehicle-Detection, max-hermes |
 | ![Linux](https://img.shields.io/badge/systemd-FCC624?style=flat-square&logo=linux&logoColor=black) | max-hermes |
 | ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white) ![Traefik](https://img.shields.io/badge/Traefik-24A1C1?style=flat-square&logo=traefik&logoColor=white) | discopanel |
 | ![Authelia](https://img.shields.io/badge/Authelia-7239B3?style=flat-square) | discopanel |
@@ -253,9 +260,9 @@
 ### Боты и мессенджеры
 | Платформа | Проекты |
 |---|---|
-| ![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white) | cursor-tg-bot, max-hermes, max-hermes-plugin, max-openclaw, brom-casino (mini-app), wb-auto-pricing, emergency-backups (5 агентов) |
+| ![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white) | cursor-***, max-hermes, max-hermes-plugin, max-openclaw, brom-*** (mini-app), wb-***, emergency-*** (5 агентов) |
 | ![MAX](https://img.shields.io/badge/MAX-00BFFF?style=flat-square) | max-hermes, max-hermes-plugin, max-openclaw |
-| ![VK](https://img.shields.io/badge/VK-4C75A3?style=flat-square&logo=vk&logoColor=white) | tg-to-vk-mirror |
+| ![VK](https://img.shields.io/badge/VK-4C75A3?style=flat-square&logo=vk&logoColor=white) | tg-to-*** |
 
 ---
 
