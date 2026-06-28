@@ -181,27 +181,114 @@
 
 ## 🏆 Избранные проекты
 
+<!-- 🤖 Robot Catty -->
 <div align="center">
+  <a href="https://github.com/RuslanStrogov/robot-catty">
+    <img src="https://img.shields.io/badge/🤖%20Robot%20-Catty-8B5CF6?style=for-the-badge" alt="Robot Catty"/>
+  </a>
+  <br/>
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML"/>
+  <br/>
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" alt="Angular"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white" alt="Arduino"/>
+  <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat-square&logo=raspberry-pi&logoColor=white" alt="Raspberry Pi"/>
+  <br/>
+  <sub>🤖 Робот на Raspberry Pi + Arduino с веб-интерфейсом управления. Сервоприводы, RGB-светодиоды,  serial-связь, WebSocket в реальном времени.</sub>
+</div>
 
+---
+
+<!-- 🧠 max-hermes -->
+<div align="center">
   <a href="https://github.com/RuslanStrogov/max-hermes">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RuslanStrogov&repo=max-hermes&theme=radical&hide_border=true&bg_color=0d1117&title_color=8B5CF6&icon_color=06B6D4&text_color=c9d1d9" alt="max-hermes"/>
+    <img src="https://img.shields.io/badge/🧠%20MAX%20-Hermes-06B6D4?style=for-the-badge" alt="max-hermes"/>
   </a>
-  <a href="https://github.com/RuslanStrogov/max-hermes-plugin">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RuslanStrogov&repo=max-hermes-plugin&theme=radical&hide_border=true&bg_color=0d1117&title_color=8B5CF6&icon_color=06B6D4&text_color=c9d1d9" alt="max-hermes-plugin"/>
-  </a>
-  <a href="https://github.com/RuslanStrogov/openclaw">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RuslanStrogov&repo=openclaw&theme=radical&hide_border=true&bg_color=0d1117&title_color=8B5CF6&icon_color=06B6D4&text_color=c9d1d9" alt="openclaw"/>
-  </a>
-  <a href="https://github.com/RuslanStrogov/discopanel">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RuslanStrogov&repo=discopanel&theme=radical&hide_border=true&bg_color=0d1117&title_color=8B5CF6&icon_color=06B6D4&text_color=c9d1d9" alt="discopanel"/>
-  </a>
-  <a href="https://github.com/RuslanStrogov/robotics-core-ui">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RuslanStrogov&repo=robotics-core-ui&theme=radical&hide_border=true&bg_color=0d1117&title_color=8B5CF6&icon_color=06B6D4&text_color=c9d1d9" alt="robotics-core-ui"/>
-  </a>
-  <a href="https://github.com/RuslanStrogov/vpn-configs-for-russia">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RuslanStrogov&repo=vpn-configs-for-russia&theme=radical&hide_border=true&bg_color=0d1117&title_color=8B5CF6&icon_color=06B6D4&text_color=c9d1d9" alt="vpn-configs-for-russia"/>
-  </a>
+  <br/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
+  <br/>
+  <img src="https://img.shields.io/badge/AI%20Agent-8B5CF6?style=flat-square" alt="AI Agent"/>
+  <img src="https://img.shields.io/badge/MAX%20Bot%20API-00BFFF?style=flat-square" alt="MAX Bot API"/>
+  <img src="https://img.shields.io/badge/Hermes%20Agent-7C3AED?style=flat-square" alt="Hermes Agent"/>
+  <br/>
+  <sub>🐍 Python-мост между MAX Bot API и Hermes Agent. Webhook-сервер, Docker-деплой, systemd-сервис. AI-агент с поддержкой MAX Messenger.</sub>
+</div>
 
+---
+
+<!-- 🔌 max-openclaw -->
+<div align="center">
+  <a href="https://github.com/RuslanStrogov/max-openclaw">
+    <img src="https://img.shields.io/badge/🔌%20MAX%20-OpenClaw-F59E0B?style=for-the-badge" alt="max-openclaw"/>
+  </a>
+  <br/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <br/>
+  <img src="https://img.shields.io/badge/Plugin-2496ED?style=flat-square" alt="Plugin"/>
+  <img src="https://img.shields.io/badge/MAX%20Messenger-00BFFF?style=flat-square" alt="MAX Messenger"/>
+  <img src="https://img.shields.io/badge/OpenClaw-8B5CF6?style=flat-square" alt="OpenClaw"/>
+  <br/>
+  <sub>📦 Нативный плагин MAX Bot API для OpenClaw на TypeScript. Прямая интеграция с мессенджером MAX через channel plugin архитектуру.</sub>
+</div>
+
+---
+
+<!-- 🔗 max-hermes-plugin -->
+<div align="center">
+  <a href="https://github.com/RuslanStrogov/max-hermes-plugin">
+    <img src="https://img.shields.io/badge/🔗%20MAX%20Hermes%20Plugin-7C3AED?style=for-the-badge" alt="max-hermes-plugin"/>
+  </a>
+  <br/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+  <br/>
+  <img src="https://img.shields.io/badge/Plugin-EF4444?style=flat-square" alt="Plugin"/>
+  <img src="https://img.shields.io/badge/MAX%20Bot%20API-00BFFF?style=flat-square" alt="MAX Bot API"/>
+  <img src="https://img.shields.io/badge/Hermes%20Agent-7C3AED?style=flat-square" alt="Hermes Agent"/>
+  <br/>
+  <sub>🐍 Нативная платформа MAX Bot API для Hermes Agent. Прямая интеграция без моста — webhook-приёмник, обработка сообщений, доставка ответов.</sub>
+</div>
+
+---
+
+<!-- 🤖 robotics-core-ui -->
+<div align="center">
+  <a href="https://github.com/RuslanStrogov/robotics-core-ui">
+    <img src="https://img.shields.io/badge/🤖%20Robotics%20Core%20UI-EF4444?style=for-the-badge" alt="robotics-core-ui"/>
+  </a>
+  <br/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" alt="Angular"/>
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" alt="NestJS"/>
+  <img src="https://img.shields.io/badge/Nx-143055?style=flat-square&logo=nx&logoColor=white" alt="Nx"/>
+  <br/>
+  <img src="https://img.shields.io/badge/Voice%20Recognition-8B5CF6?style=flat-square" alt="Voice Recognition"/>
+  <img src="https://img.shields.io/badge/Speech%20Synthesis-06B6D4?style=flat-square" alt="Speech Synthesis"/>
+  <br/>
+  <sub>🎤 NX моно-репозиторий: Angular + NestJS. Речевой синтез, распознавание голоса, балансировка нагрузки, работа с БД. Полноценный UI для робототехники.</sub>
+</div>
+
+---
+
+<!-- ⌚ mi-band-watchface-editor-material -->
+<div align="center">
+  <a href="https://github.com/RuslanStrogov/mi-band-watchface-editor-material">
+    <img src="https://img.shields.io/badge/⌚%20Mi%20Band%20Watchface%20Editor-2496ED?style=for-the-badge" alt="mi-band-watchface-editor-material"/>
+  </a>
+  <br/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" alt="Angular"/>
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML"/>
+  <img src="https://img.shields.io/badge/SCSS-CC6699?style=flat-square&logo=sass&logoColor=white" alt="SCSS"/>
+  <br/>
+  <img src="https://img.shields.io/badge/Material%20Design-757575?style=flat-square&logo=materialdesign&logoColor=white" alt="Material Design"/>
+  <img src="https://img.shields.io/badge/Mi%20Band-FF6900?style=flat-square" alt="Mi Band"/>
+  <br/>
+  <sub>⌚ Веб-редактор циферблатов Mi Band на Angular с Material Design. Визуальный конструктор для создания и кастомизации циферблатов фитнес-браслетов.</sub>
 </div>
 
 ---
