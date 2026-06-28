@@ -11,7 +11,7 @@
   </p>
 
   <p>
-    <a href="README.en.md"><img src="https://img.shields.io/badge/🇬🇇%20English-0d1117?style=flat-square" alt="English"/></a>
+    <a href="README.en.md"><img src="https://img.shields.io/badge/🇬🇧%20English-0d1117?style=flat-square" alt="English"/></a>
     <img src="https://img.shields.io/badge/🇷🇺%20Русский-8B5CF6?style=flat-square" alt="Русский"/>
   </p>
 
