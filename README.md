@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,9,5,3,1&height=120&section=header&text=Ruslan%20Strogov&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=25" />
 
   <p>
-    <a href="tel:+7XXXXXXXXXX"><img src="https://img.shields.io/badge/📞-Call-238636?style=flat-square&logo=phone&logoColor=white" alt="Phone"/></a>
+    <a href="tel:+79653302820"><img src="https://img.shields.io/badge/📞-Call-238636?style=flat-square&logo=phone&logoColor=white" alt="Phone"/></a>
     <a href="mailto:ruslan@strogov.com"><img src="https://img.shields.io/badge/Email-ruslan%40strogov.com-8B5CF6?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
     <a href="https://t.me/brombombom"><img src="https://img.shields.io/badge/Telegram-%40brombombom-26A5E4?style=flat-square&logo=telegram&logoColor=white" alt="Telegram"/></a>
     <a href="http://strogov.com"><img src="https://img.shields.io/badge/Website-strogov.com-06B6D4?style=flat-square&logo=google-chrome&logoColor=white" alt="Website"/></a>
@@ -63,7 +63,7 @@
 Стабильный долгосрочный контракт > фриланса.
 
 <div align="center">
-<a href="tel:+7XXXXXXXXXX"><img src="https://img.shields.io/badge/📞_Звоните-238636?style=for-the-badge&logo=phone&logoColor=white"/></a>
+<a href="tel:+79653302820"><img src="https://img.shields.io/badge/📞_Звоните-238636?style=for-the-badge&logo=phone&logoColor=white"/></a>
 <a href="https://t.me/brombombom"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a>
 <a href="mailto:ruslan@strogov.com"><img src="https://img.shields.io/badge/Email-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </div>
@@ -302,7 +302,7 @@ auto-visor-ru-static-html • mi-band-watchface-editor-material • pwi-angular 
 
 ## 🤝 Связаться со мной
 
-<a href="tel:+7XXXXXXXXXX"><img src="https://img.shields.io/badge/📞_Позвонить-238636?style=for-the-badge&logo=phone&logoColor=white"/></a>
+<a href="tel:+79653302820"><img src="https://img.shields.io/badge/📞_Позвонить-238636?style=for-the-badge&logo=phone&logoColor=white"/></a>
 <a href="https://t.me/brombombom"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a>
 <a href="mailto:ruslan@strogov.com"><img src="https://img.shields.io/badge/Email-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://hh.ru/resume/806cdf03ff1033cacf0039ed1f6961667a4957"><img src="https://img.shields.io/badge/HH_Резюме-FF4D4D?style=for-the-badge"/></a>
