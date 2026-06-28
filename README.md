@@ -298,9 +298,9 @@ auto-visor-ru-static-html • mi-band-watchface-editor-material • pwi-angular 
 
 ---
 
-<div align="center">
-
 ## 🤝 Связаться со мной
+
+<div align="center">
 
 <a href="tel:+79653302820"><img src="https://img.shields.io/badge/📞_Позвонить-238636?style=for-the-badge&logo=phone&logoColor=white"/></a>
 <a href="https://t.me/brombombom"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a>
@@ -308,9 +308,25 @@ auto-visor-ru-static-html • mi-band-watchface-editor-material • pwi-angular 
 <a href="https://hh.ru/resume/806cdf03ff1033cacf0039ed1f6961667a4957"><img src="https://img.shields.io/badge/HH_Резюме-FF4D4D?style=for-the-badge"/></a>
 <a href="https://linkedin.com/in/ruslanstrogov"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
+<br/><br/>
+
+<a href="https://br-design.ru"><img src="https://img.shields.io/badge/BR%20DESIGN-br--design.ru-8B5CF6?style=for-the-badge&logo=dribbble&logoColor=white"/></a>
+<a href="https://strogov.com"><img src="https://img.shields.io/badge/STROGOV-strogov.com-06B6D4?style=for-the-badge&logo=globe&logoColor=white"/></a>
+<a href="https://t.me/itvpi"><img src="https://img.shields.io/badge/IT%20ВПИСКА-t.me%2Fitvpi-FF6B6B?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+
 </div>
+
+---
+
+<div align="center">
+  <img src="assets/me.png" width="120" alt="Ruslan sitting on the floor 😄" />
+  <br/>
+  <sub>🤷‍♂️ Когда код компилируется с первого раза</sub>
+</div>
+
+<br/>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,9,5,3,1&height=80&section=footer" width="100%"/>
-  <sub>🎨 <a href="https://br-design.ru/">BR-DESIGN</a> · 🤖 <a href="https://t.me/brombombom">BROM AI</a> · 📞 Нажмите кнопку для звонка</sub>
+  <sub>🎨 <a href="https://br-design.ru/">BR-DESIGN</a> · 🤖 <a href="https://t.me/brombombom">BROM AI</a></sub>
 </div>
