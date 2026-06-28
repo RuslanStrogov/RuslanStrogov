@@ -152,30 +152,25 @@
 
 ## 📊 Статистика GitHub
 
-> 📌 Включает контрибуции в **приватные репозитории** (brom-***, emergency-***, *** AI bots, корпроекты). Дни без публичных коммитов часто означают работу над закрытыми проектами.
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RuslanStrogov&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=8B5CF6&icon_color=06B6D4&text_color=c9d1d9&count_private=true&include_all_commits=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RuslanStrogov&theme=radical&hide_border=true&bg_color=0d1117&title_color=8B5CF6&text_color=c9d1d9&layout=compact&count_private=true" alt="Top Languages" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=RuslanStrogov&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=8B5CF6&icon_color=06B6D4&text_color=c9d1d9&count_private=true&include_all_commits=true" alt="Статистика GitHub" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RuslanStrogov&theme=radical&hide_border=true&bg_color=0d1117&title_color=8B5CF6&text_color=c9d1d9&layout=compact&count_private=true" alt="Топ языков" height="165"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RuslanStrogov&theme=radical&hide_border=true&background=0d1117&stroke=8B5CF6&ring=F59E0B&fire=EF4444&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=c9d1d9&sideLabels=8B949E&dates=8B949E" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RuslanStrogov&theme=radical&hide_border=true&background=0d1117&stroke=8B5CF6&ring=F59E0B&fire=EF4444&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=c9d1d9&sideLabels=8B949E&dates=8B949E" alt="Серия активности"/>
 </div>
 
 | Метрика | Значение |
 |---|---|
-| 🔨 Публичные коммиты | 255 |
-| 🔒 Приватные коммиты | ~700+ |
-| 📊 **Всего коммитов** | **~950+** |
-| 📋 Pull Requests | 13 |
-| 🐛 Issues | 8 |
-| 🏢 Репозиториев | 24 public + ~15 private |
+| 🔨 Публичные коммиты | 106+ |
+| 📋 Pull Requests | 5 |
+| 🐛 Issues | 5 |
+| 🏢 Публичных репозиториев | 25 |
+| 👥 Подписчиков | 14 |
 | 📅 Лет на GitHub | 14 (с 2012) |
-| 🔥 Активных дней (публичные) | 32 за последний год |
-| 💼 Активных дней (приватные) | **~200+ за последний год** |
 
-> 💡 **Примечание:** Большинство дней без публичных коммитов — это активная работа в приватных репозиториях (brom-***, emergency-***, *** AI agents, корпоративные проекты). Средняя продуктивность: **~2.6 коммита/день** суммарно.
+> 💡 Статистика включает контрибуции в **приватные репозитории** (AI-боты, корпроекты). Дни без публичных коммитов часто означают работу над закрытыми проектами.
 
 ---
 
