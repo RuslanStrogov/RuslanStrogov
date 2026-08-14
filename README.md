@@ -82,66 +82,15 @@
 
 ### 🛠️ Стек технологий
 
-**Языки**
-<div>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white"/>
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/>
-<img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white"/>
-</div>
-
-**Backend**
-<div>
-<img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
-<img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
-</div>
-
-**Frontend**
-<div>
-<img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/Svelte-FF3E00?style=flat-square&logo=svelte&logoColor=white"/>
-<img src="https://img.shields.io/badge/Ionic-3880FF?style=flat-square&logo=ionic&logoColor=white"/>
-<img src="https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white"/>
-</div>
-
-**Инструменты**
-<div>
-<img src="https://img.shields.io/badge/Nx-143055?style=flat-square&logo=nx&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Turborepo-EF4444?style=flat-square&logo=turborepo&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/WebSocket-010101?style=flat-square&logo=socketdotio&logoColor=white"/>
-</div>
-
-**Данные**
-<div>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
-</div>
-
-**AI / CV**
-<div>
-<img src="https://img.shields.io/badge/YOLO-00FFFF?style=flat-square"/>
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
-<img src="https://img.shields.io/badge/Ultralytics-00B0FF?style=flat-square"/>
-</div>
-
-**Мессенджеры**
-<div>
-<img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white"/>
-<img src="https://img.shields.io/badge/MAX-00BFFF?style=flat-square"/>
-<img src="https://img.shields.io/badge/VK-4C75A3?style=flat-square&logo=vk&logoColor=white"/>
-</div>
+| | |
+|---|---|
+| **Языки** | <img src="https://skillicons.dev/icons?i=ts,py,js,go,cpp,cs&theme=dark" height="40" alt="TypeScript, Python, JavaScript, Go, C++, C#"/> |
+| **Backend** | <img src="https://skillicons.dev/icons?i=nestjs,fastapi,express,nodejs&theme=dark" height="40" alt="NestJS, FastAPI, Express, Node.js"/> |
+| **Frontend** | <img src="https://skillicons.dev/icons?i=angular,react,nextjs,svelte,ionic,electron&theme=dark" height="40" alt="Angular, React, Next.js, Svelte, Ionic, Electron"/> |
+| **Инструменты** | <img src="https://skillicons.dev/icons?i=nx,docker,turborepo,git,socketio&theme=dark" height="40" alt="Nx, Docker, Turborepo, Git, Socket.io"/> |
+| **Данные** | <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis&theme=dark" height="40" alt="MySQL, PostgreSQL, MongoDB, Redis"/> |
+| **AI / CV** | <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv&theme=dark" height="40" alt="PyTorch, TensorFlow, OpenCV"/> <img src="https://img.shields.io/badge/YOLO-00FFFF?style=flat-square" height="28"/> <img src="https://img.shields.io/badge/Ultralytics-00B0FF?style=flat-square" height="28"/> |
+| **Мессенджеры** | <img src="https://skillicons.dev/icons?i=telegram&theme=dark" height="40" alt="Telegram"/> <img src="https://img.shields.io/badge/MAX-00BFFF?style=flat-square" height="28"/> <img src="https://img.shields.io/badge/VK-4C75A3?style=flat-square&logo=vk&logoColor=white" height="28"/> |
 
 </td>
 </tr>
