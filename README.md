@@ -24,6 +24,17 @@
   <img src="https://komarev.com/ghpvc/?username=RuslanStrogov&label=Profile+Views&color=8B5CF6&style=flat-square" alt="Profile Views"/>
 </div>
 
+<!-- GitHub Stats Cards -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RuslanStrogov&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0d1117&icon_color=8B5CF6&title_color=8B5CF6&text_color=ffffff" height="165" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RuslanStrogov&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8B5CF6&text_color=ffffff&card_width=350" height="165" alt="Top Languages"/>
+</div>
+
+<!-- Trophy -->
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=RuslanStrogov&theme=onedark&no-frame=true&no-bg=true&column=-1&row=1&margin-w=15" alt="Trophies" width="100%"/>
+</div>
+
 ## 📊 Статистика GitHub
 
 <div align="center">
@@ -270,6 +281,11 @@ auto-visor-ru-static-html • mi-band-watchface-editor-material • pwi-angular 
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=RuslanStrogov&theme=react-dark&hide_border=true&bg_color=0d1117&color=8B5CF6&line=06B6D4&point=F59E0B" alt="Activity Graph" width="100%"/>
+</div>
+
+<!-- Streak Stats -->
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RuslanStrogov&theme=tokyonight&hide_border=true&background=0d1117&stroke=8B5CF6&ring=8B5CF6&fire=F59E0B&currStreakNum=ffffff&sideNums=06B6D4&currStreakLabel=8B5CF6&sideLabels=8B5CF6" alt="Streak Stats"/>
 </div>
 
 ---
