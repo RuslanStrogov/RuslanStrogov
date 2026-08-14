@@ -10,12 +10,7 @@
     <a href="https://hh.ru/resume/806cdf03ff1033cacf0039ed1f6961667a4957"><img src="https://img.shields.io/badge/HH-Резюме-FF4D4D?style=flat-square&logo=headhunter&logoColor=white" alt="HH"/></a>
   </p>
 
-  <p>
-    <a href="README.en.md"><img src="https://img.shields.io/badge/🇬🇧%20English-0d1117?style=flat-square" alt="English"/></a>
-    <img src="https://img.shields.io/badge/🇷🇺%20Русский-8B5CF6?style=flat-square" alt="Русский"/>
-  </p>
-
-</div>
+  </div>
 
 ---
 
@@ -266,6 +261,11 @@ auto-visor-ru-static-html • mi-band-watchface-editor-material • pwi-angular 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=RuslanStrogov&label=Profile+Views&color=8B5CF6&style=flat-square" alt="Profile Views"/>
 </div>
+
+<p align="center">
+  <a href="README.en.md"><img src="https://img.shields.io/badge/🇬🇧%20English-0d1117?style=flat-square" alt="English"/></a>
+  <img src="https://img.shields.io/badge/🇷🇺%20Русский-8B5CF6?style=flat-square" alt="Русский"/>
+</p>
 
 <div align="center">
   <img src="assets/me.png" width="120" alt="Ruslan sitting on the floor 😄" />
