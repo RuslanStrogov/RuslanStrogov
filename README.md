@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,9,5,3,1&height=120&section=header&text=Ruslan%20Strogov&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=25" />
 
   <p>
-    <a href="tel:+79653302820"><img src="https://img.shields.io/badge/📞-Call-238636?style=flat-square&logo=phone&logoColor=white" alt="Phone"/></a>
+    <a href="tel:+796****2820"><img src="https://img.shields.io/badge/📞-Call-238636?style=flat-square&logo=phone&logoColor=white" alt="Phone"/></a>
     <a href="mailto:ruslan@strogov.com"><img src="https://img.shields.io/badge/Email-ruslan%40strogov.com-8B5CF6?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
     <a href="https://t.me/brombombom"><img src="https://img.shields.io/badge/Telegram-%40brombombom-26A5E4?style=flat-square&logo=telegram&logoColor=white" alt="Telegram"/></a>
     <a href="http://strogov.com"><img src="https://img.shields.io/badge/Website-strogov.com-06B6D4?style=flat-square&logo=google-chrome&logoColor=white" alt="Website"/></a>
@@ -19,29 +19,10 @@
 
 ---
 
-<!-- Profile Views & Stats -->
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=RuslanStrogov&label=Profile+Views&color=8B5CF6&style=flat-square" alt="Profile Views"/>
-</div>
-
 <!-- GitHub Stats Cards -->
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=RuslanStrogov&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0d1117&icon_color=8B5CF6&title_color=8B5CF6&text_color=ffffff" height="165" alt="GitHub Stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RuslanStrogov&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8B5CF6&text_color=ffffff&card_width=350" height="165" alt="Top Languages"/>
-</div>
-
-<!-- Trophy -->
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=RuslanStrogov&theme=onedark&no-frame=true&no-bg=true&column=-1&row=1&margin-w=15" alt="Trophies" width="100%"/>
-</div>
-
-## 📊 Статистика GitHub
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://metrics.lecoq.io/RuslanStrogov?template=classic&config.timezone=Europe%2FMoscow&config.display=large" />
-    <img src="https://metrics.lecoq.io/RuslanStrogov?template=classic&config.timezone=Europe%2FMoscow&config.display=large" alt="GitHub Metrics" width="100%"/>
-  </picture>
 </div>
 
 ---
@@ -72,7 +53,7 @@
 Стабильный долгосрочный контракт > фриланса.
 
 <div align="center">
-<a href="tel:+79653302820"><img src="https://img.shields.io/badge/📞_Звоните-238636?style=for-the-badge&logo=phone&logoColor=white"/></a>
+<a href="tel:+796****2820"><img src="https://img.shields.io/badge/📞_Звоните-238636?style=for-the-badge&logo=phone&logoColor=white"/></a>
 <a href="https://t.me/brombombom"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a>
 <a href="mailto:ruslan@strogov.com"><img src="https://img.shields.io/badge/Email-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </div>
@@ -265,7 +246,7 @@ auto-visor-ru-static-html • mi-band-watchface-editor-material • pwi-angular 
 
 <div align="center">
 
-<a href="tel:+79653302820"><img src="https://img.shields.io/badge/📞_Позвонить-238636?style=for-the-badge&logo=phone&logoColor=white"/></a>
+<a href="tel:+796****2820"><img src="https://img.shields.io/badge/📞_Позвонить-238636?style=for-the-badge&logo=phone&logoColor=white"/></a>
 <a href="https://t.me/brombombom"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a>
 <a href="mailto:ruslan@strogov.com"><img src="https://img.shields.io/badge/Email-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://hh.ru/resume/806cdf03ff1033cacf0039ed1f6961667a4957"><img src="https://img.shields.io/badge/HH_Резюме-FF4D4D?style=for-the-badge"/></a>
@@ -280,6 +261,11 @@ auto-visor-ru-static-html • mi-band-watchface-editor-material • pwi-angular 
 </div>
 
 ---
+
+<!-- Profile Views -->
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=RuslanStrogov&label=Profile+Views&color=8B5CF6&style=flat-square" alt="Profile Views"/>
+</div>
 
 <div align="center">
   <img src="assets/me.png" width="120" alt="Ruslan sitting on the floor 😄" />
