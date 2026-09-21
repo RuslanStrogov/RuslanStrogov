@@ -257,6 +257,33 @@ auto-visor-ru-static-html • mi-band-watchface-editor-material • pwi-angular 
 
 ---
 
+### 🎬 Midjourney AI Animations
+
+AI-generated video animations created with Midjourney, demonstrating cinematic visual generation capabilities.
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <video src="assets/iphone-epic-view.mp4" controls width="95%"></video>
+        <br/>
+        <sub>🎬 <strong>iPhone Pro Max</strong> — Epic view from a rustic balcony, generated with Midjourney</sub>
+        <br/>
+        <a href="assets/iphone-epic-view.mp4">📥 Full quality (17 MB)</a>
+      </td>
+      <td align="center" width="50%">
+        <video src="assets/cinematic-aerial.mp4" controls width="95%"></video>
+        <br/>
+        <sub>🎬 <strong>Cinematic Aerial</strong> — Slow camera movement above a breathtaking landscape, generated with Midjourney</sub>
+        <br/>
+        <a href="assets/cinematic-aerial.mp4">📥 Full quality (14 MB)</a>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
 <!-- Profile Views -->
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=RuslanStrogov&label=Profile+Views&color=8B5CF6&style=flat-square" alt="Profile Views"/>
