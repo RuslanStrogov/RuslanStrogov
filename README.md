@@ -265,14 +265,14 @@ AI-generated video animations created with Midjourney, demonstrating cinematic v
   <table>
     <tr>
       <td align="center" width="50%">
-        <video src="assets/iphone-epic-view.mp4" controls width="95%"></video>
+        <video src="assets/iphone-epic-view.mp4" autoplay muted loop playsinline width="95%"></video>
         <br/>
         <sub>🎬 <strong>iPhone Pro Max</strong> — Epic view from a rustic balcony, generated with Midjourney</sub>
         <br/>
         <a href="assets/iphone-epic-view.mp4">📥 Full quality (17 MB)</a>
       </td>
       <td align="center" width="50%">
-        <video src="assets/cinematic-aerial.mp4" controls width="95%"></video>
+        <video src="assets/cinematic-aerial.mp4" autoplay muted loop playsinline width="95%"></video>
         <br/>
         <sub>🎬 <strong>Cinematic Aerial</strong> — Slow camera movement above a breathtaking landscape, generated with Midjourney</sub>
         <br/>
