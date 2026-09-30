@@ -14,13 +14,7 @@
 
 ---
 
-<!-- GitHub Stats Cards -->
-<div align="center">
-  <img src="https://github-readme-stats-swart-nine.vercel.app/api?username=RuslanStrogov&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0d1117&icon_color=8B5CF6&title_color=8B5CF6&text_color=ffffff" height="165" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats-swart-nine.vercel.app/api/top-langs/?username=RuslanStrogov&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8B5CF6&text_color=ffffff&card_width=350" height="165" alt="Top Languages"/>
-</div>
-
----
+<!-- GitHub Stats Cards — удалены (сломаны) -->
 
 ## 👋 Обо мне и 🛠 Стек технологий
 
@@ -256,6 +250,7 @@ auto-visor-ru-static-html • mi-band-watchface-editor-material • pwi-angular 
 </div>
 
 ---
+
 
 <!-- Profile Views -->
 <div align="center">
