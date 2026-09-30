@@ -196,19 +196,6 @@ auto-visor-ru-static-html • mi-band-watchface-editor-material • pwi-angular 
 
 ---
 
-## 📈 График активности
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RuslanStrogov&theme=react-dark&hide_border=true&bg_color=0d1117&color=8B5CF6&line=06B6D4&point=F59E0B" alt="Activity Graph" width="100%"/>
-</div>
-
-<!-- Streak Stats -->
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RuslanStrogov&theme=tokyonight&hide_border=true&background=0d1117&stroke=8B5CF6&ring=8B5CF6&fire=F59E0B&currStreakNum=ffffff&sideNums=06B6D4&currStreakLabel=8B5CF6&sideLabels=8B5CF6" alt="Streak Stats"/>
-</div>
-
----
-
 ## Опыт работы
 
 **Директор IT-департамента** — [АйКью Регион](https://iq-region.ru/) *(Июль 2025 — наст. время)*
