@@ -22,6 +22,11 @@
 
 ---
 
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=RuslanStrogov&theme=catppuccin-mocha&hide_border=true" height="165" alt="Streak Stats"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RuslanStrogov&theme=catppuccin_mocha&hide_border=true" width="100%" alt="Activity Summary"/>
+</div>
+
 ## 👋 Обо мне и 🛠 Стек технологий
 
 <table>
@@ -60,13 +65,13 @@
 
 | | |
 |---|---|
-| **Языки** | TypeScript, Python, JavaScript, Go, C++, C# |
-| **Backend** | NestJS, FastAPI, Express, Node.js |
-| **Frontend** | Angular, React, Next.js, Svelte, Ionic, Electron |
-| **Инструменты** | Nx, Docker, Turborepo, Git, Socket.IO |
-| **Данные** | MySQL, PostgreSQL, MongoDB, Redis |
-| **AI / CV** | PyTorch, TensorFlow, OpenCV, YOLO, Ultralytics |
-| **Боты / Мессенджеры** | Telegram API, VK API, MAX Bot API |
+| **Языки** | <img src="https://skillicons.dev/icons?i=ts,py,js,go,cpp,cs&theme=dark" height="40" alt="TypeScript, Python, JavaScript, Go, C++, C#"/> |
+| **Backend** | <img src="https://skillicons.dev/icons?i=nestjs,fastapi,express,nodejs&theme=dark" height="40" alt="NestJS, FastAPI, Express, Node.js"/> |
+| **Frontend** | <img src="https://skillicons.dev/icons?i=angular,react,nextjs,svelte,ionic,electron&theme=dark" height="40" alt="Angular, React, Next.js, Svelte, Ionic, Electron"/> |
+| **Инструменты** | <img src="https://skillicons.dev/icons?i=nx,docker,turborepo,git,socketio&theme=dark" height="40" alt="Nx, Docker, Turborepo, Git, Socket.io"/> |
+| **Данные** | <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis&theme=dark" height="40" alt="MySQL, PostgreSQL, MongoDB, Redis"/> |
+| **AI / CV** | <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv&theme=dark" height="40" alt="PyTorch, TensorFlow, OpenCV"/> <img src="https://img.shields.io/badge/YOLO-00FFFF?style=flat-square" height="28"/> <img src="https://img.shields.io/badge/Ultralytics-00B0FF?style=flat-square" height="28"/> |
+| **Мессенджеры** | <img src="https://skillicons.dev/icons?i=telegram&theme=dark" height="40" alt="Telegram"/> <img src="https://img.shields.io/badge/MAX-00BFFF?style=flat-square" height="28"/> <img src="https://img.shields.io/badge/VK-4C75A3?style=flat-square&logo=vk&logoColor=white" height="28"/> |
 
 </td>
 </tr>
@@ -74,76 +79,60 @@
 
 ---
 
-## 🌐 Карта сайтов / проектов
+## 📦 Технологии по репозиториям
 
 <table>
 <tr>
-<td valign="top" width="50%">
+<td valign="top" width="33%">
 
-### 🏠 strogov.com — Личные сервисы
+### 🔷 TypeScript
+brom-ai • seenauto • max-openclaw • asudd-hasyx • termosystem • nx-nest-angular-ionic • robotics-core-ui • pwi-dashboard-api • axbit-* • angular-* • chrome-new-page-ui • pwi-streaming-server
 
-| Сайт | Описание |
-|------|----------|
-| [strogov.com](https://strogov.com) | Главная страница / визитка |
-| [ai.strogov.com](https://ai.strogov.com) | AI-шлюз, Hermes Agent gateway |
-| [hermes.ai.strogov.com](https://hermes.ai.strogov.com) | Hermes Agent AI-ассистент |
-| [chat.strogov.com](http://chat.strogov.com) | Чат |
-| [chat.ai.strogov.com](https://chat.ai.strogov.com) | AI-чат |
-| [cams.strogov.com](https://cams.strogov.com) | Система видеонаблюдения (Python, WebRTC) |
-| [catty.strogov.com](https://catty.strogov.com) | Robot Catty — веб-интерфейс |
-| [casino.strogov.com](https://casino.strogov.com) | Беттинг-платформа (Next.js) |
-| [docker.ai.strogov.com](https://docker.ai.strogov.com) | Docker registry UI |
-| [gateway.ai.strogov.com](https://gateway.ai.strogov.com) | WebSocket proxy |
-| [max.ai.strogov.com](https://max.ai.strogov.com) | MAX Bot API (Python, FastAPI) |
-| [max2.ai.strogov.com](https://max2.ai.strogov.com) | MAX Bot API v2 |
-| [netdata.ai.strogov.com](https://netdata.ai.strogov.com) | Мониторинг сервера |
-| [tg.max.ai.strogov.com](https://tg.max.ai.strogov.com) | Telegram → MAX bridge |
-| [artemy.strogov.com](https://artemy.strogov.com) | Личная страница Артемия |
-| [roman.strogov.com](https://roman.strogov.com) | Личная страница Романа |
+### 🐍 Python
+max-hermes • max-hermes-plugin • seenauto-keras-yolo3 • seenauto-ai-filesystem • Vehicle-Detection • image_vector_database • cursor-* • tg-to-* • wb-auto-pricing • emergency-* • robot-catty
+
+### ⚡ JavaScript
+chrome-roonyx • com-pinger • pwi-streaming-server • pro-inav-configurator • mindbody • nwi-ionic-angular
 
 </td>
-<td valign="top" width="50%">
+<td valign="top" width="33%">
 
-### 🎨 br-design.ru — Веб-студия
+**NestJS** — brom-ai • seenauto • termosystem • robotics-core-ui
+**Next.js** — brom-ai • seenauto • asudd-hasyx
+**Angular** — brom-ai • robotics-core-ui • termosystem • nx-nest-* • angular-* • pwi-angular • mi-band-*
+**FastAPI** — max-hermes • max-hermes-plugin
+**Express** — robot-catty • mindbody • pwi-streaming-server
+**NX** — brom-ai • seenauto • termosystem • nx-nest-* • robotics-core-ui
 
-| Сайт | Описание |
-|------|----------|
-| [br-design.ru](https://br-design.ru) | Сайт веб-студии |
-| [ai.br-design.ru](https://ai.br-design.ru) | AI-сервисы студии |
-| [autodopserp.br-design.ru](https://autodopserp.br-design.ru) | Поиск автозапчастей |
-| [n8n.br-design.ru](https://n8n.br-design.ru) | n8n автоматизация |
-| [pma.br-design.ru](https://pma.br-design.ru) | phpMyAdmin |
+### 🧠 AI / ML
+**YOLO** — seenauto • seenauto-keras-yolo3 • seenauto-ai-filesystem • Vehicle-Detection
+**TensorFlow/Keras** — seenauto-keras-yolo3
+**PyTorch** — image_vector_database
+**OpenCV** — Vehicle-Detection
+**Jupyter** — Vehicle-Detection • image_vector_database
 
-### 📡 kremlan.ru — Krem City WiFi
+</td>
+<td valign="top" width="33%">
 
-| Сайт | Описание |
-|------|----------|
-| [kremlan.ru](https://kremlan.ru) | Главный портал (Next.js) |
-| [admin.kremlan.ru](https://admin.kremlan.ru) | Админ-панель (Angular) |
-| [api.kremlan.ru](https://api.kremlan.ru) | API (FastAPI, Python) |
-| [dev.kremlan.ru](https://dev.kremlan.ru) | Dev-сервер (Bun, Vite) |
-| [pay.kremlan.ru](https://pay.kremlan.ru) | Платёжная страница |
-| [status.kremlan.ru](https://status.kremlan.ru) | Статус точек доступа |
-| [wifi.kremlan.ru](https://wifi.kremlan.ru) | WiFi-портал |
+### ⚙️ C / C++ / C#
+**C++** — arduino-tl-controller
+**C** — crsf-vrx-interface
+**C#** — GetImageTrack • WIM_Form.ugadn • seenauto-ai-filesystem
 
-### 🏢 aopozp.ru — Клиентский проект
+### 🌐 Web / HTML / CSS
+auto-visor-ru-static-html • mi-band-watchface-editor-material • pwi-angular • UnicamWeb
+**PHP** — UnicamWeb
 
-| Сайт | Описание |
-|------|----------|
-| [aopozp.ru](https://aopozp.ru) | Корпоративный сайт |
-| [api.aopozp.ru](https://api.aopozp.ru) | Backend API |
-| [app.aopozp.ru](https://app.aopozp.ru) | Портал / навигация |
-| [admin.app.aopozp.ru](https://admin.app.aopozp.ru) | SPA администратора |
-| [purchase.app.aopozp.ru](https://purchase.app.aopozp.ru) | Система закупок |
-| [cewar.app.aopozp.ru](https://cewar.app.aopozp.ru) | CEWAR |
+### 🗄️ Инфраструктура
+**Docker** — brom-ai • seenauto • seenauto-ai-filesystem • Vehicle-Detection • max-hermes
+**PostgreSQL** — brom-ai
+**Redis** — brom-ai
+**Linux/systemd** — max-hermes
 
-### 🌊 bay-streaming.ru — Стриминг
-
-| Сайт | Описание |
-|------|----------|
-| [bay-streaming.ru](https://bay-streaming.ru) | Сайт сервиса |
-| [api.bay-streaming.ru](https://api.bay-streaming.ru) | API |
-| [stream.bay-streaming.ru](https://stream.bay-streaming.ru) | Стриминг-сервер |
+### 🤖 Боты
+**Telegram** — cursor-* • max-hermes • max-hermes-plugin • max-openclaw • brom-ai (mini-app) • wb-auto • emergency-* (5 агентов)
+**MAX** — max-hermes • max-hermes-plugin • max-openclaw
+**VK** — tg-to-vk-mirror
 
 </td>
 </tr>
@@ -177,24 +166,33 @@
 <tr>
 <td align="center" width="50%">
 
-### 🔌 [max-openclaw](https://github.com/RuslanStrogov/max-openclaw)
+### ⚡ [chrome-new-page-ui](https://github.com/RuslanStrogov/chrome-new-page-ui)
 
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Svelte-5-FF3E00?style=flat-square&logo=svelte&logoColor=white"/> <img src="https://img.shields.io/badge/Vite-6-646CFF?style=flat-square&logo=vite&logoColor=white"/> <img src="https://img.shields.io/badge/NestJS-11-E0234E?style=flat-square&logo=nestjs&logoColor=white"/>
 
-🔗 Telegram-клиент для MAX Bot API. Прокси-бот для интеграции MAX с Telegram.
+🎨 AI-панель для новой вкладки Chrome. Все AI-инструменты — в одном клике.
 
 </td>
 <td align="center" width="50%">
 
-### 🎰 [brom-casino](https://github.com/RuslanStrogov/brom-casino)
+### 🎛️ [brom-ai-dashboard](https://github.com/RuslanStrogov/brom-ai-dashboard)
 
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/> <img src="https://img.shields.io/badge/WebSocket-010101?style=flat-square&logo=socketdotio&logoColor=white"/>
 
-🎲 Беттинг-платформа: игры, ставки, мультивалиютность. Telegram mini-app интеграция.
+🖥️ Панель управления мультиагентной AI-системой BROM AI. 6 агентов, мониторинг в реальном времени.
 
 </td>
 </tr>
 <tr>
+<td align="center" width="50%">
+
+### 📡 [network-scanner](https://github.com/RuslanStrogov/network-scanner)
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Nmap-00B0FF?style=flat-square"/> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+
+🌐 Мониторинг сети BROM AI: nmap-сканирование, детекция изменений, Telegram-алерты. Все сканы хранятся в GitHub.
+
+</td>
 <td align="center" width="50%">
 
 ### ⌚ [Mi Band Editor](https://github.com/RuslanStrogov/mi-band-watchface-editor-material)
@@ -202,15 +200,6 @@
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white"/>
 
 🎨 Веб-редактор циферблатов Mi Band на Angular с Material Design.
-
-</td>
-<td align="center" width="50%">
-
-### 🧩 [NX Angular Ionic](https://github.com/RuslanStrogov/nx-nest-angular-ionic)
-
-<img src="https://img.shields.io/badge/Nx-1A1A2E?style=flat-square&logo=nx&logoColor=white"/> <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white"/> <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white"/>
-
-🏗️ NX-монорепозиторий: бэкенд NestJS + фронтенд Angular + мобильное приложение Ionic.
 
 </td>
 </tr>
@@ -260,6 +249,7 @@
 
 ---
 
+
 <!-- Profile Views -->
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=RuslanStrogov&label=Profile+Views&color=8B5CF6&style=flat-square" alt="Profile Views"/>
@@ -267,7 +257,7 @@
 
 <p align="center">
   <a href="README.en.md"><img src="https://img.shields.io/badge/🇬🇧%20English-0d1117?style=flat-square" alt="English"/></a>
-  <img src="https://img.shields.io/badge/🇷🇺%20Русский-8B5CF6?style=flat-square" alt="Русский"/></a>
+  <img src="https://img.shields.io/badge/🇷🇺%20Русский-8B5CF6?style=flat-square" alt="Русский"/>
 </p>
 
 <div align="center">
