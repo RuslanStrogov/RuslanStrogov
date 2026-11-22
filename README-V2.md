@@ -1,216 +1,109 @@
 <div align="center">
+  <img src="assets/header-wave.svg" width="100%" alt="Ruslan Strogov"/>
+</div>
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,9,5,3,1&height=120&section=header&text=Ruslan%20Strogov&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=25" />
+<div align="center">
+  <a href="tel:+79653302820"><img src="https://img.shields.io/badge/📞_Call-238636?style=flat-square&logo=phone&logoColor=white" alt="Phone"/></a>
+  <a href="mailto:ruslan@strogov.com"><img src="https://img.shields.io/badge/Email-ruslan@strogov.com-8B5CF6?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://t.me/brombombom"><img src="https://img.shields.io/badge/Telegram-@brombombom-26A5E4?style=flat-square&logo=telegram&logoColor=white" alt="Telegram"/></a>
+  <a href="https://strogov.com"><img src="https://img.shields.io/badge/Website-strogov.com-06B6D4?style=flat-square&logo=google-chrome&logoColor=white" alt="Website"/></a>
+  <a href="https://hh.ru/resume/806cdf03ff1033cacf0039ed1f6961667a4957"><img src="https://img.shields.io/badge/HH-Resume-FF4D4D?style=flat-square" alt="HH"/></a>
+</div>
 
-  <p>
-    <a href="tel:+796****2820"><img src="https://img.shields.io/badge/📞-Call-238636?style=flat-square&logo=phone&logoColor=white" alt="Phone"/></a>
-    <a href="mailto:ruslan@strogov.com"><img src="https://img.shields.io/badge/Email-ruslan%40strogov.com-8B5CF6?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
-    <a href="https://t.me/brombombom"><img src="https://img.shields.io/badge/Telegram-%40brombombom-26A5E4?style=flat-square&logo=telegram&logoColor=white" alt="Telegram"/></a>
-    <a href="http://strogov.com"><img src="https://img.shields.io/badge/Website-strogov.com-06B6D4?style=flat-square&logo=google-chrome&logoColor=white" alt="Website"/></a>
-    <a href="https://hh.ru/resume/806cdf03ff1033cacf0039ed1f6961667a4957"><img src="https://img.shields.io/badge/HH-Резюме-FF4D4D?style=flat-square&logo=headhunter&logoColor=white" alt="HH"/></a>
-  </p>
+## 👋 Who I am
 
-  </div>
+**Fullstack developer · Head of IT · AI agents & Computer Vision**
+
+15+ years building web applications, streaming platforms, AI systems and traffic-management solutions. Writing code since 2009 — from AngularJS 1.x to Nx monorepos, from canvas maps with 20,000+ objects to real-time WebRTC streaming.
+
+Current focus: **AI agents**, **computer vision** and **bot platforms** — products at the intersection of software, AI and real hardware.
+
+📍 Moscow, Russia · 🎓 MGUPI, Information Systems in Economics, 2009 · 🗣️ Russian (native), English (B2)
 
 ---
 
-<!-- GitHub Stats Cards -->
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RuslanStrogov&show_icons=true&count_private=true&include_all_commits=true&theme=catppuccin_mocha&hide_border=true" height="165" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RuslanStrogov&layout=compact&langs_count=8&theme=catppuccin_mocha&hide_border=true&card_width=350" height="165" alt="Top Languages"/>
-</div>
+## 💼 What I'm looking for
+
+**Fullstack developer (TypeScript / Python / AI)** — remote role in a product company.
+Interested in: AI agents, bot platforms, Computer Vision, streaming, infrastructure.
+A long-term contract matters more than freelance gigs.
 
 ---
 
-## 👋 Обо мне и 🛠 Стек технологий
-
-<table>
-<tr>
-<td valign="top" width="50%">
-
-### 👋 Обо мне
-
-**Fullstack-разработчик • Предприниматель • Визионер**
-
-15+ лет опыта в разработке веб-приложений, стриминговых платформ, AI-систем и решений для управления трафиком. Пишу код с 2009 года — от AngularJS 1.x до современных NX-монорепозиториев, от карт на canvas с 20 000+ объектами до потокового WebRTC-вещания в реальном времени.
-
-Сейчас фокус на **AI-агентах**, **компьютерном зрении** и **бот-платформах**. Строю продукты на стыке софта, AI и реальных систем.
-
-📍 Москва, Россия
-🎓 МГУПИ (Информатика в экономике, 2009)
-🗣️ Русский (родной), Английский (B2)
-
-#### 💼 Ищу работу
-
-**Fullstack-разработчик (TypeScript / Python / AI)**
-Открыт к удалённым позициям в сильных продуктовых компаниях.
-Интересны: **AI-агенты, бот-платформы, Computer Vision, стриминг, инфраструктура.**
-Стабильный долгосрочный контракт > фриланса.
-
-<div align="center">
-<a href="tel:+796****2820"><img src="https://img.shields.io/badge/📞_Звоните-238636?style=for-the-badge&logo=phone&logoColor=white"/></a>
-<a href="https://t.me/brombombom"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a>
-<a href="mailto:ruslan@strogov.com"><img src="https://img.shields.io/badge/Email-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</div>
-
-</td>
-<td valign="top" width="50%">
-
-### 🛠️ Стек технологий
+## 🛠 Stack
 
 | | |
 |---|---|
-| **Языки** | TypeScript, Python, JavaScript, Go, C++, C# |
-| **Backend** | NestJS, FastAPI, Express, Node.js |
-| **Frontend** | Angular, React, Next.js, Svelte, Ionic, Electron |
-| **Инструменты** | Nx, Docker, Turborepo, Git, Socket.IO |
-| **Данные** | MySQL, PostgreSQL, MongoDB, Redis |
-| **AI / CV** | PyTorch, TensorFlow, OpenCV, YOLO, Ultralytics |
-| **Боты / Мессенджеры** | Telegram API, VK API, MAX Bot API |
-
-</td>
-</tr>
-</table>
+| **Languages** | <img src="https://skillicons.dev/icons?i=ts,py,js,go,cpp,cs&theme=dark" height="38" alt="TypeScript, Python, JavaScript, Go, C++, C#"/> |
+| **Backend** | <img src="https://skillicons.dev/icons?i=nestjs,fastapi,express,nodejs&theme=dark" height="38" alt="NestJS, FastAPI, Express, Node.js"/> |
+| **Frontend** | <img src="https://skillicons.dev/icons?i=angular,react,nextjs,svelte,ionic,electron&theme=dark" height="38" alt="Angular, React, Next.js, Svelte, Ionic, Electron"/> |
+| **Tooling** | <img src="https://skillicons.dev/icons?i=nx,docker,turborepo,git,socketio&theme=dark" height="38" alt="Nx, Docker, Turborepo, Git, Socket.io"/> |
+| **Data** | <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis&theme=dark" height="38" alt="MySQL, PostgreSQL, MongoDB, Redis"/> |
+| **AI / CV** | <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv&theme=dark" height="38" alt="PyTorch, TensorFlow, OpenCV"/> <img src="https://img.shields.io/badge/YOLO-00FFFF?style=flat-square" height="26"/> <img src="https://img.shields.io/badge/Ultralytics-00B0FF?style=flat-square" height="26"/> |
+| **Messengers** | <img src="https://skillicons.dev/icons?i=telegram&theme=dark" height="38" alt="Telegram"/> <img src="https://img.shields.io/badge/MAX-00BFFF?style=flat-square" height="26"/> <img src="https://img.shields.io/badge/VK-4C75A3?style=flat-square&logo=vk&logoColor=white" height="26"/> |
 
 ---
 
-## 🌐 Карта сайтов / проектов
-
-<table>
-<tr>
-<td valign="top" width="50%">
-
-### 🏠 strogov.com — Личные сервисы
-
-| Сайт | Описание |
-|------|----------|
-| [strogov.com](https://strogov.com) | Главная страница / визитка |
-| [ai.strogov.com](https://ai.strogov.com) | AI-шлюз, Hermes Agent gateway |
-| [hermes.ai.strogov.com](https://hermes.ai.strogov.com) | Hermes Agent AI-ассистент |
-| [chat.strogov.com](http://chat.strogov.com) | Чат |
-| [chat.ai.strogov.com](https://chat.ai.strogov.com) | AI-чат |
-| [cams.strogov.com](https://cams.strogov.com) | Система видеонаблюдения (Python, WebRTC) |
-| [catty.strogov.com](https://catty.strogov.com) | Robot Catty — веб-интерфейс |
-| [casino.strogov.com](https://casino.strogov.com) | Беттинг-платформа (Next.js) |
-| [docker.ai.strogov.com](https://docker.ai.strogov.com) | Docker registry UI |
-| [gateway.ai.strogov.com](https://gateway.ai.strogov.com) | WebSocket proxy |
-| [max.ai.strogov.com](https://max.ai.strogov.com) | MAX Bot API (Python, FastAPI) |
-| [max2.ai.strogov.com](https://max2.ai.strogov.com) | MAX Bot API v2 |
-| [netdata.ai.strogov.com](https://netdata.ai.strogov.com) | Мониторинг сервера |
-| [tg.max.ai.strogov.com](https://tg.max.ai.strogov.com) | Telegram → MAX bridge |
-| [artemy.strogov.com](https://artemy.strogov.com) | Личная страница Артемия |
-| [roman.strogov.com](https://roman.strogov.com) | Личная страница Романа |
-
-</td>
-<td valign="top" width="50%">
-
-### 🎨 br-design.ru — Веб-студия
-
-| Сайт | Описание |
-|------|----------|
-| [br-design.ru](https://br-design.ru) | Сайт веб-студии |
-| [ai.br-design.ru](https://ai.br-design.ru) | AI-сервисы студии |
-| [autodopserp.br-design.ru](https://autodopserp.br-design.ru) | Поиск автозапчастей |
-| [n8n.br-design.ru](https://n8n.br-design.ru) | n8n автоматизация |
-| [pma.br-design.ru](https://pma.br-design.ru) | phpMyAdmin |
-
-### 📡 kremlan.ru — Krem City WiFi
-
-| Сайт | Описание |
-|------|----------|
-| [kremlan.ru](https://kremlan.ru) | Главный портал (Next.js) |
-| [admin.kremlan.ru](https://admin.kremlan.ru) | Админ-панель (Angular) |
-| [api.kremlan.ru](https://api.kremlan.ru) | API (FastAPI, Python) |
-| [dev.kremlan.ru](https://dev.kremlan.ru) | Dev-сервер (Bun, Vite) |
-| [pay.kremlan.ru](https://pay.kremlan.ru) | Платёжная страница |
-| [status.kremlan.ru](https://status.kremlan.ru) | Статус точек доступа |
-| [wifi.kremlan.ru](https://wifi.kremlan.ru) | WiFi-портал |
-
-### 🏢 aopozp.ru — Клиентский проект
-
-| Сайт | Описание |
-|------|----------|
-| [aopozp.ru](https://aopozp.ru) | Корпоративный сайт |
-| [api.aopozp.ru](https://api.aopozp.ru) | Backend API |
-| [app.aopozp.ru](https://app.aopozp.ru) | Портал / навигация |
-| [admin.app.aopozp.ru](https://admin.app.aopozp.ru) | SPA администратора |
-| [purchase.app.aopozp.ru](https://purchase.app.aopozp.ru) | Система закупок |
-| [cewar.app.aopozp.ru](https://cewar.app.aopozp.ru) | CEWAR |
-
-### 🌊 bay-streaming.ru — Стриминг
-
-| Сайт | Описание |
-|------|----------|
-| [bay-streaming.ru](https://bay-streaming.ru) | Сайт сервиса |
-| [api.bay-streaming.ru](https://api.bay-streaming.ru) | API |
-| [stream.bay-streaming.ru](https://stream.bay-streaming.ru) | Стриминг-сервер |
-
-</td>
-</tr>
-</table>
-
----
-
-## 🏆 Избранные проекты
+## 🏆 Projects
 
 <table>
 <tr>
 <td align="center" width="50%">
 
-### 🤖 [Robot Catty](https://github.com/RuslanStrogov/robot-catty)
+### 🤖 [max-hermes-plugin](https://github.com/RuslanStrogov/max-hermes-plugin) ★9
 
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Hermes_Agent-8B5CF6?style=flat-square"/>
 
-🤖 Робот на Raspberry Pi + Arduino с веб-интерфейсом управления. Сервоприводы, RGB-светодиоды, serial-связь, WebSocket.
+Native Hermes Agent plugin for the MAX Bot API: webhook, commands, inline keyboards, markdown, images. Open source.
 
 </td>
 <td align="center" width="50%">
 
-### 🧠 [max-hermes](https://github.com/RuslanStrogov/max-hermes)
+### 🌉 [max-hermes](https://github.com/RuslanStrogov/max-hermes) ★8
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
 
-🐍 Python-мост между MAX Bot API и Hermes Agent. Webhook-сервер, Docker-деплой, systemd-сервис.
+Bridge between the MAX Bot API and Hermes Agent: webhook server, long polling, Docker, systemd.
 
 </td>
 </tr>
 <tr>
 <td align="center" width="50%">
 
-### 🔌 [max-openclaw](https://github.com/RuslanStrogov/max-openclaw)
+### ⚡ [max-openclaw](https://github.com/RuslanStrogov/max-openclaw) ★4
 
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/OpenClaw-00B0FF?style=flat-square"/>
 
-🔗 Telegram-клиент для MAX Bot API. Прокси-бот для интеграции MAX с Telegram.
+MAX channel plugin for the OpenClaw AI agent: Bot API, webhooks, inline keyboards, CI/CD.
 
 </td>
 <td align="center" width="50%">
 
-### 🎰 [brom-casino](https://github.com/RuslanStrogov/brom-casino)
+### 📹 [cams-strogov](https://github.com/RuslanStrogov/cams-strogov) ★1
 
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/go2rtc-00A0E9?style=flat-square"/> <img src="https://img.shields.io/badge/RTSP-00599C?style=flat-square"/>
 
-🎲 Беттинг-платформа: игры, ставки, мультивалиютность. Telegram mini-app интеграция.
+Camera monitoring system: RTSP cameras, go2rtc, custom dashboard and API.
 
 </td>
 </tr>
 <tr>
 <td align="center" width="50%">
 
-### ⌚ [Mi Band Editor](https://github.com/RuslanStrogov/mi-band-watchface-editor-material)
+### 🎛️ [robotics-core-ui](https://github.com/RuslanStrogov/robotics-core-ui) ★3
 
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white"/>
+<img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white"/> <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white"/> <img src="https://img.shields.io/badge/Nx-143055?style=flat-square"/>
 
-🎨 Веб-редактор циферблатов Mi Band на Angular с Material Design.
+Nx monorepo: speech synthesis and recognition, load balancing, database.
 
 </td>
 <td align="center" width="50%">
 
-### 🧩 [NX Angular Ionic](https://github.com/RuslanStrogov/nx-nest-angular-ionic)
+### 🤖 [robot-catty](https://github.com/RuslanStrogov/robot-catty)
 
-<img src="https://img.shields.io/badge/Nx-1A1A2E?style=flat-square&logo=nx&logoColor=white"/> <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white"/> <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white"/>
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
 
-🏗️ NX-монорепозиторий: бэкенд NestJS + фронтенд Angular + мобильное приложение Ionic.
+Raspberry Pi + Arduino robot with a web control UI: servos, RGB LEDs, serial link, WebSocket.
 
 </td>
 </tr>
@@ -218,67 +111,120 @@
 
 ---
 
-## Опыт работы
+## 🧭 Areas of work
 
-**Директор IT-департамента** — [АйКью Регион](https://iq-region.ru/) *(Июль 2025 — наст. время)*
-> Руководство IT-стратегией и разработкой в компании по системной интеграции и разработке ПО.
+<table>
+<tr>
+<td valign="top" width="33%">
 
-**Разработчик ПО** — [КБ «Стрела»](https://strela.ru/) *(Ноябрь 2022 — Апрель 2024)*
-> Оборонная/аэрокосмическая отрасль. NDA.
+**🤖 AI agents & bots**
+[max-hermes](https://github.com/RuslanStrogov/max-hermes) · [max-hermes-plugin](https://github.com/RuslanStrogov/max-hermes-plugin) · [max-openclaw](https://github.com/RuslanStrogov/max-openclaw) · [max-shared](https://github.com/RuslanStrogov/max-shared) · [cursor-tg-bot](https://github.com/RuslanStrogov/cursor-tg-bot) · [tg-to-vk-mirror](https://github.com/RuslanStrogov/tg-to-vk-mirror)
 
-**Инженер** — [БИЭМ Групп](https://bm-technology.ru/) *(Июль 2024 — Июль 2025)*
-> Электроника и приборостроение.
+**🧩 Chrome extensions**
+[chrome-new-page-ui](https://github.com/RuslanStrogov/chrome-new-page-ui) · [chrome-roonyx](https://github.com/RuslanStrogov/chrome-roonyx)
 
-**Ведущий Frontend** — ООО «Проекты и Веб Инновации» *(2021–2022)*
-> Платформа стриминга на Wowza: WebRTC, HLS/RTMP, сцены на canvas, планирование каналов.
+</td>
+<td valign="top" width="33%">
 
-**Frontend-разработчик** — Заказчик не раскрыт *(2017–2018)*
-> Мониторинг транспорта: Angular 2 + Mapbox GL + Three.js + WebSocket. Loopback + MySQL.
+**🌐 Infrastructure & networks**
+[network-map](https://github.com/RuslanStrogov/network-map) · [network-scanner](https://github.com/RuslanStrogov/network-scanner) · [router-config](https://github.com/RuslanStrogov/router-config) · [windows-configs](https://github.com/RuslanStrogov/windows-configs) · [com-pinger](https://github.com/RuslanStrogov/com-pinger) · [emergency-backups](https://github.com/RuslanStrogov/emergency-backups)
 
-**Ведущий Frontend** — АО «Ситроникс КАСУ» *(2014–2016)*
-> СУГТ: 20 000+ объектов на Leaflet canvas, PTZ-камеры, Fabric.js анимация.
+**📹 Cameras & streaming**
+[cams-strogov](https://github.com/RuslanStrogov/cams-strogov)
+
+</td>
+<td valign="top" width="33%">
+
+**🏭 Engineering frontend**
+[robotics-core-ui](https://github.com/RuslanStrogov/robotics-core-ui) · [nx-nest-angular-ionic](https://github.com/RuslanStrogov/nx-nest-angular-ionic) · [NvmUi](https://github.com/RuslanStrogov/NvmUi) · [mi-band-watchface-editor](https://github.com/RuslanStrogov/mi-band-watchface-editor) · [vldx-portfolio](https://github.com/RuslanStrogov/vldx-portfolio)
+
+**📊 Data & automation**
+[wb-auto-pricing](https://github.com/RuslanStrogov/wb-auto-pricing) · [content-pub](https://github.com/RuslanStrogov/content-pub) · [RobloxHID](https://github.com/RuslanStrogov/RobloxHID)
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🤝 Связаться со мной
+## 💼 Experience
+
+**Head of IT** — [IQ Region](https://iq-region.ru/) *(Jul 2025 — present)*
+> IT strategy and software development at a systems-integration and software company.
+
+**Engineer** — [BIEM Group](https://bm-technology.ru/) *(Jul 2024 — Jul 2025)*
+> Electronics and instrumentation.
+
+**Software Developer** — [Strela Design Bureau](https://strela.ru/) *(Nov 2022 — Apr 2024)*
+> Defence / aerospace industry. NDA.
+
+**Lead Frontend** — Projects & Web Innovations LLC *(2021–2022)*
+> Wowza streaming platform: WebRTC, HLS/RTMP, canvas scenes, channel scheduling.
+
+**Frontend Developer** — undisclosed client *(2017–2018)*
+> Transport monitoring: Angular 2 + Mapbox GL + Three.js + WebSocket, Loopback + MySQL.
+
+**Lead Frontend** — Sitronics KASU JSC *(2014–2016)*
+> Situation centre: 20,000+ objects on Leaflet canvas, PTZ cameras, Fabric.js animation.
+
+---
+
+## 🤝 Get in touch
 
 <div align="center">
 
-<a href="tel:+796****2820"><img src="https://img.shields.io/badge/📞_Позвонить-238636?style=for-the-badge&logo=phone&logoColor=white"/></a>
+<a href="tel:+79653302820"><img src="https://img.shields.io/badge/📞_Call-238636?style=for-the-badge&logo=phone&logoColor=white"/></a>
 <a href="https://t.me/brombombom"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a>
 <a href="mailto:ruslan@strogov.com"><img src="https://img.shields.io/badge/Email-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://hh.ru/resume/806cdf03ff1033cacf0039ed1f6961667a4957"><img src="https://img.shields.io/badge/HH_Резюме-FF4D4D?style=for-the-badge"/></a>
+<a href="https://hh.ru/resume/806cdf03ff1033cacf0039ed1f6961667a4957"><img src="https://img.shields.io/badge/HH_Resume-FF4D4D?style=for-the-badge"/></a>
 <a href="https://linkedin.com/in/ruslanstrogov"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
 <br/><br/>
 
 <a href="https://br-design.ru"><img src="https://img.shields.io/badge/BR%20DESIGN-br--design.ru-8B5CF6?style=for-the-badge&logo=dribbble&logoColor=white"/></a>
 <a href="https://strogov.com"><img src="https://img.shields.io/badge/STROGOV-strogov.com-06B6D4?style=for-the-badge&logo=globe&logoColor=white"/></a>
-<a href="https://t.me/itvpi"><img src="https://img.shields.io/badge/IT%20ВПИСКА-t.me%2Fitvpi-FF6B6B?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+<a href="https://t.me/itvpi"><img src="https://img.shields.io/badge/IT%20VPI-t.me%2Fitvpi-FF6B6B?style=for-the-badge&logo=telegram&logoColor=white"/></a>
 
 </div>
 
 ---
 
-<!-- Profile Views -->
+## 📊 Stats
+
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=RuslanStrogov&label=Profile+Views&color=8B5CF6&style=flat-square" alt="Profile Views"/>
+  <img src="https://github-readme-stats-swart-nine.vercel.app/api?username=RuslanStrogov&show_icons=true&count_private=true&include_all_commits=true&theme=catppuccin_mocha&hide_border=true&icon_color=0039A6&title_color=D52B1E" height="165" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats-swart-nine.vercel.app/api/top-langs/?username=RuslanStrogov&layout=compact&langs_count=8&theme=catppuccin_mocha&hide_border=true&card_width=350" height="165" alt="Top Languages"/>
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=RuslanStrogov&theme=catppuccin-mocha&hide_border=true" height="165" alt="Streak"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RuslanStrogov&theme=catppuccin_mocha&hide_border=true" width="100%" alt="Activity Summary"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RuslanStrogov&theme=react-dark&hide_border=true&bg_color=1e1e2e&color=D52B1E&line=0039A6&point=FFFFFF" width="100%" alt="Activity Graph"/>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=RuslanStrogov&label=Profile+Views&color=0039A6&style=flat-square" alt="Profile Views"/>
 </div>
 
 <p align="center">
-  <a href="README.en.md"><img src="https://img.shields.io/badge/🇬🇧%20English-0d1117?style=flat-square" alt="English"/></a>
-  <img src="https://img.shields.io/badge/🇷🇺%20Русский-8B5CF6?style=flat-square" alt="Русский"/></a>
+  <img src="https://img.shields.io/badge/🇬🇧%20English-0039A6?style=flat-square" alt="English"/>
+  <a href="README.md"><img src="https://img.shields.io/badge/🇷🇺%20Русский-1e1e2e?style=flat-square" alt="Русский"/></a>
 </p>
 
 <div align="center">
-  <img src="assets/me.png" width="120" alt="Ruslan sitting on the floor 😄" />
+  <img src="assets/me.png" width="110" alt="Ruslan"/>
   <br/>
-  <sub>🤷‍♂️ Когда код компилируется с первого раза</sub>
+  <sub>🤷‍♂️ When the code compiles on the first try</sub>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,9,5,3,1&height=80&section=footer" width="100%"/>
+  <img src="assets/footer-wave.svg" width="100%" alt=""/>
   <sub>🎨 <a href="https://br-design.ru/">BR-DESIGN</a> · 🤖 <a href="https://t.me/brombombom">BROM AI</a></sub>
 </div>

@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="110" viewBox="0 0 1200 110" role="img" aria-label="Ruslan Strogov">
+  <defs>
+    <linearGradient id="rfF" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#FFFFFF"/>
+      <stop offset="42%" stop-color="#0039A6"/>
+      <stop offset="100%" stop-color="#D52B1E"/>
+    </linearGradient>
+    <linearGradient id="rfFBack" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#FFFFFF"/>
+      <stop offset="45%" stop-color="#0050C8"/>
+      <stop offset="100%" stop-color="#E8322A"/>
+    </linearGradient>
+  </defs>
+
+  <!-- back wave -->
+  <path fill="url(#rfFBack)" opacity="0.34" d="M0 110 H1200 V44 Q900 72 600 44 T0 32 Z">
+    <animate attributeName="d" dur="14s" repeatCount="indefinite" calcMode="spline"
+      keyTimes="0;0.33;0.66;1" keySplines="0.2 0 0.2 1;0.2 0 0.2 1;0.2 0 0.2 1"
+      values="M0 110 H1200 V44 Q900 72 600 44 T0 32 Z;
+              M0 110 H1200 V60 Q900 28 600 60 T0 40 Z;
+              M0 110 H1200 V30 Q900 60 600 34 T0 56 Z;
+              M0 110 H1200 V44 Q900 72 600 44 T0 32 Z"/>
+  </path>
+
+  <!-- front wave (tricolor) -->
+  <path fill="url(#rfF)" d="M0 110 H1200 V36 Q900 64 600 38 T0 56 Z">
+    <animate attributeName="d" dur="14s" repeatCount="indefinite" calcMode="spline"
+      keyTimes="0;0.33;0.66;1" keySplines="0.2 0 0.2 1;0.2 0 0.2 1;0.2 0 0.2 1"
+      values="M0 110 H1200 V36 Q900 64 600 38 T0 56 Z;
+              M0 110 H1200 V52 Q900 22 600 50 T0 30 Z;
+              M0 110 H1200 V26 Q900 50 600 22 T0 46 Z;
+              M0 110 H1200 V36 Q900 64 600 38 T0 56 Z"/>
+  </path>
+</svg>
