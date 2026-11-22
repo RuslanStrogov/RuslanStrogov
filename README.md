@@ -12,21 +12,32 @@
 
 ## 👋 Кто я
 
-**Fullstack-разработчик · директор IT-департамента · AI-агенты и Computer Vision**
+**Fullstack-разработчик (TypeScript) · AI-агенты и интеграции · enterprise-автоматизация**
 
-15+ лет в разработке: веб-приложения, стриминговые платформы, AI-системы, управление трафиком. Пишу код с 2009 года — от AngularJS 1.x до Nx-монорепозиториев, от карт на canvas с 20 000+ объектов до WebRTC-вещания в реальном времени.
+13+ лет в разработке. Фронтенд — Angular с первой версии (1.x → современные, RxJS, Angular Material, Nx-монорепозитории). Бэкенд — Node.js (NestJS, Express, Fastify), проектирование API и схем БД. Параллельно — enterprise-автоматизация: MS SQL Server, C#, легаси на Visual FoxPro, интеграции через XML и ЭДО.
 
-Сегодня фокус — **AI-агенты**, **компьютерное зрение** и **бот-платформы**: продукты на стыке софта, AI и реального железа.
+Отдельная линия — **AI/LLM**: агентные интеграции (плагины и мосты между мессенджерами и AI-агентом), локальный инференс (Ollama, llama.cpp), MCP-инструменты, инфраструктура под ИИ-нагрузку.
 
-📍 Москва, Россия · 🎓 МГУПИ, «Информатика в экономике», 2009 · 🗣️ русский (родной), английский (B2)
+**Open source:** 23 репозитория · 982 коммита · 74 PR · 34 ★ · 123 подписчика
+
+📍 Кремёнки, Калужская обл. (юг Подмосковья) · 🎓 МГУПИ, «Информатика в экономике», 2009 · 🗣️ русский (родной), английский (B2)
 
 ---
 
 ## 💼 Что ищу
 
-**Fullstack-разработчик (TypeScript / Python / AI)** — удалённая работа в продуктовой компании.
-Интересны: AI-агенты, бот-платформы, Computer Vision, стриминг, инфраструктура.
-Долгосрочный контракт важнее фриланса.
+Удалённую работу в продуктовой команде с горизонтом в несколько лет — рост по технической линии, а не перевод в менеджмент.
+
+**Мои четыре профиля:**
+
+| Профиль | Что закрываю |
+|---|---|
+| **Fullstack TypeScript** | Angular + Node.js: интерфейсы, API, интеграции — от макета до продакшена |
+| **Backend Node.js / NestJS** | REST и событийные API, схемы БД (PostgreSQL, MySQL, MongoDB), Redis, Docker, CI/CD |
+| **AI/LLM-инженер** | Агентные интеграции, Bot API, webhook-серверы, MCP, локальный инференс, маршрутизация моделей |
+| **Frontend Angular** | Angular 1.x → современные версии, RxJS, Nx, Angular Material, WebRTC/HLS-плееры, embedded-виджеты |
+
+**Формат:** удалённо — приоритет. Москва и Подмосковье — если работодатель полностью обеспечивает релокацию. Командировки — да.
 
 ---
 
@@ -34,12 +45,14 @@
 
 | | |
 |---|---|
-| **Языки** | <img src="https://skillicons.dev/icons?i=ts,py,js,go,cpp,cs&theme=dark" height="38" alt="TypeScript, Python, JavaScript, Go, C++, C#"/> |
+| **Языки** | <img src="https://skillicons.dev/icons?i=ts,py,js,cs,go,cpp&theme=dark" height="38" alt="TypeScript, Python, JavaScript, C#, Go, C++"/> <img src="https://img.shields.io/badge/MS_SQL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" height="26"/> <img src="https://img.shields.io/badge/FoxPro-8B5CF6?style=flat-square" height="26"/> |
 | **Backend** | <img src="https://skillicons.dev/icons?i=nestjs,fastapi,express,nodejs&theme=dark" height="38" alt="NestJS, FastAPI, Express, Node.js"/> |
-| **Frontend** | <img src="https://skillicons.dev/icons?i=angular,react,nextjs,svelte,ionic,electron&theme=dark" height="38" alt="Angular, React, Next.js, Svelte, Ionic, Electron"/> |
-| **Инструменты** | <img src="https://skillicons.dev/icons?i=nx,docker,turborepo,git,socketio&theme=dark" height="38" alt="Nx, Docker, Turborepo, Git, Socket.io"/> |
-| **Данные** | <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis&theme=dark" height="38" alt="MySQL, PostgreSQL, MongoDB, Redis"/> |
-| **AI / CV** | <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv&theme=dark" height="38" alt="PyTorch, TensorFlow, OpenCV"/> <img src="https://img.shields.io/badge/YOLO-00FFFF?style=flat-square" height="26"/> <img src="https://img.shields.io/badge/Ultralytics-00B0FF?style=flat-square" height="26"/> |
+| **Frontend** | <img src="https://skillicons.dev/icons?i=angular,rxjs,react,nextjs,svelte,ionic&theme=dark" height="38" alt="Angular, RxJS, React, Next.js, Svelte, Ionic"/> |
+| **Инструменты** | <img src="https://skillicons.dev/icons?i=nx,docker,git,githubactions,socketio&theme=dark" height="38" alt="Nx, Docker, Git, GitHub Actions, Socket.io"/> |
+| **Данные** | <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis&theme=dark" height="38" alt="PostgreSQL, MySQL, MongoDB, Redis"/> <img src="https://img.shields.io/badge/Qdrant-DC244C?style=flat-square" height="26"/> |
+| **AI / LLM** | <img src="https://img.shields.io/badge/LLM_API-000000?style=flat-square" height="26"/> <img src="https://img.shields.io/badge/MCP-8B5CF6?style=flat-square" height="26"/> <img src="https://img.shields.io/badge/Ollama-FFFFFF?style=flat-square&logoColor=black" height="26"/> <img src="https://img.shields.io/badge/llama.cpp-00B0FF?style=flat-square" height="26"/> <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv&theme=dark" height="38" alt="PyTorch, TensorFlow, OpenCV"/> |
+| **Инфраструктура** | <img src="https://img.shields.io/badge/nginx-009639?style=flat-square&logo=nginx&logoColor=white" height="26"/> <img src="https://img.shields.io/badge/MediaMTX-00A0E9?style=flat-square" height="26"/> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" height="26"/> <img src="https://img.shields.io/badge/OpenWrt-00B5E2?style=flat-square&logo=openwrt&logoColor=white" height="26"/> |
+| **Embedded** | <img src="https://skillicons.dev/icons?i=arduino,raspberrypi&theme=dark" height="38" alt="Arduino, Raspberry Pi"/> |
 | **Мессенджеры** | <img src="https://skillicons.dev/icons?i=telegram&theme=dark" height="38" alt="Telegram"/> <img src="https://img.shields.io/badge/MAX-00BFFF?style=flat-square" height="26"/> <img src="https://img.shields.io/badge/VK-4C75A3?style=flat-square&logo=vk&logoColor=white" height="26"/> |
 
 ---
@@ -54,7 +67,7 @@
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Hermes_Agent-8B5CF6?style=flat-square"/>
 
-Нативный плагин Hermes Agent для MAX Bot API: webhook, команды, inline-кнопки, markdown, картинки. Open-source.
+Плагин Hermes Agent для MAX Bot API: webhook, команды, inline-клавиатуры, markdown, изображения. Open-source.
 
 </td>
 <td align="center" width="50%">
@@ -63,7 +76,7 @@
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
 
-Мост между MAX Bot API и Hermes Agent: webhook-сервер, long polling, Docker, systemd.
+Мост между MAX Bot API и AI-агентом: long polling + webhook, Docker, systemd.
 
 </td>
 </tr>
@@ -72,18 +85,18 @@
 
 ### ⚡ [max-openclaw](https://github.com/RuslanStrogov/max-openclaw) ★4
 
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/OpenClaw-00B0FF?style=flat-square"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white"/>
 
-Channel-плагин MAX для AI-агента OpenClaw: Bot API, webhook, inline-кнопки, CI/CD.
+TypeScript-плагин канала MAX для AI-агента OpenClaw: Bot API, webhook, inline-кнопки, CI/CD-пайплайн.
 
 </td>
 <td align="center" width="50%">
 
-### 📹 [cams-strogov](https://github.com/RuslanStrogov/cams-strogov) ★1
+### 📡 [com-pinger](https://github.com/RuslanStrogov/com-pinger) ★4
 
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/go2rtc-00A0E9?style=flat-square"/> <img src="https://img.shields.io/badge/RTSP-00599C?style=flat-square"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white"/>
 
-Система видеонаблюдения: RTSP-камеры, go2rtc, собственная панель и API.
+Node.js ↔ Arduino по serial: замер RTT, автопереподключение, CLI-аргументы. Embedded-навык в чистом виде.
 
 </td>
 </tr>
@@ -94,16 +107,36 @@ Channel-плагин MAX для AI-агента OpenClaw: Bot API, webhook, inli
 
 <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white"/> <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white"/> <img src="https://img.shields.io/badge/Nx-143055?style=flat-square"/>
 
-Nx-монорепозиторий: синтез и распознавание речи, балансировка нагрузки, БД.
+Nx-монорепозиторий: синтез и распознавание речи, балансировка нагрузки, работа с БД.
 
 </td>
 <td align="center" width="50%">
 
-### 🤖 [robot-catty](https://github.com/RuslanStrogov/robot-catty)
+### 🎰 [brom-casino](https://github.com/RuslanStrogov/brom-casino)
 
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white"/> <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
 
-Робот на Raspberry Pi + Arduino с веб-интерфейсом: сервоприводы, RGB, serial, WebSocket.
+Монорепо игровой платформы: NestJS + Next.js, PostgreSQL, Redis, Telegram Mini App, TON, Turborepo.
+
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+
+### 📹 [cams-strogov](https://github.com/RuslanStrogov/cams-strogov)
+
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/go2rtc-00A0E9?style=flat-square"/> <img src="https://img.shields.io/badge/RTSP-00599C?style=flat-square"/>
+
+Видеонаблюдение: RTSP-камеры, go2rtc, панель оператора и API.
+
+</td>
+<td align="center" width="50%">
+
+### 🤖 [robot-catty](https://github.com/RuslanStrogov/robot-catty) ★1
+
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=flat-square&logo=raspberrypi&logoColor=white"/>
+
+Робот на Raspberry Pi + Arduino с веб-интерфейсом: сервоприводы, RGB, serial-связь, WebSocket.
 
 </td>
 </tr>
@@ -118,28 +151,31 @@ Nx-монорепозиторий: синтез и распознавание р
 <td valign="top" width="33%">
 
 **🤖 AI-агенты и боты**
-[max-hermes](https://github.com/RuslanStrogov/max-hermes) · [max-hermes-plugin](https://github.com/RuslanStrogov/max-hermes-plugin) · [max-openclaw](https://github.com/RuslanStrogov/max-openclaw) · [max-shared](https://github.com/RuslanStrogov/max-shared) · [cursor-tg-bot](https://github.com/RuslanStrogov/cursor-tg-bot) · [tg-to-vk-mirror](https://github.com/RuslanStrogov/tg-to-vk-mirror)
+[max-hermes](https://github.com/RuslanStrogov/max-hermes) · [max-hermes-plugin](https://github.com/RuslanStrogov/max-hermes-plugin) · [max-openclaw](https://github.com/RuslanStrogov/max-openclaw) · [max-shared](https://github.com/RuslanStrogov/max-shared) · [awesome-max-integrations](https://github.com/RuslanStrogov/awesome-max-integrations) · [cursor-tg-bot](https://github.com/RuslanStrogov/cursor-tg-bot) · [tg-to-vk-mirror](https://github.com/RuslanStrogov/tg-to-vk-mirror)
 
 **🧩 Chrome-расширения**
-[chrome-new-page-ui](https://github.com/RuslanStrogov/chrome-new-page-ui) · [chrome-roonyx](https://github.com/RuslanStrogov/chrome-roonyx)
+[chrome-new-page-ui](https://github.com/RuslanStrogov/chrome-new-page-ui) · [chrome-roonyx](https://github.com/RuslanStrogov/chrome-roonyx) (MV3, фильтрация контента)
 
 </td>
 <td valign="top" width="33%">
 
 **🌐 Инфраструктура и сети**
-[network-map](https://github.com/RuslanStrogov/network-map) · [network-scanner](https://github.com/RuslanStrogov/network-scanner) · [router-config](https://github.com/RuslanStrogov/router-config) · [windows-configs](https://github.com/RuslanStrogov/windows-configs) · [com-pinger](https://github.com/RuslanStrogov/com-pinger) · [emergency-backups](https://github.com/RuslanStrogov/emergency-backups)
+[network-map](https://github.com/RuslanStrogov/network-map) · [network-scanner](https://github.com/RuslanStrogov/network-scanner) · [router-config](https://github.com/RuslanStrogov/router-config) · [windows-configs](https://github.com/RuslanStrogov/windows-configs) · [emergency-backups](https://github.com/RuslanStrogov/emergency-backups)
 
 **📹 Камеры и стриминг**
-[cams-strogov](https://github.com/RuslanStrogov/cams-strogov)
+[cams-strogov](https://github.com/RuslanStrogov/cams-strogov) · MediaMTX (RTSP/HLS/WebRTC), панели оператора, embedded-виджеты
+
+**📊 Данные и автоматизация**
+[wb-auto-pricing](https://github.com/RuslanStrogov/wb-auto-pricing) · [content-pub](https://github.com/RuslanStrogov/content-pub) · [super-ai-ru](https://github.com/RuslanStrogov/super-ai-ru)
 
 </td>
 <td valign="top" width="33%">
 
 **🏭 Инженерный фронтенд**
-[robotics-core-ui](https://github.com/RuslanStrogov/robotics-core-ui) · [nx-nest-angular-ionic](https://github.com/RuslanStrogov/nx-nest-angular-ionic) · [NvmUi](https://github.com/RuslanStrogov/NvmUi) · [mi-band-watchface-editor](https://github.com/RuslanStrogov/mi-band-watchface-editor) · [vldx-portfolio](https://github.com/RuslanStrogov/vldx-portfolio)
+[robotics-core-ui](https://github.com/RuslanStrogov/robotics-core-ui) · [taxi-api-web-mobile](https://github.com/RuslanStrogov/taxi-api-web-mobile) · [nx-nest-angular-ionic](https://github.com/RuslanStrogov/nx-nest-angular-ionic) · [NvmUi](https://github.com/RuslanStrogov/NvmUi) · [mi-band-watchface-editor](https://github.com/RuslanStrogov/mi-band-watchface-editor)
 
-**📊 Данные и автоматизация**
-[wb-auto-pricing](https://github.com/RuslanStrogov/wb-auto-pricing) · [content-pub](https://github.com/RuslanStrogov/content-pub) · [RobloxHID](https://github.com/RuslanStrogov/RobloxHID)
+**🔌 Embedded и железо**
+[com-pinger](https://github.com/RuslanStrogov/com-pinger) · [robot-catty](https://github.com/RuslanStrogov/robot-catty) · [RobloxHID](https://github.com/RuslanStrogov/RobloxHID)
 
 </td>
 </tr>
@@ -149,23 +185,32 @@ Nx-монорепозиторий: синтез и распознавание р
 
 ## 💼 Опыт работы
 
-**Директор IT-департамента** — [АйКью Регион](https://iq-region.ru/) *(июль 2025 — наст. время)*
-> Руководство IT-стратегией и разработкой в компании по системной интеграции и разработке ПО.
+### Инженер-программист — АО «ПОЗ «Прогресс», Протвино *(сен 2026 — наст. время)*
+> Автоматизация в контуре АСУ предприятия на **MS SQL Server**: проектирование таблиц и запросов, оптимизация выборок. Сопровождение и развитие легаси на **Visual FoxPro и C#**: разбор чужого кода, доработка задач, рефакторинг. Интеграция с внешними системами — обмен документами с ЭДО «Контур Диадок», работа с XML. Документация и работа по стандартам предприятия.
 
-**Инженер** — [БИЭМ Групп](https://bm-technology.ru/) *(июль 2024 — июль 2025)*
+### Директор департамента ИТ — [АйКью Регион](https://iq-region.ru/) *(июл 2025 — мар 2026)*
+> IT-стратегия, процессы разработки, команда, подрядчики, бюджет.
+
+### Инженер — [БИЭМ Групп](https://bm-technology.ru/) *(июл 2024 — июл 2025)*
 > Электроника и приборостроение.
 
-**Разработчик ПО** — [КБ «Стрела»](https://strela.ru/) *(ноябрь 2022 — апрель 2024)*
-> Оборонная/аэрокосмическая отрасль. NDA.
+### Разработчик ПО — [КБ «Стрела»](https://strela.ru/) *(ноя 2022 — апр 2024)*
+> Оборонная и аэрокосмическая отрасль. NDA.
 
-**Ведущий Frontend** — ООО «Проекты и Веб Инновации» *(2021–2022)*
-> Платформа стриминга на Wowza: WebRTC, HLS/RTMP, сцены на canvas, планирование каналов.
+### Ведущий Frontend-разработчик — «Проекты и Веб Инновации» *(июн 2021 — дек 2022)*
+> Панель управления системой потокового вещания (Wowza Streaming Engine): Angular-фронтенд, live-каналы, WebRTC/RTMP/HLS-плееры с переключением битрейта и мульти-аудио, конфигуратор наложения слоёв, виджеты для встраивания. Проектировал архитектуру и API (Swagger), вёл задачи в Jira, писал серверную часть на Node.js/Express/Mongo.
 
-**Frontend-разработчик** — Заказчик не раскрыт *(2017–2018)*
-> Мониторинг транспорта: Angular 2 + Mapbox GL + Three.js + WebSocket, Loopback + MySQL.
+### Своё дело — BR-DESIGN *(июл 2021 — фев 2024)*
+> Клиентские сайты и лендинги, дизайн. Кластер серверов хостинга в высокоскоростной сети — 30+ сайтов клиентов, работает до сих пор.
 
-**Ведущий Frontend** — АО «Ситроникс КАСУ» *(2014–2016)*
+### Инженер-разработчик — мониторинг транспорта *(июн 2017 — апр 2018)*
+> Angular 2 + Mapbox GL + Three.js + WebSocket, Loopback + MySQL.
+
+### Ведущий Frontend-разработчик — АО «Ситроникс КАСУ» *(ноя 2014 — май 2016)*
 > СУГТ: 20 000+ объектов на Leaflet canvas, PTZ-камеры, анимация Fabric.js.
+
+### Раньше
+> 2011–2014 — директор IT. 2009–2011 — от web-дизайна до web-программиста. Плюс embedded: микроконтроллеры, Arduino/Raspberry Pi, бортовое оборудование, пусконаладка на объектах, 3D-печать.
 
 ---
 

@@ -12,21 +12,32 @@
 
 ## 👋 Who I am
 
-**Fullstack developer · Head of IT · AI agents & Computer Vision**
+**Fullstack developer (TypeScript) · AI agents & integrations · enterprise automation**
 
-15+ years building web applications, streaming platforms, AI systems and traffic-management solutions. Writing code since 2009 — from AngularJS 1.x to Nx monorepos, from canvas maps with 20,000+ objects to real-time WebRTC streaming.
+13+ years in software. Frontend — Angular since its first version (1.x → modern releases, RxJS, Angular Material, Nx monorepos). Backend — Node.js (NestJS, Express, Fastify), API and database schema design. Plus enterprise automation: MS SQL Server, C#, legacy Visual FoxPro, XML and EDI integrations.
 
-Current focus: **AI agents**, **computer vision** and **bot platforms** — products at the intersection of software, AI and real hardware.
+A separate line of work — **AI/LLM**: agent integrations (plugins and bridges between messengers and an AI agent), local inference (Ollama, llama.cpp), MCP tools, infrastructure built for AI workloads.
 
-📍 Moscow, Russia · 🎓 MGUPI, Information Systems in Economics, 2009 · 🗣️ Russian (native), English (B2)
+**Open source:** 23 repositories · 982 commits · 74 PRs · 34 ★ · 123 followers
+
+📍 Kremyonki, Kaluga region (south of Moscow area) · 🎓 MGUPI, Information Systems in Economics, 2009 · 🗣️ Russian (native), English (B2)
 
 ---
 
 ## 💼 What I'm looking for
 
-**Fullstack developer (TypeScript / Python / AI)** — remote role in a product company.
-Interested in: AI agents, bot platforms, Computer Vision, streaming, infrastructure.
-A long-term contract matters more than freelance gigs.
+A remote role in a product team with a multi-year horizon — growth along the technical track, not a move into management.
+
+**Four profiles I cover:**
+
+| Profile | What I deliver |
+|---|---|
+| **Fullstack TypeScript** | Angular + Node.js: interfaces, APIs, integrations — from mockup to production |
+| **Backend Node.js / NestJS** | REST and event-driven APIs, DB schemas (PostgreSQL, MySQL, MongoDB), Redis, Docker, CI/CD |
+| **AI/LLM engineer** | Agent integrations, Bot APIs, webhook servers, MCP, local inference, model routing |
+| **Frontend Angular** | Angular 1.x → modern, RxJS, Nx, Angular Material, WebRTC/HLS players, embeddable widgets |
+
+**Format:** remote first. Moscow / Moscow region — only if the employer fully covers relocation. Business trips — fine.
 
 ---
 
@@ -34,12 +45,14 @@ A long-term contract matters more than freelance gigs.
 
 | | |
 |---|---|
-| **Languages** | <img src="https://skillicons.dev/icons?i=ts,py,js,go,cpp,cs&theme=dark" height="38" alt="TypeScript, Python, JavaScript, Go, C++, C#"/> |
+| **Languages** | <img src="https://skillicons.dev/icons?i=ts,py,js,cs,go,cpp&theme=dark" height="38" alt="TypeScript, Python, JavaScript, C#, Go, C++"/> <img src="https://img.shields.io/badge/MS_SQL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" height="26"/> <img src="https://img.shields.io/badge/FoxPro-8B5CF6?style=flat-square" height="26"/> |
 | **Backend** | <img src="https://skillicons.dev/icons?i=nestjs,fastapi,express,nodejs&theme=dark" height="38" alt="NestJS, FastAPI, Express, Node.js"/> |
-| **Frontend** | <img src="https://skillicons.dev/icons?i=angular,react,nextjs,svelte,ionic,electron&theme=dark" height="38" alt="Angular, React, Next.js, Svelte, Ionic, Electron"/> |
-| **Tooling** | <img src="https://skillicons.dev/icons?i=nx,docker,turborepo,git,socketio&theme=dark" height="38" alt="Nx, Docker, Turborepo, Git, Socket.io"/> |
-| **Data** | <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis&theme=dark" height="38" alt="MySQL, PostgreSQL, MongoDB, Redis"/> |
-| **AI / CV** | <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv&theme=dark" height="38" alt="PyTorch, TensorFlow, OpenCV"/> <img src="https://img.shields.io/badge/YOLO-00FFFF?style=flat-square" height="26"/> <img src="https://img.shields.io/badge/Ultralytics-00B0FF?style=flat-square" height="26"/> |
+| **Frontend** | <img src="https://skillicons.dev/icons?i=angular,rxjs,react,nextjs,svelte,ionic&theme=dark" height="38" alt="Angular, RxJS, React, Next.js, Svelte, Ionic"/> |
+| **Tooling** | <img src="https://skillicons.dev/icons?i=nx,docker,git,githubactions,socketio&theme=dark" height="38" alt="Nx, Docker, Git, GitHub Actions, Socket.io"/> |
+| **Data** | <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis&theme=dark" height="38" alt="PostgreSQL, MySQL, MongoDB, Redis"/> <img src="https://img.shields.io/badge/Qdrant-DC244C?style=flat-square" height="26"/> |
+| **AI / LLM** | <img src="https://img.shields.io/badge/LLM_API-000000?style=flat-square" height="26"/> <img src="https://img.shields.io/badge/MCP-8B5CF6?style=flat-square" height="26"/> <img src="https://img.shields.io/badge/Ollama-FFFFFF?style=flat-square&logoColor=black" height="26"/> <img src="https://img.shields.io/badge/llama.cpp-00B0FF?style=flat-square" height="26"/> <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv&theme=dark" height="38" alt="PyTorch, TensorFlow, OpenCV"/> |
+| **Infrastructure** | <img src="https://img.shields.io/badge/nginx-009639?style=flat-square&logo=nginx&logoColor=white" height="26"/> <img src="https://img.shields.io/badge/MediaMTX-00A0E9?style=flat-square" height="26"/> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" height="26"/> <img src="https://img.shields.io/badge/OpenWrt-00B5E2?style=flat-square&logo=openwrt&logoColor=white" height="26"/> |
+| **Embedded** | <img src="https://skillicons.dev/icons?i=arduino,raspberrypi&theme=dark" height="38" alt="Arduino, Raspberry Pi"/> |
 | **Messengers** | <img src="https://skillicons.dev/icons?i=telegram&theme=dark" height="38" alt="Telegram"/> <img src="https://img.shields.io/badge/MAX-00BFFF?style=flat-square" height="26"/> <img src="https://img.shields.io/badge/VK-4C75A3?style=flat-square&logo=vk&logoColor=white" height="26"/> |
 
 ---
@@ -54,7 +67,7 @@ A long-term contract matters more than freelance gigs.
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Hermes_Agent-8B5CF6?style=flat-square"/>
 
-Native Hermes Agent plugin for the MAX Bot API: webhook, commands, inline keyboards, markdown, images. Open source.
+Hermes Agent plugin for the MAX Bot API: webhook, commands, inline keyboards, markdown, images. Open source.
 
 </td>
 <td align="center" width="50%">
@@ -63,7 +76,7 @@ Native Hermes Agent plugin for the MAX Bot API: webhook, commands, inline keyboa
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
 
-Bridge between the MAX Bot API and Hermes Agent: webhook server, long polling, Docker, systemd.
+Bridge between the MAX Bot API and an AI agent: long polling + webhook, Docker, systemd.
 
 </td>
 </tr>
@@ -72,18 +85,18 @@ Bridge between the MAX Bot API and Hermes Agent: webhook server, long polling, D
 
 ### ⚡ [max-openclaw](https://github.com/RuslanStrogov/max-openclaw) ★4
 
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/OpenClaw-00B0FF?style=flat-square"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white"/>
 
-MAX channel plugin for the OpenClaw AI agent: Bot API, webhooks, inline keyboards, CI/CD.
+TypeScript MAX channel plugin for the OpenClaw AI agent: Bot API, webhooks, inline keyboards, CI/CD pipeline.
 
 </td>
 <td align="center" width="50%">
 
-### 📹 [cams-strogov](https://github.com/RuslanStrogov/cams-strogov) ★1
+### 📡 [com-pinger](https://github.com/RuslanStrogov/com-pinger) ★4
 
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/go2rtc-00A0E9?style=flat-square"/> <img src="https://img.shields.io/badge/RTSP-00599C?style=flat-square"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white"/>
 
-Camera monitoring system: RTSP cameras, go2rtc, custom dashboard and API.
+Node.js ↔ Arduino over serial: RTT measurement, auto-reconnect, CLI args. Embedded skills, plain to see.
 
 </td>
 </tr>
@@ -94,14 +107,34 @@ Camera monitoring system: RTSP cameras, go2rtc, custom dashboard and API.
 
 <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white"/> <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white"/> <img src="https://img.shields.io/badge/Nx-143055?style=flat-square"/>
 
-Nx monorepo: speech synthesis and recognition, load balancing, database.
+Nx monorepo: speech synthesis and recognition, load balancing, database layer.
 
 </td>
 <td align="center" width="50%">
 
-### 🤖 [robot-catty](https://github.com/RuslanStrogov/robot-catty)
+### 🎰 [brom-casino](https://github.com/RuslanStrogov/brom-casino)
 
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white"/> <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
+
+Game platform monorepo: NestJS + Next.js, PostgreSQL, Redis, Telegram Mini App, TON, Turborepo.
+
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+
+### 📹 [cams-strogov](https://github.com/RuslanStrogov/cams-strogov)
+
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/go2rtc-00A0E9?style=flat-square"/> <img src="https://img.shields.io/badge/RTSP-00599C?style=flat-square"/>
+
+Camera monitoring: RTSP cameras, go2rtc, operator dashboard and API.
+
+</td>
+<td align="center" width="50%">
+
+### 🤖 [robot-catty](https://github.com/RuslanStrogov/robot-catty) ★1
+
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=flat-square&logo=raspberrypi&logoColor=white"/>
 
 Raspberry Pi + Arduino robot with a web control UI: servos, RGB LEDs, serial link, WebSocket.
 
@@ -118,28 +151,31 @@ Raspberry Pi + Arduino robot with a web control UI: servos, RGB LEDs, serial lin
 <td valign="top" width="33%">
 
 **🤖 AI agents & bots**
-[max-hermes](https://github.com/RuslanStrogov/max-hermes) · [max-hermes-plugin](https://github.com/RuslanStrogov/max-hermes-plugin) · [max-openclaw](https://github.com/RuslanStrogov/max-openclaw) · [max-shared](https://github.com/RuslanStrogov/max-shared) · [cursor-tg-bot](https://github.com/RuslanStrogov/cursor-tg-bot) · [tg-to-vk-mirror](https://github.com/RuslanStrogov/tg-to-vk-mirror)
+[max-hermes](https://github.com/RuslanStrogov/max-hermes) · [max-hermes-plugin](https://github.com/RuslanStrogov/max-hermes-plugin) · [max-openclaw](https://github.com/RuslanStrogov/max-openclaw) · [max-shared](https://github.com/RuslanStrogov/max-shared) · [awesome-max-integrations](https://github.com/RuslanStrogov/awesome-max-integrations) · [cursor-tg-bot](https://github.com/RuslanStrogov/cursor-tg-bot) · [tg-to-vk-mirror](https://github.com/RuslanStrogov/tg-to-vk-mirror)
 
 **🧩 Chrome extensions**
-[chrome-new-page-ui](https://github.com/RuslanStrogov/chrome-new-page-ui) · [chrome-roonyx](https://github.com/RuslanStrogov/chrome-roonyx)
+[chrome-new-page-ui](https://github.com/RuslanStrogov/chrome-new-page-ui) · [chrome-roonyx](https://github.com/RuslanStrogov/chrome-roonyx) (MV3, content filtering)
 
 </td>
 <td valign="top" width="33%">
 
 **🌐 Infrastructure & networks**
-[network-map](https://github.com/RuslanStrogov/network-map) · [network-scanner](https://github.com/RuslanStrogov/network-scanner) · [router-config](https://github.com/RuslanStrogov/router-config) · [windows-configs](https://github.com/RuslanStrogov/windows-configs) · [com-pinger](https://github.com/RuslanStrogov/com-pinger) · [emergency-backups](https://github.com/RuslanStrogov/emergency-backups)
+[network-map](https://github.com/RuslanStrogov/network-map) · [network-scanner](https://github.com/RuslanStrogov/network-scanner) · [router-config](https://github.com/RuslanStrogov/router-config) · [windows-configs](https://github.com/RuslanStrogov/windows-configs) · [emergency-backups](https://github.com/RuslanStrogov/emergency-backups)
 
 **📹 Cameras & streaming**
-[cams-strogov](https://github.com/RuslanStrogov/cams-strogov)
+[cams-strogov](https://github.com/RuslanStrogov/cams-strogov) · MediaMTX (RTSP/HLS/WebRTC), operator dashboards, embeddable widgets
+
+**📊 Data & automation**
+[wb-auto-pricing](https://github.com/RuslanStrogov/wb-auto-pricing) · [content-pub](https://github.com/RuslanStrogov/content-pub) · [super-ai-ru](https://github.com/RuslanStrogov/super-ai-ru)
 
 </td>
 <td valign="top" width="33%">
 
 **🏭 Engineering frontend**
-[robotics-core-ui](https://github.com/RuslanStrogov/robotics-core-ui) · [nx-nest-angular-ionic](https://github.com/RuslanStrogov/nx-nest-angular-ionic) · [NvmUi](https://github.com/RuslanStrogov/NvmUi) · [mi-band-watchface-editor](https://github.com/RuslanStrogov/mi-band-watchface-editor) · [vldx-portfolio](https://github.com/RuslanStrogov/vldx-portfolio)
+[robotics-core-ui](https://github.com/RuslanStrogov/robotics-core-ui) · [taxi-api-web-mobile](https://github.com/RuslanStrogov/taxi-api-web-mobile) · [nx-nest-angular-ionic](https://github.com/RuslanStrogov/nx-nest-angular-ionic) · [NvmUi](https://github.com/RuslanStrogov/NvmUi) · [mi-band-watchface-editor](https://github.com/RuslanStrogov/mi-band-watchface-editor)
 
-**📊 Data & automation**
-[wb-auto-pricing](https://github.com/RuslanStrogov/wb-auto-pricing) · [content-pub](https://github.com/RuslanStrogov/content-pub) · [RobloxHID](https://github.com/RuslanStrogov/RobloxHID)
+**🔌 Embedded & hardware**
+[com-pinger](https://github.com/RuslanStrogov/com-pinger) · [robot-catty](https://github.com/RuslanStrogov/robot-catty) · [RobloxHID](https://github.com/RuslanStrogov/RobloxHID)
 
 </td>
 </tr>
@@ -149,23 +185,32 @@ Raspberry Pi + Arduino robot with a web control UI: servos, RGB LEDs, serial lin
 
 ## 💼 Experience
 
-**Head of IT** — [IQ Region](https://iq-region.ru/) *(Jul 2025 — present)*
-> IT strategy and software development at a systems-integration and software company.
+### Software Engineer — POZ Progress JSC, Protvino *(Sep 2026 — present)*
+> Automation inside the enterprise MES/ACS loop on **MS SQL Server**: table and query design, query optimization. Maintaining and extending legacy **Visual FoxPro and C#** code: reading foreign code, delivering features, refactoring. Integration with external systems — document exchange with Kontur Diadok EDI, XML handling. Documentation and company engineering standards.
 
-**Engineer** — [BIEM Group](https://bm-technology.ru/) *(Jul 2024 — Jul 2025)*
+### Head of IT Department — [IQ Region](https://iq-region.ru/) *(Jul 2025 — Mar 2026)*
+> IT strategy, development processes, team, contractors, budget.
+
+### Engineer — [BIEM Group](https://bm-technology.ru/) *(Jul 2024 — Jul 2025)*
 > Electronics and instrumentation.
 
-**Software Developer** — [Strela Design Bureau](https://strela.ru/) *(Nov 2022 — Apr 2024)*
-> Defence / aerospace industry. NDA.
+### Software Developer — [Strela Design Bureau](https://strela.ru/) *(Nov 2022 — Apr 2024)*
+> Defence and aerospace industry. NDA.
 
-**Lead Frontend** — Projects & Web Innovations LLC *(2021–2022)*
-> Wowza streaming platform: WebRTC, HLS/RTMP, canvas scenes, channel scheduling.
+### Lead Frontend Developer — Projects & Web Innovations *(Jun 2021 — Dec 2022)*
+> Control panel for a Wowza Streaming Engine platform: Angular frontend, live channels, WebRTC/RTMP/HLS players with bitrate switching and multi-audio, layer-overlay configurator, embeddable widgets. Designed architecture and API (Swagger), ran tasks in Jira, wrote the Node.js/Express/Mongo backend.
 
-**Frontend Developer** — undisclosed client *(2017–2018)*
-> Transport monitoring: Angular 2 + Mapbox GL + Three.js + WebSocket, Loopback + MySQL.
+### Own business — BR-DESIGN *(Jul 2021 — Feb 2024)*
+> Client websites and landing pages, design. A hosting server cluster on a high-speed uplink — 30+ client sites, still running.
 
-**Lead Frontend** — Sitronics KASU JSC *(2014–2016)*
+### Software Engineer — transport monitoring *(Jun 2017 — Apr 2018)*
+> Angular 2 + Mapbox GL + Three.js + WebSocket, Loopback + MySQL.
+
+### Lead Frontend Developer — Sitronics KASU JSC *(Nov 2014 — May 2016)*
 > Situation centre: 20,000+ objects on Leaflet canvas, PTZ cameras, Fabric.js animation.
+
+### Earlier
+> 2011–2014 — IT director. 2009–2011 — from web design to web programming. Plus embedded: microcontrollers, Arduino/Raspberry Pi, on-board hardware, on-site commissioning, 3D printing.
 
 ---
 
