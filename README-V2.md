@@ -328,38 +328,6 @@ Moscow / Moscow region — only with full relocation covered by the employer<br/
 
 ---
 
-## 📊 Stats
-
-<p align="center">
-  <img src="https://img.shields.io/badge/repositories-47-0039A6?style=for-the-badge&labelColor=0B1B33&logo=github&logoColor=white" alt="47 repositories"/>
-  <img src="https://img.shields.io/badge/commits-982-D52B1E?style=for-the-badge&labelColor=0B1B33&logo=git&logoColor=white" alt="982 commits"/>
-  <img src="https://img.shields.io/badge/PR-74-0039A6?style=for-the-badge&labelColor=0B1B33" alt="74 PR"/>
-  <img src="https://img.shields.io/badge/stars-34-D52B1E?style=for-the-badge&labelColor=0B1B33" alt="34 stars"/>
-</p>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=RuslanStrogov&theme=catppuccin-mocha&hide_border=true" height="165" alt="Streak"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RuslanStrogov&theme=catppuccin_mocha" height="165" alt="Top Languages"/>
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RuslanStrogov&theme=catppuccin_mocha" width="100%" alt="Activity Summary"/>
-</div>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RuslanStrogov/RuslanStrogov/output/snake-dark.gif"/>
-    <img alt="Contribution snake — RF flag palette" src="https://raw.githubusercontent.com/RuslanStrogov/RuslanStrogov/output/snake.gif" width="100%" loading="lazy"/>
-  </picture>
-  <br/>
-  <sub>🐍 snake animation over real contributions — rebuilt by CI every day</sub>
-</div>
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=RuslanStrogov&label=Profile+Views&color=0039A6&style=flat-square" alt="Profile Views"/>
-</div>
-
 <p align="center">
   <img src="https://img.shields.io/badge/English-0039A6?style=flat-square" alt="English"/>
   <a href="README.md"><img src="https://img.shields.io/badge/Русский-1e1e2e?style=flat-square" alt="Русский"/></a>

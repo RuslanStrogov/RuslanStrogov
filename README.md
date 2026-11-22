@@ -329,39 +329,6 @@ Chrome-расширение: блокировка и фильтрация кон
 
 ---
 
-## 📊 Статистика
-
-<p align="center">
-  <img src="https://img.shields.io/badge/%D1%80%D0%B5%D0%BF%D0%BE%D0%B7%D0%B8%D1%82%D0%BE%D1%80%D0%B8%D0%B8-47-0039A6?style=for-the-badge&labelColor=0B1B33&logo=github&logoColor=white" alt="47 репозиториев"/>
-  <img src="https://img.shields.io/badge/%D0%BA%D0%BE%D0%BC%D0%BC%D0%B8%D1%82%D1%8B-982-D52B1E?style=for-the-badge&labelColor=0B1B33&logo=git&logoColor=white" alt="982 коммита"/>
-  <img src="https://img.shields.io/badge/PR-74-0039A6?style=for-the-badge&labelColor=0B1B33" alt="74 PR"/>
-  <img src="https://img.shields.io/badge/%D0%B7%D0%B2%D1%91%D0%B7%D0%B4%D1%8B-34-D52B1E?style=for-the-badge&labelColor=0B1B33" alt="34 звезды"/>
-</p>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=RuslanStrogov&theme=catppuccin-mocha&hide_border=true" height="165" alt="Streak"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RuslanStrogov&theme=catppuccin_mocha" height="165" alt="Top Languages"/>
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RuslanStrogov&theme=catppuccin_mocha" width="100%" alt="Activity Summary"/>
-</div>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RuslanStrogov/RuslanStrogov/output/snake-dark.gif"/>
-    <img alt="Contribution snake — RF flag palette" src="https://raw.githubusercontent.com/RuslanStrogov/RuslanStrogov/output/snake.gif" width="100%" loading="lazy"/>
-  </picture>
-  <br/>
-  <sub>🐍 snake-анимация по реальным контрибуциям — пересобирается в CI каждый день</sub>
-</div>
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=RuslanStrogov&label=Profile+Views&color=0039A6&style=flat-square" alt="Profile Views"/>
-</div>
-
 <p align="center">
   <a href="README-V2.md"><img src="https://img.shields.io/badge/English-1e1e2e?style=flat-square" alt="English"/></a>
   <img src="https://img.shields.io/badge/Русский-0039A6?style=flat-square" alt="Русский"/>
