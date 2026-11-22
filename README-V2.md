@@ -303,6 +303,16 @@ Moscow / Moscow region — only with full relocation covered by the employer<br/
 
 ---
 
+## 🎬 How my setup runs
+
+<div align="center">
+  <img src="assets/terminal.gif" width="700" alt="hermes — agent ops: AI agents, bots, local inference"/>
+  <br/>
+  <sub>AI agents, bots and local inference — the everyday loop: gateway status to push into main</sub>
+</div>
+
+---
+
 ## 🤝 Get in touch
 
 <p align="center">
@@ -333,6 +343,14 @@ Moscow / Moscow region — only with full relocation covered by the employer<br/
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RuslanStrogov&theme=catppuccin_mocha" width="100%" alt="Activity Summary"/>
 </div>
 
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RuslanStrogov/RuslanStrogov/output/snake-dark.gif"/>
+    <img alt="Contribution snake — RF flag palette" src="https://raw.githubusercontent.com/RuslanStrogov/RuslanStrogov/output/snake.gif" width="100%"/>
+  </picture>
+  <br/>
+  <sub>🐍 snake animation over real contributions — rebuilt by CI every day</sub>
+</div>
 ---
 
 <div align="center">

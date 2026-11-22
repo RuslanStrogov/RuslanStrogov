@@ -303,6 +303,16 @@ Chrome-расширение: блокировка и фильтрация кон
 
 ---
 
+## 🎬 Как устроен рабочий контур
+
+<div align="center">
+  <img src="assets/terminal.gif" width="700" alt="hermes — agent ops: AI-агенты, боты, локальный инференс"/>
+  <br/>
+  <sub>AI-агенты, боты и локальный инференс — повседневный контур: от статуса шлюзов до пуша в main</sub>
+</div>
+
+---
+
 ## 🤝 Связаться
 
 <p align="center">
@@ -333,6 +343,14 @@ Chrome-расширение: блокировка и фильтрация кон
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RuslanStrogov&theme=catppuccin_mocha" width="100%" alt="Activity Summary"/>
 </div>
 
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RuslanStrogov/RuslanStrogov/output/snake-dark.gif"/>
+    <img alt="Contribution snake — RF flag palette" src="https://raw.githubusercontent.com/RuslanStrogov/RuslanStrogov/output/snake.gif" width="100%"/>
+  </picture>
+  <br/>
+  <sub>🐍 snake-анимация по реальным контрибуциям — пересобирается в CI каждый день</sub>
+</div>
 ---
 
 <div align="center">
