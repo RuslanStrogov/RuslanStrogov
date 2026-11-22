@@ -187,8 +187,6 @@ Raspberry Pi + Arduino robot with a web control UI: servos, RGB LEDs, serial lin
 Enterprise automation inside the MES/ACS loop:
 - **MS SQL Server** — table and query design, query optimization
 - legacy **Visual FoxPro and C#** — reading foreign code, delivering features, refactoring
-- integrations with external systems — Kontur Diadok EDI document exchange, XML
-- documentation and company engineering standards
 
 </details>
 
