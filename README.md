@@ -53,17 +53,19 @@
 
 ## 🛠 Стек
 
-| | |
-|---|---|
-| **Языки** | <img src="https://skillicons.dev/icons?i=ts,py,js,cs,go,cpp&theme=dark" height="30" alt="TypeScript, Python, JavaScript, C#, Go, C++"/> |
-| **Backend** | <img src="https://skillicons.dev/icons?i=nestjs,fastapi,express,nodejs&theme=dark" height="30" alt="NestJS, FastAPI, Express, Node.js"/> |
-| **Frontend** | <img src="https://skillicons.dev/icons?i=angular,rxjs,react,nextjs,svelte,ionic&theme=dark" height="30" alt="Angular, RxJS, React, Next.js, Svelte, Ionic"/> |
-| **Данные** | <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis&theme=dark" height="30" alt="PostgreSQL, MySQL, MongoDB, Redis"/> |
-| **Инструменты** | <img src="https://skillicons.dev/icons?i=nx,docker,git,githubactions,socketio&theme=dark" height="30" alt="Nx, Docker, Git, GitHub Actions, Socket.io"/> |
-| **AI / LLM** | <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv&theme=dark" height="30" alt="PyTorch, TensorFlow, OpenCV"/> |
-| **Embedded** | <img src="https://skillicons.dev/icons?i=arduino,raspberrypi&theme=dark" height="30" alt="Arduino, Raspberry Pi"/> |
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=ts,py,js,cs,nestjs,nodejs&theme=dark" height="26" alt="TypeScript, Python, JavaScript, C#, NestJS, Node.js"/><br/><br/>
+  <img src="https://skillicons.dev/icons?i=angular,rxjs,nx,docker,postgres,redis,git,linux&theme=dark" height="26" alt="Angular, RxJS, Nx, Docker, PostgreSQL, Redis, Git, Linux"/>
+</div>
 
-<sub>**+** MS SQL Server · C# · Visual FoxPro · MCP · Ollama · llama.cpp · Qdrant · nginx · MediaMTX · OpenWrt · Telegram / MAX / VK Bot API</sub>
+**Языки** — TypeScript · Python · JavaScript · C# · Go · C++ · MS SQL · FoxPro<br/>
+**Backend** — Node.js · NestJS · Express · FastAPI<br/>
+**Frontend** — Angular 1.x → · RxJS · React · Next.js · Svelte · Ionic<br/>
+**Данные** — PostgreSQL · MySQL · MongoDB · Redis · Qdrant<br/>
+**AI/LLM** — MCP · Ollama · llama.cpp · PyTorch · TensorFlow · OpenCV<br/>
+**Инфраструктура** — Docker · nginx · MediaMTX · OpenWrt · Linux<br/>
+**Embedded** — Arduino · Raspberry Pi · serial<br/>
+**Мессенджеры** — Telegram · MAX · VK Bot API
 
 </td>
 </tr>
