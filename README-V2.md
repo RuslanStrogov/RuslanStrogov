@@ -18,7 +18,7 @@
 
 A separate line of work — **AI/LLM**: agent integrations (plugins and bridges between messengers and an AI agent), local inference (Ollama, llama.cpp), MCP tools, infrastructure built for AI workloads.
 
-**Open source:** 23 repositories · 982 commits · 74 PRs · 34 ★ · 123 followers
+**Repositories:** 47 in total (23 public + 24 private) · 982 commits · 74 PRs · 34 ★ · 123 followers
 
 📍 Kremyonki, Kaluga region (south of Moscow area) · 🎓 MGUPI, Information Systems in Economics, 2009 · 🗣️ Russian (native), English (B2)
 
@@ -123,11 +123,11 @@ Game platform monorepo: NestJS + Next.js, PostgreSQL, Redis, Telegram Mini App, 
 <tr>
 <td align="center" width="50%">
 
-### 📹 [cams-strogov](https://github.com/RuslanStrogov/cams-strogov)
+### 🧩 [chrome-roonyx](https://github.com/RuslanStrogov/chrome-roonyx) ★1
 
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/go2rtc-00A0E9?style=flat-square"/> <img src="https://img.shields.io/badge/RTSP-00599C?style=flat-square"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/Chrome_MV3-4285F4?style=flat-square&logo=googlechrome&logoColor=white"/>
 
-Camera monitoring: RTSP cameras, go2rtc, operator dashboard and API.
+Chrome extension: content blocking and filtering on Manifest V3.
 
 </td>
 <td align="center" width="50%">
@@ -144,44 +144,19 @@ Raspberry Pi + Arduino robot with a web control UI: servos, RGB LEDs, serial lin
 
 ---
 
-## 🧭 Areas of work
+## 🧭 Technologies and areas
 
-<table>
-<tr>
-<td valign="top" width="33%">
+**47 repositories** in total — 23 public and 24 private. The private ones are production and infrastructure work: code is closed, the stack is the same.
 
-**🤖 AI agents & bots**
-[max-hermes](https://github.com/RuslanStrogov/max-hermes) · [max-hermes-plugin](https://github.com/RuslanStrogov/max-hermes-plugin) · [max-openclaw](https://github.com/RuslanStrogov/max-openclaw) · [max-shared](https://github.com/RuslanStrogov/max-shared) · [awesome-max-integrations](https://github.com/RuslanStrogov/awesome-max-integrations) · [cursor-tg-bot](https://github.com/RuslanStrogov/cursor-tg-bot) · [tg-to-vk-mirror](https://github.com/RuslanStrogov/tg-to-vk-mirror)
-
-**🧩 Chrome extensions**
-[chrome-new-page-ui](https://github.com/RuslanStrogov/chrome-new-page-ui) · [chrome-roonyx](https://github.com/RuslanStrogov/chrome-roonyx) (MV3, content filtering)
-
-</td>
-<td valign="top" width="33%">
-
-**🌐 Infrastructure & networks**
-[network-map](https://github.com/RuslanStrogov/network-map) · [network-scanner](https://github.com/RuslanStrogov/network-scanner) · [router-config](https://github.com/RuslanStrogov/router-config) · [windows-configs](https://github.com/RuslanStrogov/windows-configs) · [emergency-backups](https://github.com/RuslanStrogov/emergency-backups)
-
-**📹 Cameras & streaming**
-[cams-strogov](https://github.com/RuslanStrogov/cams-strogov) · MediaMTX (RTSP/HLS/WebRTC), operator dashboards, embeddable widgets
-
-**📊 Data & automation**
-[wb-auto-pricing](https://github.com/RuslanStrogov/wb-auto-pricing) · [content-pub](https://github.com/RuslanStrogov/content-pub) · [super-ai-ru](https://github.com/RuslanStrogov/super-ai-ru)
-
-</td>
-<td valign="top" width="33%">
-
-**🏭 Engineering frontend**
-[robotics-core-ui](https://github.com/RuslanStrogov/robotics-core-ui) · [taxi-api-web-mobile](https://github.com/RuslanStrogov/taxi-api-web-mobile) · [nx-nest-angular-ionic](https://github.com/RuslanStrogov/nx-nest-angular-ionic) · [NvmUi](https://github.com/RuslanStrogov/NvmUi) · [mi-band-watchface-editor](https://github.com/RuslanStrogov/mi-band-watchface-editor)
-
-**🔌 Embedded & hardware**
-[com-pinger](https://github.com/RuslanStrogov/com-pinger) · [robot-catty](https://github.com/RuslanStrogov/robot-catty) · [RobloxHID](https://github.com/RuslanStrogov/RobloxHID)
-
-</td>
-</tr>
-</table>
-
----
+| Area | Technologies | What's been built |
+|---|---|---|
+| **AI agents & bots** | Python, TypeScript, Bot APIs (Telegram / MAX / VK), webhooks, long polling, inline keyboards, Docker, systemd | Plugins and bridges between messengers and an AI agent: [max-hermes-plugin](https://github.com/RuslanStrogov/max-hermes-plugin) ★9 · [max-hermes](https://github.com/RuslanStrogov/max-hermes) ★8 · [max-openclaw](https://github.com/RuslanStrogov/max-openclaw) ★4 · [max-shared](https://github.com/RuslanStrogov/max-shared) · [awesome-max-integrations](https://github.com/RuslanStrogov/awesome-max-integrations) |
+| **Streaming & video** | TypeScript, Wowza, RTSP / HLS / WebRTC, MediaMTX, go2rtc, Angular | Streaming control panel, multi-camera operator dashboards, players with bitrate switching and multi-audio |
+| **Infrastructure & networks** | Linux, Docker, nginx, OpenWrt, WireGuard / L2TP, PowerShell, Bash, self-hosted runners | Hosting cluster with 30+ sites, network inventory and monitoring, router and Windows configs, backups and watchdogs |
+| **Data & automation** | Python, TypeScript, PostgreSQL, MySQL, MongoDB, Redis, Qdrant, scraping | Marketplace margin monitoring, social-media content publishing, AI/ML market research — [super-ai-ru](https://github.com/RuslanStrogov/super-ai-ru) |
+| **Engineering frontend** | Angular 1.x → modern, NestJS, Nx, RxJS, Angular Material, Ionic, PostgreSQL | [robotics-core-ui](https://github.com/RuslanStrogov/robotics-core-ui) ★3 · [taxi-api-web-mobile](https://github.com/RuslanStrogov/taxi-api-web-mobile) · [nx-nest-angular-ionic](https://github.com/RuslanStrogov/nx-nest-angular-ionic) · [mi-band-watchface-editor-material](https://github.com/RuslanStrogov/mi-band-watchface-editor-material) · [brom-casino](https://github.com/RuslanStrogov/brom-casino) |
+| **Chrome extensions** | JavaScript, TypeScript, Manifest V3 | [chrome-roonyx](https://github.com/RuslanStrogov/chrome-roonyx) — content filtering; a second extension (AI new-tab panel) is private |
+| **Embedded & hardware** | C/C++, Arduino, Raspberry Pi, serial, Python | [com-pinger](https://github.com/RuslanStrogov/com-pinger) ★4 · [robot-catty](https://github.com/RuslanStrogov/robot-catty) ★1 |
 
 ## 💼 Experience
 
