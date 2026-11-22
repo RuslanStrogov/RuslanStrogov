@@ -34,7 +34,7 @@
 
 **Fullstack-разработчик (TypeScript) · AI-агенты и интеграции · enterprise-автоматизация**
 
-13+ лет в разработке. Фронтенд — Angular с первой версии (1.x → современные, RxJS, Angular Material, Nx-монорепозитории). Бэкенд — Node.js (NestJS, Express, Fastify), проектирование API и схем БД. Параллельно — enterprise-автоматизация: MS SQL Server, C#, легаси на Visual FoxPro, интеграции через XML и ЭДО.
+13+ лет в разработке. Фронтенд — Angular с первой версии (1.x → современные, RxJS, Angular Material, Nx-монорепозитории). Бэкенд — Node.js (NestJS, Express, Fastify), проектирование API и схем БД. Параллельно — enterprise-автоматизация: MS SQL Server, C#, легаси на Visual FoxPro.
 
 Отдельная линия — **AI/LLM**: агентные интеграции (плагины и мосты между мессенджерами и AI-агентом), локальный инференс (Ollama, llama.cpp), MCP-инструменты, инфраструктура под ИИ-нагрузку.
 

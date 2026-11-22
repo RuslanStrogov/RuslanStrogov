@@ -34,7 +34,7 @@
 
 **Fullstack developer (TypeScript) · AI agents & integrations · enterprise automation**
 
-13+ years in software. Frontend — Angular since its first version (1.x → modern releases, RxJS, Angular Material, Nx monorepos). Backend — Node.js (NestJS, Express, Fastify), API and database schema design. Alongside that — enterprise automation: MS SQL Server, C#, legacy Visual FoxPro, XML and EDI integrations.
+13+ years in software. Frontend — Angular since its first version (1.x → modern releases, RxJS, Angular Material, Nx monorepos). Backend — Node.js (NestJS, Express, Fastify), API and database schema design. Alongside that — enterprise automation: MS SQL Server, C#, legacy Visual FoxPro.
 
 A separate line of work — **AI/LLM**: agent integrations (plugins and bridges between messengers and an AI agent), local inference (Ollama, llama.cpp), MCP tools, infrastructure built for AI workloads.
 
