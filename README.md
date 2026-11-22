@@ -3,11 +3,20 @@
 </div>
 
 <div align="center">
-  <a href="tel:+79653302820"><img src="https://img.shields.io/badge/📞_Позвонить-238636?style=flat-square&logo=phone&logoColor=white" alt="Phone"/></a>
+  <a href="tel:+796****2820"><img src="https://img.shields.io/badge/📞_Позвонить-238636?style=flat-square&logo=phone&logoColor=white" alt="Phone"/></a>
   <a href="mailto:ruslan@strogov.com"><img src="https://img.shields.io/badge/Email-ruslan@strogov.com-8B5CF6?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://t.me/brombombom"><img src="https://img.shields.io/badge/Telegram-@brombombom-26A5E4?style=flat-square&logo=telegram&logoColor=white" alt="Telegram"/></a>
   <a href="https://strogov.com"><img src="https://img.shields.io/badge/Сайт-strogov.com-06B6D4?style=flat-square&logo=google-chrome&logoColor=white" alt="Website"/></a>
   <a href="https://hh.ru/resume/806cdf03ff1033cacf0039ed1f6961667a4957"><img src="https://img.shields.io/badge/HH-Резюме-FF4D4D?style=flat-square" alt="HH"/></a>
+</div>
+
+<br/>
+
+<div align="center">
+
+| <div align="center">**47**<br/><sub>репозиториев</sub></div> | <div align="center">**982**<br/><sub>коммита</sub></div> | <div align="center">**74**<br/><sub>PR</sub></div> | <div align="center">**34**<br/><sub>звёзд</sub></div> | <div align="center">**123**<br/><sub>подписчика</sub></div> |
+|:---:|:---:|:---:|:---:|:---:|
+
 </div>
 
 ## 👋 Кто я
@@ -18,42 +27,47 @@
 
 Отдельная линия — **AI/LLM**: агентные интеграции (плагины и мосты между мессенджерами и AI-агентом), локальный инференс (Ollama, llama.cpp), MCP-инструменты, инфраструктура под ИИ-нагрузку.
 
-**Репозитории:** всего 47 (23 публичных + 24 приватных) · 982 коммита · 74 PR · 34 ★ · 123 подписчика
-
 📍 Кремёнки, Калужская обл. (юг Подмосковья) · 🎓 МГУПИ, «Информатика в экономике», 2009 · 🗣️ русский (родной), английский (B2)
 
 ---
+
+<table>
+<tr>
+<td valign="top" width="50%">
 
 ## 💼 Что ищу
 
 Удалённую работу в продуктовой команде с горизонтом в несколько лет — рост по технической линии, а не перевод в менеджмент.
 
-**Мои четыре профиля:**
-
 | Профиль | Что закрываю |
 |---|---|
-| **Fullstack TypeScript** | Angular + Node.js: интерфейсы, API, интеграции — от макета до продакшена |
-| **Backend Node.js / NestJS** | REST и событийные API, схемы БД (PostgreSQL, MySQL, MongoDB), Redis, Docker, CI/CD |
-| **AI/LLM-инженер** | Агентные интеграции, Bot API, webhook-серверы, MCP, локальный инференс, маршрутизация моделей |
-| **Frontend Angular** | Angular 1.x → современные версии, RxJS, Nx, Angular Material, WebRTC/HLS-плееры, embedded-виджеты |
+| **Fullstack TS** | Angular + Node.js: интерфейсы, API, интеграции |
+| **Backend** | Node.js / NestJS: REST и событийные API, схемы БД, Redis |
+| **AI/LLM** | Агентные интеграции, Bot API, MCP, локальный инференс |
+| **Frontend** | Angular 1.x → современные, Nx, RxJS, WebRTC/HLS-плееры |
 
-**Формат:** удалённо — приоритет. Москва и Подмосковье — если работодатель полностью обеспечивает релокацию. Командировки — да.
+**Формат:** удалённо — приоритет · Москва и Подмосковье — если работодатель полностью обеспечивает релокацию · командировки — да
 
----
+</td>
+<td valign="top" width="50%">
 
 ## 🛠 Стек
 
 | | |
 |---|---|
-| **Языки** | <img src="https://skillicons.dev/icons?i=ts,py,js,cs,go,cpp&theme=dark" height="38" alt="TypeScript, Python, JavaScript, C#, Go, C++"/> <img src="https://img.shields.io/badge/MS_SQL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" height="26"/> <img src="https://img.shields.io/badge/FoxPro-8B5CF6?style=flat-square" height="26"/> |
-| **Backend** | <img src="https://skillicons.dev/icons?i=nestjs,fastapi,express,nodejs&theme=dark" height="38" alt="NestJS, FastAPI, Express, Node.js"/> |
-| **Frontend** | <img src="https://skillicons.dev/icons?i=angular,rxjs,react,nextjs,svelte,ionic&theme=dark" height="38" alt="Angular, RxJS, React, Next.js, Svelte, Ionic"/> |
-| **Инструменты** | <img src="https://skillicons.dev/icons?i=nx,docker,git,githubactions,socketio&theme=dark" height="38" alt="Nx, Docker, Git, GitHub Actions, Socket.io"/> |
-| **Данные** | <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis&theme=dark" height="38" alt="PostgreSQL, MySQL, MongoDB, Redis"/> <img src="https://img.shields.io/badge/Qdrant-DC244C?style=flat-square" height="26"/> |
-| **AI / LLM** | <img src="https://img.shields.io/badge/LLM_API-000000?style=flat-square" height="26"/> <img src="https://img.shields.io/badge/MCP-8B5CF6?style=flat-square" height="26"/> <img src="https://img.shields.io/badge/Ollama-FFFFFF?style=flat-square&logoColor=black" height="26"/> <img src="https://img.shields.io/badge/llama.cpp-00B0FF?style=flat-square" height="26"/> <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv&theme=dark" height="38" alt="PyTorch, TensorFlow, OpenCV"/> |
-| **Инфраструктура** | <img src="https://img.shields.io/badge/nginx-009639?style=flat-square&logo=nginx&logoColor=white" height="26"/> <img src="https://img.shields.io/badge/MediaMTX-00A0E9?style=flat-square" height="26"/> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" height="26"/> <img src="https://img.shields.io/badge/OpenWrt-00B5E2?style=flat-square&logo=openwrt&logoColor=white" height="26"/> |
-| **Embedded** | <img src="https://skillicons.dev/icons?i=arduino,raspberrypi&theme=dark" height="38" alt="Arduino, Raspberry Pi"/> |
-| **Мессенджеры** | <img src="https://skillicons.dev/icons?i=telegram&theme=dark" height="38" alt="Telegram"/> <img src="https://img.shields.io/badge/MAX-00BFFF?style=flat-square" height="26"/> <img src="https://img.shields.io/badge/VK-4C75A3?style=flat-square&logo=vk&logoColor=white" height="26"/> |
+| **Языки** | <img src="https://skillicons.dev/icons?i=ts,py,js,cs,go,cpp&theme=dark" height="30" alt="TypeScript, Python, JavaScript, C#, Go, C++"/> |
+| **Backend** | <img src="https://skillicons.dev/icons?i=nestjs,fastapi,express,nodejs&theme=dark" height="30" alt="NestJS, FastAPI, Express, Node.js"/> |
+| **Frontend** | <img src="https://skillicons.dev/icons?i=angular,rxjs,react,nextjs,svelte,ionic&theme=dark" height="30" alt="Angular, RxJS, React, Next.js, Svelte, Ionic"/> |
+| **Данные** | <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis&theme=dark" height="30" alt="PostgreSQL, MySQL, MongoDB, Redis"/> |
+| **Инструменты** | <img src="https://skillicons.dev/icons?i=nx,docker,git,githubactions,socketio&theme=dark" height="30" alt="Nx, Docker, Git, GitHub Actions, Socket.io"/> |
+| **AI / LLM** | <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv&theme=dark" height="30" alt="PyTorch, TensorFlow, OpenCV"/> |
+| **Embedded** | <img src="https://skillicons.dev/icons?i=arduino,raspberrypi&theme=dark" height="30" alt="Arduino, Raspberry Pi"/> |
+
+<sub>**+** MS SQL Server · C# · Visual FoxPro · MCP · Ollama · llama.cpp · Qdrant · nginx · MediaMTX · OpenWrt · Telegram / MAX / VK Bot API</sub>
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -158,34 +172,80 @@ Chrome-расширение: блокировка и фильтрация кон
 | **Chrome-расширения** | JavaScript, TypeScript, Manifest V3 | [chrome-roonyx](https://github.com/RuslanStrogov/chrome-roonyx) — фильтрация контента; второе расширение (AI-панель новой вкладки) — приватное |
 | **Embedded и железо** | C/C++, Arduino, Raspberry Pi, serial, Python | [com-pinger](https://github.com/RuslanStrogov/com-pinger) ★4 · [robot-catty](https://github.com/RuslanStrogov/robot-catty) ★1 |
 
+---
+
+## 🏢 Организации
+
+<table>
+<tr>
+<td align="center" width="50%">
+
+### 🚁 [StrelaBPLA](https://github.com/StrelaBPLA)
+ПО для управления полётами INAV и дрон-системы
+
+</td>
+<td align="center" width="50%">
+
+### 🚗 [auto-visor](https://github.com/auto-visor)
+AI-детекция транспорта и анализ дорожного движения
+
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+
+### 🏢 [IQ-Region](https://github.com/IQ-Region)
+Программные решения (ООО «АйКью Регион»)
+
+</td>
+<td align="center" width="50%">
+
+### 💻 [BM-Group-Software](https://github.com/BM-Group-Software)
+Nx-монорепозиторий, корпоративное ПО
+
+</td>
+</tr>
+</table>
+
+---
+
 ## 💼 Опыт работы
 
-### Инженер-программист — АО «ПОЗ «Прогресс», Протвино *(сен 2026 — наст. время)*
+> ### Инженер-программист — АО «ПОЗ «Прогресс», Протвино
+> **сен 2026 — наст. время**
+>
 > Автоматизация в контуре АСУ предприятия на **MS SQL Server**: проектирование таблиц и запросов, оптимизация выборок. Сопровождение и развитие легаси на **Visual FoxPro и C#**: разбор чужого кода, доработка задач, рефакторинг. Интеграция с внешними системами — обмен документами с ЭДО «Контур Диадок», работа с XML. Документация и работа по стандартам предприятия.
 
-### Директор департамента ИТ — [АйКью Регион](https://iq-region.ru/) *(июл 2025 — мар 2026)*
+**Директор департамента ИТ** — [АйКью Регион](https://iq-region.ru/) *(июл 2025 — мар 2026)*
 > IT-стратегия, процессы разработки, команда, подрядчики, бюджет.
 
-### Инженер — [БИЭМ Групп](https://bm-technology.ru/) *(июл 2024 — июл 2025)*
+**Инженер** — [БИЭМ Групп](https://bm-technology.ru/) *(июл 2024 — июл 2025)*
 > Электроника и приборостроение.
 
-### Разработчик ПО — [КБ «Стрела»](https://strela.ru/) *(ноя 2022 — апр 2024)*
+**Разработчик ПО** — [КБ «Стрела»](https://strela.ru/) *(ноя 2022 — апр 2024)*
 > Оборонная и аэрокосмическая отрасль. NDA.
 
-### Ведущий Frontend-разработчик — «Проекты и Веб Инновации» *(июн 2021 — дек 2022)*
+**Ведущий Frontend-разработчик** — «Проекты и Веб Инновации» *(июн 2021 — дек 2022)*
 > Панель управления системой потокового вещания (Wowza Streaming Engine): Angular-фронтенд, live-каналы, WebRTC/RTMP/HLS-плееры с переключением битрейта и мульти-аудио, конфигуратор наложения слоёв, виджеты для встраивания. Проектировал архитектуру и API (Swagger), вёл задачи в Jira, писал серверную часть на Node.js/Express/Mongo.
 
-### Своё дело — BR-DESIGN *(июл 2021 — фев 2024)*
+**Своё дело** — BR-DESIGN *(июл 2021 — фев 2024)*
 > Клиентские сайты и лендинги, дизайн. Кластер серверов хостинга в высокоскоростной сети — 30+ сайтов клиентов, работает до сих пор.
 
-### Инженер-разработчик — мониторинг транспорта *(июн 2017 — апр 2018)*
+<details>
+<summary><b>Ещё: 2014–2018 и начало пути</b></summary>
+
+<br/>
+
+**Инженер-разработчик** — мониторинг транспорта *(июн 2017 — апр 2018)*
 > Angular 2 + Mapbox GL + Three.js + WebSocket, Loopback + MySQL.
 
-### Ведущий Frontend-разработчик — АО «Ситроникс КАСУ» *(ноя 2014 — май 2016)*
+**Ведущий Frontend-разработчик** — АО «Ситроникс КАСУ» *(ноя 2014 — май 2016)*
 > СУГТ: 20 000+ объектов на Leaflet canvas, PTZ-камеры, анимация Fabric.js.
 
-### Раньше
+**Раньше**
 > 2011–2014 — директор IT. 2009–2011 — от web-дизайна до web-программиста. Плюс embedded: микроконтроллеры, Arduino/Raspberry Pi, бортовое оборудование, пусконаладка на объектах, 3D-печать.
+
+</details>
 
 ---
 
@@ -193,7 +253,7 @@ Chrome-расширение: блокировка и фильтрация кон
 
 <div align="center">
 
-<a href="tel:+79653302820"><img src="https://img.shields.io/badge/📞_Позвонить-238636?style=for-the-badge&logo=phone&logoColor=white"/></a>
+<a href="tel:+796****2820"><img src="https://img.shields.io/badge/📞_Позвонить-238636?style=for-the-badge&logo=phone&logoColor=white"/></a>
 <a href="https://t.me/brombombom"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a>
 <a href="mailto:ruslan@strogov.com"><img src="https://img.shields.io/badge/Email-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://hh.ru/resume/806cdf03ff1033cacf0039ed1f6961667a4957"><img src="https://img.shields.io/badge/HH_Резюме-FF4D4D?style=for-the-badge"/></a>
