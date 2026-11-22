@@ -80,7 +80,7 @@ A remote role in a product team with a multi-year horizon — growth along the t
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=ts,py,js,cs,nestjs,nodejs&theme=dark" height="26" alt="TypeScript, Python, JavaScript, C#, NestJS, Node.js"/><br/><br/>
-  <img src="https://skillicons.dev/icons?i=angular,rxjs,nx,docker,postgres,redis,git,linux&theme=dark" height="26" alt="Angular, RxJS, Nx, Docker, PostgreSQL, Redis, Git, Linux"/>
+  <img src="https://skillicons.dev/icons?i=angular,rxjs,docker,postgres,redis,git,linux&theme=dark" height="26" alt="Angular, RxJS, Docker, PostgreSQL, Redis, Git, Linux"/>
 </div>
 
 **Languages** — TypeScript · Python · JavaScript · C# · Go · C++ · MS SQL · FoxPro<br/>
