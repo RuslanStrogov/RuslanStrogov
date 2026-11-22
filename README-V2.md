@@ -48,6 +48,11 @@ A remote role in a product team with a multi-year horizon — growth along the t
 
 **Format:** remote first · Moscow / Moscow region — only if the employer fully covers relocation · business trips — fine
 
+**What I'm good at**<br/>
+• reading and taming someone else's legacy code<br/>
+• shipping a feature end to end: frontend, backend, deploy, monitoring<br/>
+• seeing the whole system — network, server, app, hardware
+
 </td>
 <td valign="top" width="50%">
 
