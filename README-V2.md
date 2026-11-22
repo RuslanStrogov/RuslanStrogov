@@ -185,34 +185,94 @@ Raspberry Pi + Arduino robot with a web control UI: servos, RGB LEDs, serial lin
 
 ## 💼 Experience
 
-> **Software Engineer** — POZ Progress JSC, Protvino<br/>
-> *Sep 2026 — present*<br/>
-> Automation inside the enterprise MES/ACS loop on **MS SQL Server**; legacy **C# and Visual FoxPro**; XML and EDI integrations.
+<details open>
+<summary><b>Software Engineer</b> — POZ Progress JSC, Protvino <sub>Sep 2026 — present</sub></summary>
 
-| Period | Role · company |
-|---|---|
-| 2025.07 — 2026.03 | Head of IT Department · IQ Region |
-| 2024.07 — 2025.07 | Engineer · BIEM Group |
-| 2022.11 — 2024.04 | Software Developer · Strela Design Bureau (NDA) |
-| 2021.06 — 2022.12 | Lead Frontend · Projects & Web Innovations |
-| 2021.07 — 2024.02 | Own business · BR-DESIGN |
-| 2017.06 — 2018.04 | Software Engineer · transport monitoring |
-| 2014.11 — 2016.05 | Lead Frontend · Sitronics KASU JSC |
-| 2011 — 2014 | IT Director |
-| 2009 — 2011 | Web designer → web programmer |
+Enterprise automation inside the MES/ACS loop:
+- **MS SQL Server** — table and query design, query optimization
+- legacy **Visual FoxPro and C#** — reading foreign code, delivering features, refactoring
+- integrations with external systems — Kontur Diadok EDI document exchange, XML
+- documentation and company engineering standards
+
+</details>
 
 <details>
-<summary><b>Details on key projects</b></summary>
+<summary><b>Head of IT Department</b> — IQ Region <sub>Jul 2025 — Mar 2026</sub></summary>
 
-**Wowza streaming** *(2021–2022)* — control panel: live channels, WebRTC/RTMP/HLS players with bitrate switching and multi-audio, layer-overlay configurator, embeddable widgets. Architecture and API (Swagger), Node.js/Express/Mongo.
+Systems integration and software development company:
+- IT strategy and internal systems
+- development process: task setting, acceptance, releases
+- team and contractors, budgets and procurement
+- technology choice and quality control
 
-**Hosting cluster** *(2021–2024)* — BR-DESIGN: 30+ client sites, still running.
+</details>
 
-**Situation centre** *(2014–2016)* — 20,000+ objects on Leaflet canvas, PTZ cameras, Fabric.js animation.
+<details>
+<summary><b>Engineer</b> — BIEM Group <sub>Jul 2024 — Jul 2025</sub></summary>
 
-**Transport monitoring** *(2017–2018)* — Angular 2 + Mapbox GL + Three.js + WebSocket, Loopback + MySQL.
+Electronics and instrumentation:
+- technical documentation and measurement equipment
+- participation in the company's engineering projects
 
-**Embedded** — microcontrollers, Arduino/Raspberry Pi, on-board hardware, on-site commissioning, 3D printing.
+</details>
+
+<details>
+<summary><b>Software Developer</b> — Strela Design Bureau <sub>Nov 2022 — Apr 2024</sub></summary>
+
+Defence and aerospace industry:
+- software development on classified topics (**NDA**)
+- industry standards, design reviews and sign-off
+
+</details>
+
+<details>
+<summary><b>Lead Frontend Developer</b> — Projects & Web Innovations <sub>Jun 2021 — Dec 2022</sub></summary>
+
+Control panel for a streaming platform (**Wowza Streaming Engine**):
+- Angular frontend: live channels, broadcast scheduling, stream management
+- **WebRTC / RTMP / HLS** players with bitrate switching and multi-audio
+- layer-overlay configurator, embeddable widgets for client sites
+- architecture and API (**Swagger**), backend on **Node.js / Express / Mongo**
+- tasks in **Jira**, close collaboration with design
+
+</details>
+
+<details>
+<summary><b>Own business</b> — BR-DESIGN <sub>Jul 2021 — Feb 2024</sub></summary>
+
+- client websites and landing pages, design and markup
+- hosting server cluster on a high-speed uplink — **30+ client sites**, still running
+- end to end: brief, mockups, deployment, support
+
+</details>
+
+<details>
+<summary><b>Software Engineer</b> — transport monitoring <sub>Jun 2017 — Apr 2018</sub></summary>
+
+Transport monitoring system:
+- **Angular 2 + Mapbox GL + Three.js**, real time over **WebSocket**
+- backend **Loopback + MySQL**
+- tracks and statuses on the map, movement history
+
+</details>
+
+<details>
+<summary><b>Lead Frontend Developer</b> — Sitronics KASU JSC <sub>Nov 2014 — May 2016</sub></summary>
+
+Situation centre:
+- **20,000+ objects** on a **Leaflet canvas** map without frame drops
+- **PTZ camera** control, video bound to objects
+- event animation and visualisation with **Fabric.js**
+
+</details>
+
+<details>
+<summary><b>2009 — 2014</b> — from web design to IT director</summary>
+
+- **2011–2014 — IT director**: infrastructure, procurement, team
+- **2010–2011 — web programmer**
+- **2009–2010 — web designer**
+- alongside: **embedded** — microcontrollers, Arduino/Raspberry Pi, on-board hardware, on-site commissioning, 3D printing
 
 </details>
 
