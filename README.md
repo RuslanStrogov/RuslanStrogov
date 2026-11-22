@@ -12,8 +12,8 @@
 
 <div align="center">
 
-| <div align="center">**47**<br/><sub>репозиториев</sub></div> | <div align="center">**982**<br/><sub>коммита</sub></div> | <div align="center">**74**<br/><sub>PR</sub></div> | <div align="center">**34**<br/><sub>звёзд</sub></div> | <div align="center">**123**<br/><sub>подписчика</sub></div> |
-|:---:|:---:|:---:|:---:|:---:|
+| <div align="center">**47**<br/><sub>репозиториев</sub></div> | <div align="center">**982**<br/><sub>коммита</sub></div> | <div align="center">**74**<br/><sub>PR</sub></div> | <div align="center">**34**<br/><sub>звёзд</sub></div> |
+|:---:|:---:|:---:|:---:|
 
 </div>
 
@@ -256,8 +256,8 @@ Chrome-расширение: блокировка и фильтрация кон
 </div>
 
 <p align="center">
-  <a href="README-V2.md"><img src="https://img.shields.io/badge/🇬🇧%20English-1e1e2e?style=flat-square" alt="English"/></a>
-  <img src="https://img.shields.io/badge/🇷🇺%20Русский-0039A6?style=flat-square" alt="Русский"/>
+  <a href="README-V2.md"><img src="https://img.shields.io/badge/English-1e1e2e?style=flat-square" alt="English"/></a>
+  <img src="https://img.shields.io/badge/Русский-0039A6?style=flat-square" alt="Русский"/>
 </p>
 
 <div align="center">

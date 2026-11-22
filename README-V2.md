@@ -12,8 +12,8 @@
 
 <div align="center">
 
-| <div align="center">**47**<br/><sub>repositories</sub></div> | <div align="center">**982**<br/><sub>commits</sub></div> | <div align="center">**74**<br/><sub>PR</sub></div> | <div align="center">**34**<br/><sub>stars</sub></div> | <div align="center">**123**<br/><sub>followers</sub></div> |
-|:---:|:---:|:---:|:---:|:---:|
+| <div align="center">**47**<br/><sub>repositories</sub></div> | <div align="center">**982**<br/><sub>commits</sub></div> | <div align="center">**74**<br/><sub>PR</sub></div> | <div align="center">**34**<br/><sub>stars</sub></div> |
+|:---:|:---:|:---:|:---:|
 
 </div>
 
@@ -256,8 +256,8 @@ Raspberry Pi + Arduino robot with a web control UI: servos, RGB LEDs, serial lin
 </div>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/🇬🇧%20English-0039A6?style=flat-square" alt="English"/>
-  <a href="README.md"><img src="https://img.shields.io/badge/🇷🇺%20Русский-1e1e2e?style=flat-square" alt="Русский"/></a>
+  <img src="https://img.shields.io/badge/English-0039A6?style=flat-square" alt="English"/>
+  <a href="README.md"><img src="https://img.shields.io/badge/Русский-1e1e2e?style=flat-square" alt="Русский"/></a>
 </p>
 
 <div align="center">
