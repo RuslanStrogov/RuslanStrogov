@@ -1,8 +1,12 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-label="Ruslan Strogov">
   <defs>
-    <clipPath id="bW"><rect x="0" y="0" width="1200" height="64"/></clipPath>
-    <clipPath id="bB"><rect x="0" y="64" width="1200" height="172"/></clipPath>
+    <clipPath id="bW"><rect x="0" y="0" width="1200" height="80"/></clipPath>
+    <clipPath id="bB"><rect x="0" y="80" width="1200" height="156"/></clipPath>
     <clipPath id="bR"><rect x="0" y="236" width="1200" height="104"/></clipPath>
+    <linearGradient id="wTint" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="0" y2="80">
+      <stop offset="0" stop-color="#FFFFFF"/>
+      <stop offset="1" stop-color="#DFE8F7"/>
+    </linearGradient>
     <linearGradient id="glossB" x1="0" y1="0" x2="0" y2="1">
       <stop offset="0" stop-color="#ffffff" stop-opacity="0.14"/>
       <stop offset=".55" stop-color="#ffffff" stop-opacity="0"/>
@@ -12,7 +16,7 @@
     </filter>
     <style>
       .nm { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
-            font-size: 88px; font-weight: 700; letter-spacing: 1px; fill: #ffffff; }
+            font-size: 80px; font-weight: 700; letter-spacing: 1px; fill: #ffffff; }
       .sb { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
             font-size: 27px; font-weight: 600; letter-spacing: 5px; fill: #ffffff; opacity: .93; }
     </style>
@@ -20,7 +24,7 @@
 
   <!-- WHITE stripe -->
   <g clip-path="url(#bW)">
-    <path fill="#F1F4F9" d="M0 0 H1200 V318 Q900 296 600 322 T0 304 Z">
+    <path fill="#FFFFFF" d="M0 0 H1200 V318 Q900 296 600 322 T0 304 Z">
       <animate attributeName="d" dur="13s" repeatCount="indefinite" calcMode="spline"
         keyTimes="0;0.33;0.66;1" keySplines="0.2 0 0.2 1;0.2 0 0.2 1;0.2 0 0.2 1"
         values="M0 0 H1200 V318 Q900 296 600 322 T0 304 Z;
@@ -28,6 +32,7 @@
                 M0 0 H1200 V296 Q900 330 600 306 T0 282 Z;
                 M0 0 H1200 V318 Q900 296 600 322 T0 304 Z"/>
     </path>
+    <rect x="0" y="0" width="1200" height="80" fill="url(#wTint)"/>
   </g>
 
   <!-- BLUE stripe -->
@@ -40,7 +45,7 @@
                 M0 0 H1200 V296 Q900 330 600 306 T0 282 Z;
                 M0 0 H1200 V318 Q900 296 600 322 T0 304 Z"/>
     </path>
-    <rect x="0" y="64" width="1200" height="172" fill="url(#glossB)"/>
+    <rect x="0" y="64" width="1200" height="156" fill="url(#glossB)"/>
   </g>
 
   <!-- RED stripe -->
@@ -58,11 +63,11 @@
   <!-- hairline so the white stripe stays visible on light themes -->
   <path fill="none" stroke="#8FA0BB" stroke-width="1.5" opacity="0.85" d="M0 0 H1200 V318 Q900 296 600 322 T0 304 Z"/>
   <!-- crisp separators: white|blue and blue|red -->
-  <path fill="none" stroke="#8FA0BB" stroke-width="1" opacity="0.55" d="M0 64 H1200"/>
+  <path fill="none" stroke="#8FA0BB" stroke-width="1" opacity="0.55" d="M0 80 H1200"/>
   <path fill="none" stroke="#001B44" stroke-width="1" opacity="0.35" d="M0 236 H1200"/>
 
   <g filter="url(#tsh)">
-    <text class="nm" x="50%" y="140" text-anchor="middle" dominant-baseline="middle">Ruslan Strogov</text>
-    <text class="sb" x="50%" y="206" text-anchor="middle" dominant-baseline="middle">FULLSTACK · AI-АГЕНТЫ · ИНФРАСТРУКТУРА</text>
+    <text class="nm" x="50%" y="163" text-anchor="middle">Ruslan Strogov</text>
+    <text class="sb" x="50%" y="210" text-anchor="middle">FULLSTACK · AI-АГЕНТЫ · ИНФРАСТРУКТУРА</text>
   </g>
 </svg>
