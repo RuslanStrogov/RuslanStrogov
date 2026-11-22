@@ -306,7 +306,7 @@ Moscow / Moscow region — only with full relocation covered by the employer<br/
 ## 🎬 How my setup runs
 
 <div align="center">
-  <img src="assets/terminal.gif" width="700" alt="hermes — agent ops: AI agents, bots, local inference"/>
+  <img src="assets/terminal.gif" width="700" loading="lazy" alt="hermes — agent ops: AI agents, bots, local inference"/>
   <br/>
   <sub>AI agents, bots and local inference — the everyday loop: gateway status to push into main</sub>
 </div>
@@ -346,7 +346,7 @@ Moscow / Moscow region — only with full relocation covered by the employer<br/
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RuslanStrogov/RuslanStrogov/output/snake-dark.gif"/>
-    <img alt="Contribution snake — RF flag palette" src="https://raw.githubusercontent.com/RuslanStrogov/RuslanStrogov/output/snake.gif" width="100%"/>
+    <img alt="Contribution snake — RF flag palette" src="https://raw.githubusercontent.com/RuslanStrogov/RuslanStrogov/output/snake.gif" width="100%" loading="lazy"/>
   </picture>
   <br/>
   <sub>🐍 snake animation over real contributions — rebuilt by CI every day</sub>
