@@ -284,16 +284,16 @@ Chrome-расширение: блокировка и фильтрация кон
 **13 лет 6 месяцев** опыта · 14 записей<br/>
 **28 навыков** · видимость открыта работодателям
 
-**Активные резюме:**
+**Активные резюме** — открываются в аккаунте hh.ru:
 
-• [Fullstack-разработчик](https://hh.ru/resume/806cdf03ff1033cacf0039ed1f6961667a4957) — 220 000 ₽<br/>• [Backend Node.js / NestJS](https://hh.ru/resume/a9852280ff116f2f990039ed1f514947566c51) — 220 000 ₽<br/>• [AI/LLM-инженер](https://hh.ru/resume/80e49314ff116f2ff70039ed1f6f3878646234) — 220 000 ₽<br/>• [Frontend Angular](https://hh.ru/resume/77e0c2f9ff116f30150039ed1f4a4441674178) — 200 000 ₽<br/>• [Инженер-программист · интеграции, embedded](https://hh.ru/resume/19266b3dff116f30370039ed1f316d5830786d) — 150 000 ₽
+• [Fullstack-разработчик](https://hh.ru/resume/806cdf03ff1033cacf0039ed1f6961667a4957)<br/>• [Backend Node.js / NestJS](https://hh.ru/resume/a9852280ff116f2f990039ed1f514947566c51)<br/>• [AI/LLM-инженер](https://hh.ru/resume/80e49314ff116f2ff70039ed1f6f3878646234)<br/>• [Frontend Angular](https://hh.ru/resume/77e0c2f9ff116f30150039ed1f4a4441674178)<br/>• [Инженер-программист · интеграции, embedded](https://hh.ru/resume/19266b3dff116f30370039ed1f316d5830786d)
 
 📍 Кремёнки (юг Подмосковья) · удалённо<br/>
 Москва / МО — при полной релокации от работодателя<br/>
 🎓 МГУПИ, «Информатика в экономике», 2009<br/>
 🗣️ русский (родной), английский (B2)<br/>
 🖼️ 6 работ в портфолио hh<br/>
-🔐 ссылки открываются в аккаунте hh.ru
+🔐 ссылки на резюме открываются в аккаунте hh.ru
 
 <p align="center"><a href="https://hh.ru/applicant/resumes"><img src="https://img.shields.io/badge/hh.ru-все_резюме-FF4D4D?style=flat-square&labelColor=FF4D4D" alt="hh.ru"/></a></p>
 
