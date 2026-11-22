@@ -1,5 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="110" viewBox="0 0 1200 110" role="img" aria-label="Ruslan Strogov">
   <defs>
+    <linearGradient id="fTint" gradientUnits="userSpaceOnUse" x1="0" y1="40" x2="0" y2="68">
+      <stop offset="0" stop-color="#FFFFFF"/>
+      <stop offset="1" stop-color="#DFE8F7"/>
+    </linearGradient>
     <clipPath id="fW"><rect x="0" y="40" width="1200" height="28"/></clipPath>
     <clipPath id="fB"><rect x="0" y="68" width="1200" height="22"/></clipPath>
     <clipPath id="fR"><rect x="0" y="90" width="1200" height="20"/></clipPath>
@@ -7,7 +11,7 @@
 
   <!-- WHITE stripe (top of the ribbon) -->
   <g clip-path="url(#fW)">
-    <path fill="#F1F4F9" d="M0 110 H1200 V48 Q900 74 600 46 T0 64 Z">
+    <path fill="#FFFFFF" d="M0 110 H1200 V48 Q900 74 600 46 T0 64 Z">
       <animate attributeName="d" dur="13s" repeatCount="indefinite" calcMode="spline"
         keyTimes="0;0.33;0.66;1" keySplines="0.2 0 0.2 1;0.2 0 0.2 1;0.2 0 0.2 1"
         values="M0 110 H1200 V48 Q900 74 600 46 T0 64 Z;
@@ -15,6 +19,7 @@
                 M0 110 H1200 V54 Q900 38 600 34 T0 56 Z;
                 M0 110 H1200 V48 Q900 74 600 46 T0 64 Z"/>
     </path>
+    <rect x="0" y="40" width="1200" height="28" fill="url(#fTint)"/>
   </g>
 
   <!-- BLUE stripe -->
