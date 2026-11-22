@@ -221,20 +221,19 @@ Raspberry Pi + Arduino robot with a web control UI: servos, RGB LEDs, serial lin
 
 ## 📄 Resumes on hh.ru
 
-**13 years 6 months** of experience · 14 entries · 28 skills · visible to employers
+**13 years 6 months** of experience · 14 entries<br/>
+**28 skills** · visible to employers
 
-| Resume | Expectation |
-|---|---|
-| [Fullstack developer](https://hh.ru/resume/806cdf03ff1033cacf0039ed1f6961667a4957) | 220 000 ₽ |
-| [Backend Node.js / NestJS](https://hh.ru/resume/a9852280ff116f2f990039ed1f514947566c51) | 220 000 ₽ |
-| [AI/LLM engineer](https://hh.ru/resume/80e49314ff116f2ff70039ed1f6f3878646234) | 220 000 ₽ |
-| [Frontend Angular](https://hh.ru/resume/77e0c2f9ff116f30150039ed1f4a4441674178) | 200 000 ₽ |
-| [Software engineer · integrations, embedded](https://hh.ru/resume/19266b3dff116f30370039ed1f316d5830786d) | 150 000 ₽ |
+**Active resumes:**
 
-📍 Kremyonki (south of Moscow area) · remote · Moscow / Moscow region — only with full relocation covered by the employer<br/>
-🎓 MGUPI, Information Systems in Economics, 2009 · 🗣️ Russian (native), English (B2)<br/>
-🖼️ 6 portfolio works on hh — project screenshots<br/>
-🔐 resume links open inside an hh.ru account
+• [Fullstack developer](https://hh.ru/resume/806cdf03ff1033cacf0039ed1f6961667a4957) — 220 000 ₽<br/>• [Backend Node.js / NestJS](https://hh.ru/resume/a9852280ff116f2f990039ed1f514947566c51) — 220 000 ₽<br/>• [AI/LLM engineer](https://hh.ru/resume/80e49314ff116f2ff70039ed1f6f3878646234) — 220 000 ₽<br/>• [Frontend Angular](https://hh.ru/resume/77e0c2f9ff116f30150039ed1f4a4441674178) — 200 000 ₽<br/>• [Software engineer · integrations, embedded](https://hh.ru/resume/19266b3dff116f30370039ed1f316d5830786d) — 150 000 ₽
+
+📍 Kremyonki (south of Moscow area) · remote<br/>
+Moscow / Moscow region — only with full relocation covered by the employer<br/>
+🎓 MGUPI, Information Systems in Economics, 2009<br/>
+🗣️ Russian (native), English (B2)<br/>
+🖼️ 6 portfolio works on hh<br/>
+🔐 links open inside an hh.ru account
 
 <p align="center"><a href="https://hh.ru/applicant/resumes"><img src="https://img.shields.io/badge/hh.ru-all_resumes-FF4D4D?style=flat-square&labelColor=FF4D4D" alt="hh.ru"/></a></p>
 
