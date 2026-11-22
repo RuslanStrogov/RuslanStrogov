@@ -17,6 +17,28 @@
 
 </div>
 
+## 🧭 Technologies and areas
+
+**47 repositories** in total — 23 public and 24 private. The private ones are production and infrastructure work: code is closed, the stack is the same.
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=py,ts,js,cs,go,cpp,c,nestjs,nodejs&theme=dark&perline=9" height="36" alt="Python, TypeScript, JavaScript, C#, Go, C++, C, NestJS, Node.js"/><br/>
+  <img src="https://skillicons.dev/icons?i=angular,rxjs,react,nextjs,svelte,postgres,redis,mongodb,mysql&theme=dark&perline=9" height="36" alt="Angular, RxJS, React, Next.js, Svelte, PostgreSQL, Redis, MongoDB, MySQL"/><br/>
+  <img src="https://skillicons.dev/icons?i=docker,nginx,linux,bash,powershell,git,kubernetes,githubactions,arduino&theme=dark&perline=9" height="36" alt="Docker, nginx, Linux, Bash, PowerShell, Git, Kubernetes, GitHub Actions, Arduino"/>
+</div>
+
+| Area | Technologies | What's been built |
+|---|---|---|
+| <img src="https://skillicons.dev/icons?i=py,ts,docker,linux&theme=dark&perline=4" height="20" alt=""/><br/>**AI agents & bots** | Python, TypeScript, Bot APIs (Telegram / MAX / VK), webhooks, long polling, inline keyboards, Docker, systemd | Plugins and bridges between messengers and an AI agent: [max-hermes-plugin](https://github.com/RuslanStrogov/max-hermes-plugin) ★9 · [max-hermes](https://github.com/RuslanStrogov/max-hermes) ★8 · [max-openclaw](https://github.com/RuslanStrogov/max-openclaw) ★4 · [max-shared](https://github.com/RuslanStrogov/max-shared) · [awesome-max-integrations](https://github.com/RuslanStrogov/awesome-max-integrations) |
+| <img src="https://skillicons.dev/icons?i=ts,angular,nodejs,nginx&theme=dark&perline=4" height="20" alt=""/><br/>**Streaming & video** | TypeScript, Wowza, RTSP / HLS / WebRTC, MediaMTX, go2rtc, Angular | Streaming control panel, multi-camera operator dashboards, players with bitrate switching and multi-audio |
+| <img src="https://skillicons.dev/icons?i=linux,docker,nginx,bash&theme=dark&perline=4" height="20" alt=""/><br/>**Infrastructure & networks** | Linux, Docker, nginx, OpenWrt, WireGuard / L2TP, PowerShell, Bash, self-hosted runners | Hosting cluster with 30+ sites, network inventory and monitoring, router and Windows configs, backups and watchdogs |
+| <img src="https://skillicons.dev/icons?i=py,postgres,redis,mongodb&theme=dark&perline=4" height="20" alt=""/><br/>**Data & automation** | Python, TypeScript, PostgreSQL, MySQL, MongoDB, Redis, Qdrant, scraping | Marketplace margin monitoring, social-media publishing, AI/ML market research — [super-ai-ru](https://github.com/RuslanStrogov/super-ai-ru) |
+| <img src="https://skillicons.dev/icons?i=angular,rxjs,ts,postgres&theme=dark&perline=4" height="20" alt=""/><br/>**Engineering frontend** | Angular 1.x → modern, NestJS, Nx, RxJS, Angular Material, Ionic, PostgreSQL | [robotics-core-ui](https://github.com/RuslanStrogov/robotics-core-ui) ★3 · [taxi-api-web-mobile](https://github.com/RuslanStrogov/taxi-api-web-mobile) · [nx-nest-angular-ionic](https://github.com/RuslanStrogov/nx-nest-angular-ionic) · [mi-band-watchface-editor-material](https://github.com/RuslanStrogov/mi-band-watchface-editor-material) · [brom-casino](https://github.com/RuslanStrogov/brom-casino) |
+| <img src="https://skillicons.dev/icons?i=js,ts,githubactions&theme=dark&perline=3" height="20" alt=""/><br/>**Chrome extensions** | JavaScript, TypeScript, Manifest V3 | [chrome-roonyx](https://github.com/RuslanStrogov/chrome-roonyx) — content filtering; a second extension (AI new-tab panel) is private |
+| <img src="https://skillicons.dev/icons?i=cpp,c,arduino,raspberrypi&theme=dark&perline=4" height="20" alt=""/><br/>**Embedded & hardware** | C/C++, Arduino, Raspberry Pi, serial, Python | [com-pinger](https://github.com/RuslanStrogov/com-pinger) ★4 · [robot-catty](https://github.com/RuslanStrogov/robot-catty) ★1 |
+
+---
+
 ## 👋 Who I am
 
 **Fullstack developer (TypeScript) · AI agents & integrations · enterprise automation**
@@ -162,23 +184,6 @@ Raspberry Pi + Arduino robot with a web control UI: servos, RGB LEDs, serial lin
 </table>
 
 ---
-
-## 🧭 Technologies and areas
-
-**47 repositories** in total — 23 public and 24 private. The private ones are production and infrastructure work: code is closed, the stack is the same.
-
-| Area | Technologies | What's been built |
-|---|---|---|
-| **AI agents & bots** | Python, TypeScript, Bot APIs (Telegram / MAX / VK), webhooks, long polling, inline keyboards, Docker, systemd | Plugins and bridges between messengers and an AI agent: [max-hermes-plugin](https://github.com/RuslanStrogov/max-hermes-plugin) ★9 · [max-hermes](https://github.com/RuslanStrogov/max-hermes) ★8 · [max-openclaw](https://github.com/RuslanStrogov/max-openclaw) ★4 · [max-shared](https://github.com/RuslanStrogov/max-shared) · [awesome-max-integrations](https://github.com/RuslanStrogov/awesome-max-integrations) |
-| **Streaming & video** | TypeScript, Wowza, RTSP / HLS / WebRTC, MediaMTX, go2rtc, Angular | Streaming control panel, multi-camera operator dashboards, players with bitrate switching and multi-audio |
-| **Infrastructure & networks** | Linux, Docker, nginx, OpenWrt, WireGuard / L2TP, PowerShell, Bash, self-hosted runners | Hosting cluster with 30+ sites, network inventory and monitoring, router and Windows configs, backups and watchdogs |
-| **Data & automation** | Python, TypeScript, PostgreSQL, MySQL, MongoDB, Redis, Qdrant, scraping | Marketplace margin monitoring, social-media publishing, AI/ML market research — [super-ai-ru](https://github.com/RuslanStrogov/super-ai-ru) |
-| **Engineering frontend** | Angular 1.x → modern, NestJS, Nx, RxJS, Angular Material, Ionic, PostgreSQL | [robotics-core-ui](https://github.com/RuslanStrogov/robotics-core-ui) ★3 · [taxi-api-web-mobile](https://github.com/RuslanStrogov/taxi-api-web-mobile) · [nx-nest-angular-ionic](https://github.com/RuslanStrogov/nx-nest-angular-ionic) · [mi-band-watchface-editor-material](https://github.com/RuslanStrogov/mi-band-watchface-editor-material) · [brom-casino](https://github.com/RuslanStrogov/brom-casino) |
-| **Chrome extensions** | JavaScript, TypeScript, Manifest V3 | [chrome-roonyx](https://github.com/RuslanStrogov/chrome-roonyx) — content filtering; a second extension (AI new-tab panel) is private |
-| **Embedded & hardware** | C/C++, Arduino, Raspberry Pi, serial, Python | [com-pinger](https://github.com/RuslanStrogov/com-pinger) ★4 · [robot-catty](https://github.com/RuslanStrogov/robot-catty) ★1 |
-
----
-
 <table>
 <tr>
 <td valign="top" width="58%">
