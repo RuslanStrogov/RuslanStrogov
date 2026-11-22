@@ -3,11 +3,9 @@
 </div>
 
 <div align="center">
-  <a href="tel:+796****2820"><img src="https://img.shields.io/badge/📞_Call-238636?style=flat-square&logo=phone&logoColor=white" alt="Phone"/></a>
-  <a href="mailto:ruslan@strogov.com"><img src="https://img.shields.io/badge/Email-ruslan@strogov.com-8B5CF6?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://t.me/brombombom"><img src="https://img.shields.io/badge/Telegram-@brombombom-26A5E4?style=flat-square&logo=telegram&logoColor=white" alt="Telegram"/></a>
-  <a href="https://strogov.com"><img src="https://img.shields.io/badge/Website-strogov.com-06B6D4?style=flat-square&logo=google-chrome&logoColor=white" alt="Website"/></a>
-  <a href="https://hh.ru/resume/806cdf03ff1033cacf0039ed1f6961667a4957"><img src="https://img.shields.io/badge/HH-Resume-FF4D4D?style=flat-square" alt="HH"/></a>
+  <a href="https://t.me/brombombom"><img src="https://img.shields.io/badge/Telegram-@brombombom-26A5E4?style=flat-square&logo=telegram&logoColor=white&labelColor=26A5E4" alt="Telegram"/></a>
+  <a href="mailto:ruslan@strogov.com"><img src="https://img.shields.io/badge/Email-ruslan@strogov.com-8B5CF6?style=flat-square&logo=gmail&logoColor=white&labelColor=8B5CF6" alt="Email"/></a>
+  <a href="https://github.com/RuslanStrogov"><img src="https://img.shields.io/badge/GitHub-RuslanStrogov-181717?style=flat-square&logo=github&logoColor=white&labelColor=181717" alt="GitHub"/></a>
 </div>
 
 <br/>
@@ -181,41 +179,6 @@ Raspberry Pi + Arduino robot with a web control UI: servos, RGB LEDs, serial lin
 
 ---
 
-## 🏢 Organizations
-
-<table>
-<tr>
-<td align="center" width="50%">
-
-### 🚁 [StrelaBPLA](https://github.com/StrelaBPLA)
-INAV flight-control software and drone systems
-
-</td>
-<td align="center" width="50%">
-
-### 🚗 [auto-visor](https://github.com/auto-visor)
-AI vehicle detection and traffic analysis
-
-</td>
-</tr>
-<tr>
-<td align="center" width="50%">
-
-### 🏢 [IQ-Region](https://github.com/IQ-Region)
-Software solutions (IQ Region LLC)
-
-</td>
-<td align="center" width="50%">
-
-### 💻 [BM-Group-Software](https://github.com/BM-Group-Software)
-Nx monorepo, corporate software
-
-</td>
-</tr>
-</table>
-
----
-
 ## 💼 Experience
 
 > ### Software Engineer — POZ Progress JSC, Protvino
@@ -258,38 +221,32 @@ Nx monorepo, corporate software
 
 ## 🤝 Get in touch
 
-<div align="center">
+<p align="center">
+  <a href="tel:+796****2820"><img src="https://img.shields.io/badge/📞_Call-238636?style=for-the-badge&logo=phone&logoColor=white&labelColor=238636" alt="Phone"/></a>
+  <a href="https://t.me/brombombom"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white&labelColor=26A5E4" alt="Telegram"/></a>
+  <a href="mailto:ruslan@strogov.com"><img src="https://img.shields.io/badge/Email-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white&labelColor=8B5CF6" alt="Email"/></a>
+  <a href="https://github.com/RuslanStrogov"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" alt="GitHub"/></a>
+  <a href="https://hh.ru/resume/806cdf03ff1033cacf0039ed1f6961667a4957"><img src="https://img.shields.io/badge/HH_Resume-FF4D4D?style=for-the-badge&labelColor=FF4D4D" alt="HH"/></a>
+  <a href="https://linkedin.com/in/ruslanstrogov"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" alt="LinkedIn"/></a>
+</p>
 
-<a href="tel:+796****2820"><img src="https://img.shields.io/badge/📞_Call-238636?style=for-the-badge&logo=phone&logoColor=white"/></a>
-<a href="https://t.me/brombombom"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a>
-<a href="mailto:ruslan@strogov.com"><img src="https://img.shields.io/badge/Email-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://hh.ru/resume/806cdf03ff1033cacf0039ed1f6961667a4957"><img src="https://img.shields.io/badge/HH_Resume-FF4D4D?style=for-the-badge"/></a>
-<a href="https://linkedin.com/in/ruslanstrogov"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-
-<br/><br/>
-
-<a href="https://br-design.ru"><img src="https://img.shields.io/badge/BR%20DESIGN-br--design.ru-8B5CF6?style=for-the-badge&logo=dribbble&logoColor=white"/></a>
-<a href="https://strogov.com"><img src="https://img.shields.io/badge/STROGOV-strogov.com-06B6D4?style=for-the-badge&logo=globe&logoColor=white"/></a>
-<a href="https://t.me/itvpi"><img src="https://img.shields.io/badge/IT%20VPI-t.me%2Fitvpi-FF6B6B?style=for-the-badge&logo=telegram&logoColor=white"/></a>
-
-</div>
+<p align="center">
+  <a href="https://br-design.ru"><img src="https://img.shields.io/badge/BR_DESIGN-br--design.ru-8B5CF6?style=flat-square&logo=dribbble&logoColor=white&labelColor=8B5CF6" alt="BR-DESIGN"/></a>
+  <a href="https://strogov.com"><img src="https://img.shields.io/badge/STROGOV-strogov.com-06B6D4?style=flat-square&logo=globe&logoColor=white&labelColor=06B6D4" alt="strogov.com"/></a>
+  <a href="https://t.me/itvpi"><img src="https://img.shields.io/badge/IT_VPI-t.me/itvpi-FF6B6B?style=flat-square&logo=telegram&logoColor=white&labelColor=FF6B6B" alt="IT Vpiska"/></a>
+</p>
 
 ---
 
 ## 📊 Stats
 
 <div align="center">
-  <img src="https://github-readme-stats-swart-nine.vercel.app/api?username=RuslanStrogov&show_icons=true&count_private=true&include_all_commits=true&theme=catppuccin_mocha&hide_border=true&icon_color=0039A6&title_color=D52B1E" height="165" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats-swart-nine.vercel.app/api/top-langs/?username=RuslanStrogov&layout=compact&langs_count=8&theme=catppuccin_mocha&hide_border=true&card_width=350" height="165" alt="Top Languages"/>
-</div>
-
-<div align="center">
   <img src="https://streak-stats.demolab.com?user=RuslanStrogov&theme=catppuccin-mocha&hide_border=true" height="165" alt="Streak"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RuslanStrogov&theme=catppuccin_mocha&hide_border=true" width="100%" alt="Activity Summary"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RuslanStrogov&theme=catppuccin_mocha" height="165" alt="Top Languages"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RuslanStrogov&theme=react-dark&hide_border=true&bg_color=1e1e2e&color=D52B1E&line=0039A6&point=FFFFFF" width="100%" alt="Activity Graph"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RuslanStrogov&theme=catppuccin_mocha" width="100%" alt="Activity Summary"/>
 </div>
 
 ---
