@@ -179,43 +179,68 @@ Raspberry Pi + Arduino robot with a web control UI: servos, RGB LEDs, serial lin
 
 ---
 
+<table>
+<tr>
+<td valign="top" width="58%">
+
 ## 💼 Experience
 
-> ### Software Engineer — POZ Progress JSC, Protvino
-> **Sep 2026 — present**
->
-> Automation inside the enterprise MES/ACS loop on **MS SQL Server**: table and query design, query optimization. Maintaining and extending legacy **Visual FoxPro and C#** code: reading foreign code, delivering features, refactoring. Integration with external systems — document exchange with Kontur Diadok EDI, XML handling. Documentation and company engineering standards.
+> **Software Engineer** — POZ Progress JSC, Protvino<br/>
+> *Sep 2026 — present*<br/>
+> Automation inside the enterprise MES/ACS loop on **MS SQL Server**; legacy **C# and Visual FoxPro**; XML and EDI integrations.
 
-**Head of IT Department** — [IQ Region](https://iq-region.ru/) *(Jul 2025 — Mar 2026)*
-> IT strategy, development processes, team, contractors, budget.
-
-**Engineer** — [BIEM Group](https://bm-technology.ru/) *(Jul 2024 — Jul 2025)*
-> Electronics and instrumentation.
-
-**Software Developer** — [Strela Design Bureau](https://strela.ru/) *(Nov 2022 — Apr 2024)*
-> Defence and aerospace industry. NDA.
-
-**Lead Frontend Developer** — Projects & Web Innovations *(Jun 2021 — Dec 2022)*
-> Control panel for a Wowza Streaming Engine platform: Angular frontend, live channels, WebRTC/RTMP/HLS players with bitrate switching and multi-audio, layer-overlay configurator, embeddable widgets. Designed architecture and API (Swagger), ran tasks in Jira, wrote the Node.js/Express/Mongo backend.
-
-**Own business** — BR-DESIGN *(Jul 2021 — Feb 2024)*
-> Client websites and landing pages, design. A hosting server cluster on a high-speed uplink — 30+ client sites, still running.
+| Period | Role · company |
+|---|---|
+| 2025.07 — 2026.03 | Head of IT Department · IQ Region |
+| 2024.07 — 2025.07 | Engineer · BIEM Group |
+| 2022.11 — 2024.04 | Software Developer · Strela Design Bureau (NDA) |
+| 2021.06 — 2022.12 | Lead Frontend · Projects & Web Innovations |
+| 2021.07 — 2024.02 | Own business · BR-DESIGN |
+| 2017.06 — 2018.04 | Software Engineer · transport monitoring |
+| 2014.11 — 2016.05 | Lead Frontend · Sitronics KASU JSC |
+| 2011 — 2014 | IT Director |
+| 2009 — 2011 | Web designer → web programmer |
 
 <details>
-<summary><b>More: 2014–2018 and the early years</b></summary>
+<summary><b>Details on key projects</b></summary>
 
-<br/>
+**Wowza streaming** *(2021–2022)* — control panel: live channels, WebRTC/RTMP/HLS players with bitrate switching and multi-audio, layer-overlay configurator, embeddable widgets. Architecture and API (Swagger), Node.js/Express/Mongo.
 
-**Software Engineer** — transport monitoring *(Jun 2017 — Apr 2018)*
-> Angular 2 + Mapbox GL + Three.js + WebSocket, Loopback + MySQL.
+**Hosting cluster** *(2021–2024)* — BR-DESIGN: 30+ client sites, still running.
 
-**Lead Frontend Developer** — Sitronics KASU JSC *(Nov 2014 — May 2016)*
-> Situation centre: 20,000+ objects on Leaflet canvas, PTZ cameras, Fabric.js animation.
+**Situation centre** *(2014–2016)* — 20,000+ objects on Leaflet canvas, PTZ cameras, Fabric.js animation.
 
-**Earlier**
-> 2011–2014 — IT director. 2009–2011 — from web design to web programming. Plus embedded: microcontrollers, Arduino/Raspberry Pi, on-board hardware, on-site commissioning, 3D printing.
+**Transport monitoring** *(2017–2018)* — Angular 2 + Mapbox GL + Three.js + WebSocket, Loopback + MySQL.
+
+**Embedded** — microcontrollers, Arduino/Raspberry Pi, on-board hardware, on-site commissioning, 3D printing.
 
 </details>
+
+</td>
+<td valign="top" width="42%">
+
+## 📄 Resumes on hh.ru
+
+**13 years 6 months** of experience · 14 entries · 28 skills · visible to employers
+
+| Resume | Expectation |
+|---|---|
+| [Fullstack developer](https://hh.ru/resume/806cdf03ff1033cacf0039ed1f6961667a4957) | 220 000 ₽ |
+| [Backend Node.js / NestJS](https://hh.ru/resume/a9852280ff116f2f990039ed1f514947566c51) | 220 000 ₽ |
+| [AI/LLM engineer](https://hh.ru/resume/80e49314ff116f2ff70039ed1f6f3878646234) | 220 000 ₽ |
+| [Frontend Angular](https://hh.ru/resume/77e0c2f9ff116f30150039ed1f4a4441674178) | 200 000 ₽ |
+| [Software engineer · integrations, embedded](https://hh.ru/resume/19266b3dff116f30370039ed1f316d5830786d) | 150 000 ₽ |
+
+📍 Kremyonki (south of Moscow area) · remote · Moscow / Moscow region — only with full relocation covered by the employer<br/>
+🎓 MGUPI, Information Systems in Economics, 2009 · 🗣️ Russian (native), English (B2)<br/>
+🖼️ 6 portfolio works on hh — project screenshots<br/>
+🔐 resume links open inside an hh.ru account
+
+<p align="center"><a href="https://hh.ru/applicant/resumes"><img src="https://img.shields.io/badge/hh.ru-all_resumes-FF4D4D?style=flat-square&labelColor=FF4D4D" alt="hh.ru"/></a></p>
+
+</td>
+</tr>
+</table>
 
 ---
 
