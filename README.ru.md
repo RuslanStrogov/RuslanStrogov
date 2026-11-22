@@ -112,19 +112,6 @@
 
 ---
 
-## 📊 Статистика GitHub
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RuslanStrogov&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=8B5CF6&icon_color=06B6D4&text_color=c9d1d9&count_private=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RuslanStrogov&theme=radical&hide_border=true&bg_color=0d1117&title_color=8B5CF6&text_color=c9d1d9&layout=compact&count_private=true" alt="Top Languages" height="165"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RuslanStrogov&theme=radical&hide_border=true&background=0d1117&stroke=8B5CF6&ring=F59E0B&fire=EF4444&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=c9d1d9&sideLabels=8B949E&dates=8B949E" alt="GitHub Streak"/>
-</div>
-
----
-
 ## 🏆 Избранные проекты
 
 <div align="center">

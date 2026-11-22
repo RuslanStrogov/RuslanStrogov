@@ -299,16 +299,6 @@ Moscow / Moscow region — only with full relocation covered by the employer<br/
 
 ---
 
-## 🎬 How my setup runs
-
-<div align="center">
-  <img src="assets/terminal.gif" width="700" loading="lazy" alt="hermes — agent ops: AI agents, bots, local inference"/>
-  <br/>
-  <sub>AI agents, bots and local inference — the everyday loop: gateway status to push into main</sub>
-</div>
-
----
-
 ## 🤝 Get in touch
 
 <p align="center">
