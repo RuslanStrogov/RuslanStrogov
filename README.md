@@ -17,6 +17,28 @@
 
 </div>
 
+## 🧭 Технологии и направления
+
+Всего **47 репозиториев** — 23 публичных и 24 приватных. Приватные — рабочие и инфраструктурные проекты: код закрыт, стек тот же.
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=py,ts,js,cs,go,cpp,c,nestjs,nodejs&theme=dark&perline=9" height="36" alt="Python, TypeScript, JavaScript, C#, Go, C++, C, NestJS, Node.js"/><br/>
+  <img src="https://skillicons.dev/icons?i=angular,rxjs,react,nextjs,svelte,postgres,redis,mongodb,mysql&theme=dark&perline=9" height="36" alt="Angular, RxJS, React, Next.js, Svelte, PostgreSQL, Redis, MongoDB, MySQL"/><br/>
+  <img src="https://skillicons.dev/icons?i=docker,nginx,linux,bash,powershell,git,kubernetes,githubactions,arduino&theme=dark&perline=9" height="36" alt="Docker, nginx, Linux, Bash, PowerShell, Git, Kubernetes, GitHub Actions, Arduino"/>
+</div>
+
+| Направление | Технологии | Что сделано |
+|---|---|---|
+| <img src="https://skillicons.dev/icons?i=py,ts,docker,linux&theme=dark&perline=4" height="20" alt=""/><br/>**AI-агенты и боты** | Python, TypeScript, Bot API (Telegram / MAX / VK), webhook, long polling, inline-клавиатуры, Docker, systemd | Плагины и мосты «мессенджер ↔ AI-агент»: [max-hermes-plugin](https://github.com/RuslanStrogov/max-hermes-plugin) ★9 · [max-hermes](https://github.com/RuslanStrogov/max-hermes) ★8 · [max-openclaw](https://github.com/RuslanStrogov/max-openclaw) ★4 · [max-shared](https://github.com/RuslanStrogov/max-shared) · [awesome-max-integrations](https://github.com/RuslanStrogov/awesome-max-integrations) |
+| <img src="https://skillicons.dev/icons?i=ts,angular,nodejs,nginx&theme=dark&perline=4" height="20" alt=""/><br/>**Стриминг и видео** | TypeScript, Wowza, RTSP / HLS / WebRTC, MediaMTX, go2rtc, Angular | Панель управления потоковым вещанием, мульти-камерные панели оператора, плееры с переключением битрейта и мульти-аудио |
+| <img src="https://skillicons.dev/icons?i=linux,docker,nginx,bash&theme=dark&perline=4" height="20" alt=""/><br/>**Инфраструктура и сети** | Linux, Docker, nginx, OpenWrt, WireGuard / L2TP, PowerShell, Bash, self-hosted runners | Кластер хостинга 30+ сайтов, инвентаризация и мониторинг сети, конфиги роутеров и Windows, бэкапы и вотчдоги |
+| <img src="https://skillicons.dev/icons?i=py,postgres,redis,mongodb&theme=dark&perline=4" height="20" alt=""/><br/>**Данные и автоматизация** | Python, TypeScript, PostgreSQL, MySQL, MongoDB, Redis, Qdrant, парсинг | Мониторинг маржинальности маркетплейсов, публикация контента в соцсети, аналитика AI/ML-рынка — [super-ai-ru](https://github.com/RuslanStrogov/super-ai-ru) |
+| <img src="https://skillicons.dev/icons?i=angular,rxjs,ts,postgres&theme=dark&perline=4" height="20" alt=""/><br/>**Инженерный фронтенд** | Angular 1.x → современные, NestJS, Nx, RxJS, Angular Material, Ionic, PostgreSQL | [robotics-core-ui](https://github.com/RuslanStrogov/robotics-core-ui) ★3 · [taxi-api-web-mobile](https://github.com/RuslanStrogov/taxi-api-web-mobile) · [nx-nest-angular-ionic](https://github.com/RuslanStrogov/nx-nest-angular-ionic) · [mi-band-watchface-editor-material](https://github.com/RuslanStrogov/mi-band-watchface-editor-material) · [brom-casino](https://github.com/RuslanStrogov/brom-casino) |
+| <img src="https://skillicons.dev/icons?i=js,ts,githubactions&theme=dark&perline=3" height="20" alt=""/><br/>**Chrome-расширения** | JavaScript, TypeScript, Manifest V3 | [chrome-roonyx](https://github.com/RuslanStrogov/chrome-roonyx) — фильтрация контента; второе расширение (AI-панель новой вкладки) — приватное |
+| <img src="https://skillicons.dev/icons?i=cpp,c,arduino,raspberrypi&theme=dark&perline=4" height="20" alt=""/><br/>**Embedded и железо** | C/C++, Arduino, Raspberry Pi, serial, Python | [com-pinger](https://github.com/RuslanStrogov/com-pinger) ★4 · [robot-catty](https://github.com/RuslanStrogov/robot-catty) ★1 |
+
+---
+
 ## 👋 Кто я
 
 **Fullstack-разработчик (TypeScript) · AI-агенты и интеграции · enterprise-автоматизация**
@@ -160,22 +182,6 @@ Chrome-расширение: блокировка и фильтрация кон
 </td>
 </tr>
 </table>
-
----
-
-## 🧭 Технологии и направления
-
-Всего **47 репозиториев** — 23 публичных и 24 приватных. Приватные — рабочие и инфраструктурные проекты: код закрыт, стек тот же.
-
-| Направление | Технологии | Что сделано |
-|---|---|---|
-| **AI-агенты и боты** | Python, TypeScript, Bot API (Telegram / MAX / VK), webhook, long polling, inline-клавиатуры, Docker, systemd | Плагины и мосты «мессенджер ↔ AI-агент»: [max-hermes-plugin](https://github.com/RuslanStrogov/max-hermes-plugin) ★9 · [max-hermes](https://github.com/RuslanStrogov/max-hermes) ★8 · [max-openclaw](https://github.com/RuslanStrogov/max-openclaw) ★4 · [max-shared](https://github.com/RuslanStrogov/max-shared) · [awesome-max-integrations](https://github.com/RuslanStrogov/awesome-max-integrations) |
-| **Стриминг и видео** | TypeScript, Wowza, RTSP / HLS / WebRTC, MediaMTX, go2rtc, Angular | Панель управления потоковым вещанием, мульти-камерные панели оператора, плееры с переключением битрейта и мульти-аудио |
-| **Инфраструктура и сети** | Linux, Docker, nginx, OpenWrt, WireGuard / L2TP, PowerShell, Bash, self-hosted runners | Кластер хостинга 30+ сайтов, инвентаризация и мониторинг сети, конфиги роутеров и Windows, бэкапы и вотчдоги |
-| **Данные и автоматизация** | Python, TypeScript, PostgreSQL, MySQL, MongoDB, Redis, Qdrant, парсинг | Мониторинг маржинальности маркетплейсов, публикация контента в соцсети, аналитика AI/ML-рынка — [super-ai-ru](https://github.com/RuslanStrogov/super-ai-ru) |
-| **Инженерный фронтенд** | Angular 1.x → современные, NestJS, Nx, RxJS, Angular Material, Ionic, PostgreSQL | [robotics-core-ui](https://github.com/RuslanStrogov/robotics-core-ui) ★3 · [taxi-api-web-mobile](https://github.com/RuslanStrogov/taxi-api-web-mobile) · [nx-nest-angular-ionic](https://github.com/RuslanStrogov/nx-nest-angular-ionic) · [mi-band-watchface-editor-material](https://github.com/RuslanStrogov/mi-band-watchface-editor-material) · [brom-casino](https://github.com/RuslanStrogov/brom-casino) |
-| **Chrome-расширения** | JavaScript, TypeScript, Manifest V3 | [chrome-roonyx](https://github.com/RuslanStrogov/chrome-roonyx) — фильтрация контента; второе расширение (AI-панель новой вкладки) — приватное |
-| **Embedded и железо** | C/C++, Arduino, Raspberry Pi, serial, Python | [com-pinger](https://github.com/RuslanStrogov/com-pinger) ★4 · [robot-catty](https://github.com/RuslanStrogov/robot-catty) ★1 |
 
 ---
 
