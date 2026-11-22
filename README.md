@@ -8,15 +8,6 @@
   <a href="https://github.com/RuslanStrogov"><img src="https://img.shields.io/badge/GitHub-RuslanStrogov-181717?style=flat-square&logo=github&logoColor=white&labelColor=181717" alt="GitHub"/></a>
 </div>
 
-<br/>
-
-<div align="center">
-
-| <div align="center">**47**<br/><sub>репозиториев</sub></div> | <div align="center">**982**<br/><sub>коммита</sub></div> | <div align="center">**74**<br/><sub>PR</sub></div> | <div align="center">**34**<br/><sub>звёзд</sub></div> |
-|:---:|:---:|:---:|:---:|
-
-</div>
-
 ## 🧭 Технологии и направления
 
 Всего **47 репозиториев** — 23 публичных и 24 приватных. Приватные — рабочие и инфраструктурные проекты: код закрыт, стек тот же.
@@ -339,6 +330,13 @@ Chrome-расширение: блокировка и фильтрация кон
 ---
 
 ## 📊 Статистика
+
+<p align="center">
+  <img src="https://img.shields.io/badge/%D1%80%D0%B5%D0%BF%D0%BE%D0%B7%D0%B8%D1%82%D0%BE%D1%80%D0%B8%D0%B8-47-0039A6?style=for-the-badge&labelColor=0B1B33&logo=github&logoColor=white" alt="47 репозиториев"/>
+  <img src="https://img.shields.io/badge/%D0%BA%D0%BE%D0%BC%D0%BC%D0%B8%D1%82%D1%8B-982-D52B1E?style=for-the-badge&labelColor=0B1B33&logo=git&logoColor=white" alt="982 коммита"/>
+  <img src="https://img.shields.io/badge/PR-74-0039A6?style=for-the-badge&labelColor=0B1B33" alt="74 PR"/>
+  <img src="https://img.shields.io/badge/%D0%B7%D0%B2%D1%91%D0%B7%D0%B4%D1%8B-34-D52B1E?style=for-the-badge&labelColor=0B1B33" alt="34 звезды"/>
+</p>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=RuslanStrogov&theme=catppuccin-mocha&hide_border=true" height="165" alt="Streak"/>

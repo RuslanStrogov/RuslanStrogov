@@ -8,15 +8,6 @@
   <a href="https://github.com/RuslanStrogov"><img src="https://img.shields.io/badge/GitHub-RuslanStrogov-181717?style=flat-square&logo=github&logoColor=white&labelColor=181717" alt="GitHub"/></a>
 </div>
 
-<br/>
-
-<div align="center">
-
-| <div align="center">**47**<br/><sub>repositories</sub></div> | <div align="center">**982**<br/><sub>commits</sub></div> | <div align="center">**74**<br/><sub>PR</sub></div> | <div align="center">**34**<br/><sub>stars</sub></div> |
-|:---:|:---:|:---:|:---:|
-
-</div>
-
 ## 🧭 Technologies and areas
 
 **47 repositories** in total — 23 public and 24 private. The private ones are production and infrastructure work: code is closed, the stack is the same.
@@ -338,6 +329,13 @@ Moscow / Moscow region — only with full relocation covered by the employer<br/
 ---
 
 ## 📊 Stats
+
+<p align="center">
+  <img src="https://img.shields.io/badge/repositories-47-0039A6?style=for-the-badge&labelColor=0B1B33&logo=github&logoColor=white" alt="47 repositories"/>
+  <img src="https://img.shields.io/badge/commits-982-D52B1E?style=for-the-badge&labelColor=0B1B33&logo=git&logoColor=white" alt="982 commits"/>
+  <img src="https://img.shields.io/badge/PR-74-0039A6?style=for-the-badge&labelColor=0B1B33" alt="74 PR"/>
+  <img src="https://img.shields.io/badge/stars-34-D52B1E?style=for-the-badge&labelColor=0B1B33" alt="34 stars"/>
+</p>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=RuslanStrogov&theme=catppuccin-mocha&hide_border=true" height="165" alt="Streak"/>
